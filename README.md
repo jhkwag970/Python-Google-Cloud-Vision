@@ -1,6 +1,31 @@
 # Python-Google-Cloud-Vision
 Python for Google Cloud Vision OCR for Image Folder Organizer
 
+<h4>Entity Annotation Image Response JSON</h4>
+
+```
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/0199g",
+          "description": "Bicycle",
+          "score": 0.96705616,
+          "topicality": 0.96705616
+        },
+        {
+          "mid": "/m/0h9mv",
+          "description": "Tire",
+          "score": 0.9641615,
+          "topicality": 0.9641615
+        }
+      ]
+    }
+  ]
+}
+```
+
 <h4>Credential</h4>
 
 <ul>
