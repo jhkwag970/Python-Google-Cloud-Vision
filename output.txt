@@ -1,0 +1,7502 @@
+Open up Google Cloud Client Connection...
+['1497701129936.jpg', [mid: "/m/01bqvp"
+description: "Sky"
+score: 0.958804786
+topicality: 0.958804786
+, mid: "/m/09nm_"
+description: "World"
+score: 0.895594895
+topicality: 0.895594895
+, mid: "/m/08g_yr"
+description: "Temple"
+score: 0.875922859
+topicality: 0.875922859
+, mid: "/m/0cgh4"
+description: "Building"
+score: 0.867531061
+topicality: 0.867531061
+, mid: "/m/05s2s"
+description: "Plant"
+score: 0.802945375
+topicality: 0.802945375
+, mid: "/m/07j7r"
+description: "Tree"
+score: 0.791143775
+topicality: 0.791143775
+, mid: "/m/04g3r"
+description: "Leisure"
+score: 0.78276211
+topicality: 0.78276211
+, mid: "/m/014dsx"
+description: "Travel"
+score: 0.757375896
+topicality: 0.757375896
+, mid: "/m/06bm2"
+description: "Recreation"
+score: 0.726579726
+topicality: 0.726579726
+, mid: "/m/01n32"
+description: "City"
+score: 0.701720953
+topicality: 0.701720953
+], '1515760417568.jpg', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.948877215
+topicality: 0.948877215
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.876145482
+topicality: 0.876145482
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.87065959
+topicality: 0.87065959
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.808330297
+topicality: 0.808330297
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.781333268
+topicality: 0.781333268
+, mid: "/m/05mqq3"
+description: "Snout"
+score: 0.728716433
+topicality: 0.728716433
+, mid: "/m/017y8_"
+description: "Terrier"
+score: 0.664873183
+topicality: 0.664873183
+, mid: "/m/07_gml"
+description: "Working animal"
+score: 0.659971416
+topicality: 0.659971416
+, mid: "/m/0fcp14"
+description: "Shih-poo"
+score: 0.650713444
+topicality: 0.650713444
+, mid: "/m/02fxg8"
+description: "Labradoodle"
+score: 0.639364302
+topicality: 0.639364302
+], '1529663146732.jpg', [mid: "/m/01bqvp"
+description: "Sky"
+score: 0.958966196
+topicality: 0.958966196
+, mid: "/m/0csby"
+description: "Cloud"
+score: 0.942620873
+topicality: 0.942620873
+, mid: "/m/0cblv"
+description: "Ecoregion"
+score: 0.921166301
+topicality: 0.921166301
+, mid: "/m/07j7r"
+description: "Tree"
+score: 0.858541906
+topicality: 0.858541906
+, mid: "/m/014dsx"
+description: "Travel"
+score: 0.801879585
+topicality: 0.801879585
+, mid: "/m/0308t8"
+description: "Bedrock"
+score: 0.799821675
+topicality: 0.799821675
+, mid: "/m/03k5cs"
+description: "Formation"
+score: 0.798010528
+topicality: 0.798010528
+, mid: "/m/025s3q0"
+description: "Landscape"
+score: 0.789715171
+topicality: 0.789715171
+, mid: "/j/3gbwgn"
+description: "People in nature"
+score: 0.787041068
+topicality: 0.787041068
+, mid: "/m/016pp7"
+description: "Happy"
+score: 0.783504605
+topicality: 0.783504605
+], '1529663171689.jpg', [mid: "/m/0jyfg"
+description: "Glasses"
+score: 0.975134075
+topicality: 0.975134075
+, mid: "/m/04k84"
+description: "Light"
+score: 0.913149655
+topicality: 0.913149655
+, mid: "/m/019sc"
+description: "Black"
+score: 0.895340681
+topicality: 0.895340681
+, mid: "/m/0dgw9r"
+description: "Human"
+score: 0.888886869
+topicality: 0.888886869
+, mid: "/m/0jc_p"
+description: "Orange"
+score: 0.883785069
+topicality: 0.883785069
+, mid: "/m/08g_yr"
+description: "Temple"
+score: 0.877685249
+topicality: 0.877685249
+, mid: "/m/0h8jxfl"
+description: "Vision care"
+score: 0.876910627
+topicality: 0.876910627
+, mid: "/m/019sc6"
+description: "Lighting"
+score: 0.865944386
+topicality: 0.865944386
+, mid: "/m/02wzbmj"
+description: "Standing"
+score: 0.864216566
+topicality: 0.864216566
+, mid: "/m/01jfsr"
+description: "Lantern"
+score: 0.832320333
+topicality: 0.832320333
+], '1541185017207.jpg', [mid: "/m/04d01f"
+description: "Amber"
+score: 0.88930738
+topicality: 0.88930738
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.842169762
+topicality: 0.842169762
+, mid: "/m/0jjw"
+description: "Art"
+score: 0.774907053
+topicality: 0.774907053
+, mid: "/m/0f28m"
+description: "Symmetry"
+score: 0.767865241
+topicality: 0.767865241
+, mid: "/m/03gfsp"
+description: "Ceiling"
+score: 0.710529685
+topicality: 0.710529685
+, mid: "/m/04yhpc"
+description: "Molding"
+score: 0.710507393
+topicality: 0.710507393
+, mid: "/m/01sqnx"
+description: "Byzantine architecture"
+score: 0.697495043
+topicality: 0.697495043
+, mid: "/m/065zs54"
+description: "Holy places"
+score: 0.686829448
+topicality: 0.686829448
+, mid: "/m/0d4vn"
+description: "Hall"
+score: 0.684921503
+topicality: 0.684921503
+, mid: "/m/01ht1r"
+description: "Medieval architecture"
+score: 0.6845842
+topicality: 0.6845842
+], '1541185033840.jpg', [mid: "/m/0cgh4"
+description: "Building"
+score: 0.958671927
+topicality: 0.958671927
+, mid: "/m/09nm_"
+description: "World"
+score: 0.871152937
+topicality: 0.871152937
+, mid: "/m/01fdzj"
+description: "Tower"
+score: 0.827103198
+topicality: 0.827103198
+, mid: "/m/01bqvp"
+description: "Sky"
+score: 0.816803336
+topicality: 0.816803336
+, mid: "/m/07j7r"
+description: "Tree"
+score: 0.805622876
+topicality: 0.805622876
+, mid: "/m/079cl"
+description: "Skyscraper"
+score: 0.80501771
+topicality: 0.80501771
+, mid: "/m/034z7h"
+description: "Cityscape"
+score: 0.797597706
+topicality: 0.797597706
+, mid: "/m/0vlys"
+description: "Tower block"
+score: 0.792112648
+topicality: 0.792112648
+, mid: "/m/01kv7h"
+description: "Midnight"
+score: 0.78918612
+topicality: 0.78918612
+, mid: "/m/01n32"
+description: "City"
+score: 0.762410104
+topicality: 0.762410104
+], '1541185039750.jpg', [mid: "/m/0cgh4"
+description: "Building"
+score: 0.953137338
+topicality: 0.953137338
+, mid: "/m/079cl"
+description: "Skyscraper"
+score: 0.945783257
+topicality: 0.945783257
+, mid: "/m/01fdzj"
+description: "Tower"
+score: 0.89663291
+topicality: 0.89663291
+, mid: "/m/01bqvp"
+description: "Sky"
+score: 0.875701904
+topicality: 0.875701904
+, mid: "/m/02lts"
+description: "Electricity"
+score: 0.859315395
+topicality: 0.859315395
+, mid: "/m/0vlys"
+description: "Tower block"
+score: 0.840055346
+topicality: 0.840055346
+, mid: "/m/09nm_"
+description: "World"
+score: 0.837199688
+topicality: 0.837199688
+, mid: "/m/034z7h"
+description: "Cityscape"
+score: 0.783037305
+topicality: 0.783037305
+, mid: "/m/01n32"
+description: "City"
+score: 0.778211176
+topicality: 0.778211176
+, mid: "/m/01kv7h"
+description: "Midnight"
+score: 0.733805597
+topicality: 0.733805597
+], '1541263222176.jpg', [mid: "/m/03k5cs"
+description: "Formation"
+score: 0.788059473
+topicality: 0.788059473
+, mid: "/m/03gq5hm"
+description: "Font"
+score: 0.781938076
+topicality: 0.781938076
+, mid: "/m/07sn5gn"
+description: "Geological phenomenon"
+score: 0.771994174
+topicality: 0.771994174
+, mid: "/m/0jjw"
+description: "Art"
+score: 0.752181113
+topicality: 0.752181113
+, mid: "/m/036hv"
+description: "Geology"
+score: 0.696973741
+topicality: 0.696973741
+, mid: "/m/01cbzq"
+description: "Rock"
+score: 0.67183584
+topicality: 0.67183584
+, mid: "/m/03k2v"
+description: "Heat"
+score: 0.659514785
+topicality: 0.659514785
+, mid: "/m/025s3q0"
+description: "Landscape"
+score: 0.639386058
+topicality: 0.639386058
+, mid: "/m/03r18y"
+description: "Peach"
+score: 0.632962406
+topicality: 0.632962406
+, mid: "/m/05t_yt"
+description: "Carmine"
+score: 0.622934341
+topicality: 0.622934341
+], '1548577305998.jpg', [mid: "/m/0838f"
+description: "Water"
+score: 0.955886126
+topicality: 0.955886126
+, mid: "/m/01bqvp"
+description: "Sky"
+score: 0.951127291
+topicality: 0.951127291
+, mid: "/m/09d_r"
+description: "Mountain"
+score: 0.920429051
+topicality: 0.920429051
+, mid: "/m/03d28y3"
+description: "Natural landscape"
+score: 0.890475094
+topicality: 0.890475094
+, mid: "/m/0308t8"
+description: "Bedrock"
+score: 0.860393524
+topicality: 0.860393524
+, mid: "/m/02hlj8"
+description: "Oxbow lake"
+score: 0.85584563
+topicality: 0.85584563
+, mid: "/m/025tn5c"
+description: "Terrain"
+score: 0.822509825
+topicality: 0.822509825
+, mid: "/m/019gvf"
+description: "Fluvial landforms of streams"
+score: 0.815569401
+topicality: 0.815569401
+, mid: "/g/11jxkqbpp"
+description: "Mountainous landforms"
+score: 0.797495067
+topicality: 0.797495067
+, mid: "/m/03k5cs"
+description: "Formation"
+score: 0.787873685
+topicality: 0.787873685
+], '1548577318017.jpg', [mid: "/m/01bqvp"
+description: "Sky"
+score: 0.966334164
+topicality: 0.966334164
+, mid: "/m/07yv9"
+description: "Vehicle"
+score: 0.942269683
+topicality: 0.942269683
+, mid: "/m/02df64"
+description: "Hood"
+score: 0.917666674
+topicality: 0.917666674
+, mid: "/m/05s2s"
+description: "Plant"
+score: 0.91491133
+topicality: 0.91491133
+, mid: "/m/0768fx"
+description: "Automotive lighting"
+score: 0.910748661
+topicality: 0.910748661
+, mid: "/m/012f08"
+description: "Motor vehicle"
+score: 0.89281714
+topicality: 0.89281714
+, mid: "/m/0k4j"
+description: "Car"
+score: 0.889683485
+topicality: 0.889683485
+, mid: "/g/1tr17zw8"
+description: "Flash photography"
+score: 0.882470548
+topicality: 0.882470548
+, mid: "/m/068mqj"
+description: "Automotive design"
+score: 0.880744576
+topicality: 0.880744576
+, mid: "/m/06z0n"
+description: "Sunlight"
+score: 0.849508703
+topicality: 0.849508703
+], '1548577329527.jpg', [mid: "/m/01bqvp"
+description: "Sky"
+score: 0.967330039
+topicality: 0.967330039
+, mid: "/m/05s2s"
+description: "Plant"
+score: 0.959069192
+topicality: 0.959069192
+, mid: "/m/0k4j"
+description: "Car"
+score: 0.938672066
+topicality: 0.938672066
+, mid: "/m/0cblv"
+description: "Ecoregion"
+score: 0.927620828
+topicality: 0.927620828
+, mid: "/m/07yv9"
+description: "Vehicle"
+score: 0.905626655
+topicality: 0.905626655
+, mid: "/m/01k0mv"
+description: "Road surface"
+score: 0.885347068
+topicality: 0.885347068
+, mid: "/m/0hr8"
+description: "Asphalt"
+score: 0.868888
+topicality: 0.868888
+, mid: "/m/079bkr"
+description: "Mode of transport"
+score: 0.860276759
+topicality: 0.860276759
+, mid: "/m/0h8lk4b"
+description: "Automotive mirror"
+score: 0.847485065
+topicality: 0.847485065
+, mid: "/m/012f08"
+description: "Motor vehicle"
+score: 0.844697416
+topicality: 0.844697416
+], '1548577339759.jpg', [mid: "/m/01bqvp"
+description: "Sky"
+score: 0.976792097
+topicality: 0.976792097
+, mid: "/m/0csby"
+description: "Cloud"
+score: 0.976430058
+topicality: 0.976430058
+, mid: "/m/03d28y3"
+description: "Natural landscape"
+score: 0.882953167
+topicality: 0.882953167
+, mid: "/m/09d_r"
+description: "Mountain"
+score: 0.841505587
+topicality: 0.841505587
+, mid: "/m/0308t8"
+description: "Bedrock"
+score: 0.829277694
+topicality: 0.829277694
+, mid: "/m/03k5cs"
+description: "Formation"
+score: 0.79348439
+topicality: 0.79348439
+, mid: "/m/025s3q0"
+description: "Landscape"
+score: 0.782875657
+topicality: 0.782875657
+, mid: "/m/0khdk"
+description: "Natural arch"
+score: 0.704286933
+topicality: 0.704286933
+, mid: "/m/01cbzq"
+description: "Rock"
+score: 0.671848893
+topicality: 0.671848893
+, mid: "/m/0dpvm"
+description: "Arch"
+score: 0.654556572
+topicality: 0.654556572
+], '1548577368357.jpg', [mid: "/m/0csby"
+description: "Cloud"
+score: 0.982248545
+topicality: 0.982248545
+, mid: "/m/01bqvp"
+description: "Sky"
+score: 0.973798931
+topicality: 0.973798931
+, mid: "/m/09nm_"
+description: "World"
+score: 0.90080291
+topicality: 0.90080291
+, mid: "/m/0244x1"
+description: "Gesture"
+score: 0.852604866
+topicality: 0.852604866
+, mid: "/m/01jb4"
+description: "Biome"
+score: 0.831654906
+topicality: 0.831654906
+, mid: "/m/0jjw"
+description: "Art"
+score: 0.805338264
+topicality: 0.805338264
+, mid: "/m/014dsx"
+description: "Travel"
+score: 0.788418114
+topicality: 0.788418114
+, mid: "/m/04g3r"
+description: "Leisure"
+score: 0.787959456
+topicality: 0.787959456
+, mid: "/m/0ds99lh"
+description: "Fun"
+score: 0.785055757
+topicality: 0.785055757
+, mid: "/m/025s3q0"
+description: "Landscape"
+score: 0.781985223
+topicality: 0.781985223
+], '1548577372751.jpg', [mid: "/m/0csby"
+description: "Cloud"
+score: 0.976419866
+topicality: 0.976419866
+, mid: "/m/01bqvp"
+description: "Sky"
+score: 0.973404109
+topicality: 0.973404109
+, mid: "/m/05s2s"
+description: "Plant"
+score: 0.95696795
+topicality: 0.95696795
+, mid: "/m/03d28y3"
+description: "Natural landscape"
+score: 0.871039689
+topicality: 0.871039689
+, mid: "/j/3gbwgn"
+description: "People in nature"
+score: 0.825063646
+topicality: 0.825063646
+, mid: "/m/0csh5"
+description: "Cumulus"
+score: 0.796486676
+topicality: 0.796486676
+, mid: "/m/014dsx"
+description: "Travel"
+score: 0.790101647
+topicality: 0.790101647
+, mid: "/m/05sm1"
+description: "Plain"
+score: 0.784912169
+topicality: 0.784912169
+, mid: "/m/01c7cq"
+description: "Grassland"
+score: 0.781557858
+topicality: 0.781557858
+, mid: "/m/0d1n2"
+description: "Horizon"
+score: 0.763463438
+topicality: 0.763463438
+], '1548577377323.jpg', [mid: "/m/0cgh4"
+description: "Building"
+score: 0.825203717
+topicality: 0.825203717
+, mid: "/m/0f28m"
+description: "Symmetry"
+score: 0.778298318
+topicality: 0.778298318
+, mid: "/m/05_5t0l"
+description: "Landmark"
+score: 0.77675277
+topicality: 0.77675277
+, mid: "/m/01n32"
+description: "City"
+score: 0.773665547
+topicality: 0.773665547
+, mid: "/m/01jf71"
+description: "Arcade"
+score: 0.714297116
+topicality: 0.714297116
+, mid: "/m/0dpvm"
+description: "Arch"
+score: 0.696357071
+topicality: 0.696357071
+, mid: "/m/01_m7"
+description: "Column"
+score: 0.695714831
+topicality: 0.695714831
+, mid: "/m/01kyr8"
+description: "Darkness"
+score: 0.681434453
+topicality: 0.681434453
+, mid: "/m/02bqth"
+description: "Vault"
+score: 0.672724545
+topicality: 0.672724545
+, mid: "/m/01sqnx"
+description: "Byzantine architecture"
+score: 0.662344217
+topicality: 0.662344217
+], '1548577381769.jpg', [mid: "/m/0cgh4"
+description: "Building"
+score: 0.947276354
+topicality: 0.947276354
+, mid: "/m/04k84"
+description: "Light"
+score: 0.911061525
+topicality: 0.911061525
+, mid: "/m/079cl"
+description: "Skyscraper"
+score: 0.904026
+topicality: 0.904026
+, mid: "/m/05h0n"
+description: "Nature"
+score: 0.899534822
+topicality: 0.899534822
+, mid: "/m/01fdzj"
+description: "Tower"
+score: 0.894303322
+topicality: 0.894303322
+, mid: "/m/09nm_"
+description: "World"
+score: 0.819484472
+topicality: 0.819484472
+, mid: "/m/01bqvp"
+description: "Sky"
+score: 0.804983318
+topicality: 0.804983318
+, mid: "/m/02lts"
+description: "Electricity"
+score: 0.799961269
+topicality: 0.799961269
+, mid: "/m/05_5t0l"
+description: "Landmark"
+score: 0.779589653
+topicality: 0.779589653
+, mid: "/m/01kv7h"
+description: "Midnight"
+score: 0.774490356
+topicality: 0.774490356
+], '1548577390917.jpg', [mid: "/m/02wbm"
+description: "Food"
+score: 0.977122486
+topicality: 0.977122486
+, mid: "/m/04brg2"
+description: "Tableware"
+score: 0.905772686
+topicality: 0.905772686
+, mid: "/m/0119x1zy"
+description: "Bun"
+score: 0.861009061
+topicality: 0.861009061
+, mid: "/m/07xgrh"
+description: "Ingredient"
+score: 0.85415417
+topicality: 0.85415417
+, mid: "/m/0p57p"
+description: "Recipe"
+score: 0.850428164
+topicality: 0.850428164
+, mid: "/m/01ykh"
+description: "Cuisine"
+score: 0.813902617
+topicality: 0.813902617
+, mid: "/m/050gv4"
+description: "Plate"
+score: 0.802108049
+topicality: 0.802108049
+, mid: "/m/02q08p0"
+description: "Dish"
+score: 0.787277639
+topicality: 0.787277639
+, mid: "/m/01_bhs"
+description: "Fast food"
+score: 0.781228065
+topicality: 0.781228065
+, mid: "/m/036qh8"
+description: "Produce"
+score: 0.707289815
+topicality: 0.707289815
+], '1548577393081.jpg', [mid: "/m/09nm_"
+description: "World"
+score: 0.871919692
+topicality: 0.871919692
+, mid: "/m/081pkj"
+description: "Event"
+score: 0.735031307
+topicality: 0.735031307
+, mid: "/m/029zz6"
+description: "Display device"
+score: 0.726786554
+topicality: 0.726786554
+, mid: "/m/0h8mknb"
+description: "Stage equipment"
+score: 0.692070365
+topicality: 0.692070365
+, mid: "/m/03gq5hm"
+description: "Font"
+score: 0.670040965
+topicality: 0.670040965
+, mid: "/m/0bkqqh"
+description: "Signage"
+score: 0.653186798
+topicality: 0.653186798
+, mid: "/m/011s0"
+description: "Advertising"
+score: 0.646393478
+topicality: 0.646393478
+, mid: "/m/013s93"
+description: "T-shirt"
+score: 0.643415928
+topicality: 0.643415928
+, mid: "/m/0cgh4"
+description: "Building"
+score: 0.639855742
+topicality: 0.639855742
+, mid: "/m/0522cz4"
+description: "Electronic signage"
+score: 0.589601398
+topicality: 0.589601398
+], '1548577394055.jpg', [mid: "/m/083wq"
+description: "Wheel"
+score: 0.97583133
+topicality: 0.97583133
+, mid: "/m/0h9mv"
+description: "Tire"
+score: 0.975723147
+topicality: 0.975723147
+, mid: "/m/07yv9"
+description: "Vehicle"
+score: 0.948600292
+topicality: 0.948600292
+, mid: "/m/012f08"
+description: "Motor vehicle"
+score: 0.897601426
+topicality: 0.897601426
+, mid: "/m/0d4v4"
+description: "Window"
+score: 0.896225095
+topicality: 0.896225095
+, mid: "/m/07r04"
+description: "Truck"
+score: 0.875226915
+topicality: 0.875226915
+, mid: "/m/088fh"
+description: "Yellow"
+score: 0.855211318
+topicality: 0.855211318
+, mid: "/m/04s_6n"
+description: "Food truck"
+score: 0.829091609
+topicality: 0.829091609
+, mid: "/m/07j7r"
+description: "Tree"
+score: 0.81962
+topicality: 0.81962
+, mid: "/m/01bqvp"
+description: "Sky"
+score: 0.816447675
+topicality: 0.816447675
+], '1548577395617.jpg', [mid: "/m/02wbm"
+description: "Food"
+score: 0.986761451
+topicality: 0.986761451
+, mid: "/m/04brg2"
+description: "Tableware"
+score: 0.956984639
+topicality: 0.956984639
+, mid: "/m/0h8nvk9"
+description: "Dishware"
+score: 0.931508541
+topicality: 0.931508541
+, mid: "/m/07xgrh"
+description: "Ingredient"
+score: 0.912688553
+topicality: 0.912688553
+, mid: "/m/0hkxq"
+description: "Broccoli"
+score: 0.907394886
+topicality: 0.907394886
+, mid: "/m/0p57p"
+description: "Recipe"
+score: 0.880614
+topicality: 0.880614
+, mid: "/m/01ykh"
+description: "Cuisine"
+score: 0.863738954
+topicality: 0.863738954
+, mid: "/m/050gv4"
+description: "Plate"
+score: 0.854570687
+topicality: 0.854570687
+, mid: "/m/01bp4g"
+description: "Fines herbes"
+score: 0.8532691
+topicality: 0.8532691
+, mid: "/m/02q08p0"
+description: "Dish"
+score: 0.848593652
+topicality: 0.848593652
+], '1548577396701.jpg', [mid: "/m/0cgh4"
+description: "Building"
+score: 0.925765395
+topicality: 0.925765395
+, mid: "/m/02rfdq"
+description: "Interior design"
+score: 0.861778736
+topicality: 0.861778736
+, mid: "/m/068mqj"
+description: "Automotive design"
+score: 0.861498058
+topicality: 0.861498058
+, mid: "/m/027slhs"
+description: "Track lighting"
+score: 0.763982773
+topicality: 0.763982773
+, mid: "/m/03gfsp"
+description: "Ceiling"
+score: 0.737477422
+topicality: 0.737477422
+, mid: "/m/081pkj"
+description: "Event"
+score: 0.728686869
+topicality: 0.728686869
+, mid: "/m/0191_7"
+description: "Retail"
+score: 0.705220342
+topicality: 0.705220342
+, mid: "/m/06ht1"
+description: "Room"
+score: 0.687363684
+topicality: 0.687363684
+, mid: "/m/02lts"
+description: "Electricity"
+score: 0.682390451
+topicality: 0.682390451
+, mid: "/m/04t7l"
+description: "Metal"
+score: 0.668383181
+topicality: 0.668383181
+], '1548604327705.jpg', [mid: "/m/019nj4"
+description: "Smile"
+score: 0.983163178
+topicality: 0.983163178
+, mid: "/m/0jyfg"
+description: "Glasses"
+score: 0.972659647
+topicality: 0.972659647
+, mid: "/m/0k65p"
+description: "Hand"
+score: 0.958794
+topicality: 0.958794
+, mid: "/m/04bcr3"
+description: "Table"
+score: 0.933621228
+topicality: 0.933621228
+, mid: "/m/0h8jxfl"
+description: "Vision care"
+score: 0.896538556
+topicality: 0.896538556
+, mid: "/m/0j272k5"
+description: "Eyewear"
+score: 0.859835207
+topicality: 0.859835207
+, mid: "/m/0244x1"
+description: "Gesture"
+score: 0.852604866
+topicality: 0.852604866
+, mid: "/m/04brg2"
+description: "Tableware"
+score: 0.836710155
+topicality: 0.836710155
+, mid: "/m/013s93"
+description: "T-shirt"
+score: 0.791282296
+topicality: 0.791282296
+, mid: "/m/027xyl"
+description: "Baseball cap"
+score: 0.78140223
+topicality: 0.78140223
+], '1549299273142.jpg', [mid: "/m/0csby"
+description: "Cloud"
+score: 0.97501117
+topicality: 0.97501117
+, mid: "/m/01bqvp"
+description: "Sky"
+score: 0.970170081
+topicality: 0.970170081
+, mid: "/j/3gbwgn"
+description: "People in nature"
+score: 0.8756392
+topicality: 0.8756392
+, mid: "/m/01bfm9"
+description: "Shorts"
+score: 0.846060216
+topicality: 0.846060216
+, mid: "/m/014dsx"
+description: "Travel"
+score: 0.841124654
+topicality: 0.841124654
+, mid: "/m/016pp7"
+description: "Happy"
+score: 0.838273346
+topicality: 0.838273346
+, mid: "/j/148skd"
+description: "People on beach"
+score: 0.835204303
+topicality: 0.835204303
+, mid: "/m/04g3r"
+description: "Leisure"
+score: 0.78296864
+topicality: 0.78296864
+, mid: "/m/025s3q0"
+description: "Landscape"
+score: 0.778489
+topicality: 0.778489
+, mid: "/m/0d1n2"
+description: "Horizon"
+score: 0.761648297
+topicality: 0.761648297
+], '1549829037435.jpg', [mid: "/m/0csby"
+description: "Cloud"
+score: 0.97816205
+topicality: 0.97816205
+, mid: "/m/01bqvp"
+description: "Sky"
+score: 0.974325597
+topicality: 0.974325597
+, mid: "/m/05h0n"
+description: "Nature"
+score: 0.899295688
+topicality: 0.899295688
+, mid: "/m/03d28y3"
+description: "Natural landscape"
+score: 0.870357454
+topicality: 0.870357454
+, mid: "/m/09d_r"
+description: "Mountain"
+score: 0.807274282
+topicality: 0.807274282
+, mid: "/m/0308t8"
+description: "Bedrock"
+score: 0.798614919
+topicality: 0.798614919
+, mid: "/m/025s3q0"
+description: "Landscape"
+score: 0.782049477
+topicality: 0.782049477
+, mid: "/m/03k5cs"
+description: "Formation"
+score: 0.747060478
+topicality: 0.747060478
+, mid: "/m/01cbzq"
+description: "Rock"
+score: 0.683880627
+topicality: 0.683880627
+, mid: "/m/07cwvn"
+description: "Outcrop"
+score: 0.651087642
+topicality: 0.651087642
+], '1550289945120.jpg', [mid: "/m/0fly7"
+description: "Jeans"
+score: 0.968995631
+topicality: 0.968995631
+, mid: "/m/019nj4"
+description: "Smile"
+score: 0.967527
+topicality: 0.967527
+, mid: "/m/04bcr3"
+description: "Table"
+score: 0.907597244
+topicality: 0.907597244
+, mid: "/m/0d4v4"
+description: "Window"
+score: 0.893542767
+topicality: 0.893542767
+, mid: "/m/031b6r"
+description: "Window blind"
+score: 0.850670278
+topicality: 0.850670278
+, mid: "/m/06h12k"
+description: "Sharing"
+score: 0.840557456
+topicality: 0.840557456
+, mid: "/m/01b4q9"
+description: "Social group"
+score: 0.82757324
+topicality: 0.82757324
+, mid: "/m/0ds99lh"
+description: "Fun"
+score: 0.761993825
+topicality: 0.761993825
+, mid: "/m/021dfr"
+description: "Youth"
+score: 0.750885427
+topicality: 0.750885427
+, mid: "/m/081pkj"
+description: "Event"
+score: 0.746669233
+topicality: 0.746669233
+], '1558235169248.jpg', [mid: "/m/01bfm9"
+description: "Shorts"
+score: 0.926378787
+topicality: 0.926378787
+, mid: "/m/09t49"
+description: "Leaf"
+score: 0.901969612
+topicality: 0.901969612
+, mid: "/m/05h0n"
+description: "Nature"
+score: 0.901363432
+topicality: 0.901363432
+, mid: "/j/3gbwgn"
+description: "People in nature"
+score: 0.836349905
+topicality: 0.836349905
+, mid: "/m/01jb4"
+description: "Biome"
+score: 0.827034116
+topicality: 0.827034116
+, mid: "/m/02hnx9"
+description: "Woody plant"
+score: 0.804785669
+topicality: 0.804785669
+, mid: "/m/04g3r"
+description: "Leisure"
+score: 0.801675
+topicality: 0.801675
+, mid: "/m/014dsx"
+description: "Travel"
+score: 0.798254192
+topicality: 0.798254192
+, mid: "/m/07j7r"
+description: "Tree"
+score: 0.791284263
+topicality: 0.791284263
+, mid: "/m/06bm2"
+description: "Recreation"
+score: 0.760904551
+topicality: 0.760904551
+], '1558235171843.jpg', [mid: "/m/01bfm9"
+description: "Shorts"
+score: 0.948498547
+topicality: 0.948498547
+, mid: "/m/019nj4"
+description: "Smile"
+score: 0.945082188
+topicality: 0.945082188
+, mid: "/m/02py09"
+description: "Natural environment"
+score: 0.889400661
+topicality: 0.889400661
+, mid: "/m/01bwr"
+description: "Botany"
+score: 0.878941119
+topicality: 0.878941119
+, mid: "/m/05b0n7k"
+description: "Outdoor recreation"
+score: 0.837167442
+topicality: 0.837167442
+, mid: "/m/04g3r"
+description: "Leisure"
+score: 0.829729855
+topicality: 0.829729855
+, mid: "/m/01b4q9"
+description: "Social group"
+score: 0.821004808
+topicality: 0.821004808
+, mid: "/m/07j7r"
+description: "Tree"
+score: 0.813821495
+topicality: 0.813821495
+, mid: "/m/014dsx"
+description: "Travel"
+score: 0.810251
+topicality: 0.810251
+, mid: "/m/02hnx9"
+description: "Woody plant"
+score: 0.808643878
+topicality: 0.808643878
+], '1559010000800.jpg', [mid: "/m/01bqvp"
+description: "Sky"
+score: 0.976538599
+topicality: 0.976538599
+, mid: "/m/0838f"
+description: "Water"
+score: 0.973257
+topicality: 0.973257
+, mid: "/m/05s2s"
+description: "Plant"
+score: 0.9458974
+topicality: 0.9458974
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.862845242
+topicality: 0.862845242
+, mid: "/m/07j7r"
+description: "Tree"
+score: 0.845161378
+topicality: 0.845161378
+, mid: "/j/3gbwgn"
+description: "People in nature"
+score: 0.840316415
+topicality: 0.840316415
+, mid: "/m/0cp2d4k"
+description: "Outdoor furniture"
+score: 0.838657558
+topicality: 0.838657558
+, mid: "/m/04g3r"
+description: "Leisure"
+score: 0.806538522
+topicality: 0.806538522
+, mid: "/m/08t9c_"
+description: "Grass"
+score: 0.794493
+topicality: 0.794493
+, mid: "/m/04h4w"
+description: "Lake"
+score: 0.774769485
+topicality: 0.774769485
+], '1559010064447.jpg', [mid: "/m/01bqvp"
+description: "Sky"
+score: 0.967290699
+topicality: 0.967290699
+, mid: "/m/02q7ylj"
+description: "Daytime"
+score: 0.945787668
+topicality: 0.945787668
+, mid: "/m/0cgh4"
+description: "Building"
+score: 0.941336334
+topicality: 0.941336334
+, mid: "/m/05s2s"
+description: "Plant"
+score: 0.939886451
+topicality: 0.939886451
+, mid: "/m/01k0mv"
+description: "Road surface"
+score: 0.889469087
+topicality: 0.889469087
+, mid: "/m/0d4v4"
+description: "Window"
+score: 0.86053443
+topicality: 0.86053443
+, mid: "/m/0d9wj"
+description: "Urban design"
+score: 0.854440808
+topicality: 0.854440808
+, mid: "/m/03nfmq"
+description: "Architecture"
+score: 0.854381621
+topicality: 0.854381621
+, mid: "/m/07j7r"
+description: "Tree"
+score: 0.84592092
+topicality: 0.84592092
+, mid: "/m/0180xr"
+description: "Neighbourhood"
+score: 0.845862806
+topicality: 0.845862806
+], '1559010072046.jpg', [mid: "/m/0c_jw"
+description: "Furniture"
+score: 0.943618894
+topicality: 0.943618894
+, mid: "/m/04bcr3"
+description: "Table"
+score: 0.935033202
+topicality: 0.935033202
+, mid: "/m/05s2s"
+description: "Plant"
+score: 0.920202613
+topicality: 0.920202613
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.861812174
+topicality: 0.861812174
+, mid: "/m/0cp2d4k"
+description: "Outdoor furniture"
+score: 0.840577304
+topicality: 0.840577304
+, mid: "/m/04g3r"
+description: "Leisure"
+score: 0.785334468
+topicality: 0.785334468
+, mid: "/m/01n32"
+description: "City"
+score: 0.758260906
+topicality: 0.758260906
+, mid: "/m/0hndl"
+description: "Shade"
+score: 0.694665074
+topicality: 0.694665074
+, mid: "/m/0h8ll0s"
+description: "Outdoor table"
+score: 0.691018522
+topicality: 0.691018522
+, mid: "/m/04t7l"
+description: "Metal"
+score: 0.680096507
+topicality: 0.680096507
+], '1559010107557.jpg', [mid: "/m/0cgh4"
+description: "Building"
+score: 0.892691195
+topicality: 0.892691195
+, mid: "/m/03nfmq"
+description: "Architecture"
+score: 0.855531335
+topicality: 0.855531335
+, mid: "/m/02rfdq"
+description: "Interior design"
+score: 0.846806347
+topicality: 0.846806347
+, mid: "/m/0f28m"
+description: "Symmetry"
+score: 0.777297556
+topicality: 0.777297556
+, mid: "/m/01n32"
+description: "City"
+score: 0.768473327
+topicality: 0.768473327
+, mid: "/m/0j_s4"
+description: "Metropolitan area"
+score: 0.762490332
+topicality: 0.762490332
+, mid: "/m/04q01zj"
+description: "Roof lantern"
+score: 0.752005756
+topicality: 0.752005756
+, mid: "/m/03gfsp"
+description: "Ceiling"
+score: 0.747203648
+topicality: 0.747203648
+, mid: "/m/0c1vxg"
+description: "Mixed-use"
+score: 0.72312516
+topicality: 0.72312516
+, mid: "/m/04t7l"
+description: "Metal"
+score: 0.714998364
+topicality: 0.714998364
+], '1559010111155.jpg', [mid: "/m/0cgh4"
+description: "Building"
+score: 0.908306837
+topicality: 0.908306837
+, mid: "/m/03nfmq"
+description: "Architecture"
+score: 0.868475854
+topicality: 0.868475854
+, mid: "/m/04wnmd"
+description: "Fixture"
+score: 0.828428805
+topicality: 0.828428805
+, mid: "/m/0f28m"
+description: "Symmetry"
+score: 0.799439073
+topicality: 0.799439073
+, mid: "/m/05_5t0l"
+description: "Landmark"
+score: 0.779595256
+topicality: 0.779595256
+, mid: "/m/01n32"
+description: "City"
+score: 0.750150084
+topicality: 0.750150084
+, mid: "/m/03gfsp"
+description: "Ceiling"
+score: 0.733643
+topicality: 0.733643
+, mid: "/m/04q01zj"
+description: "Roof lantern"
+score: 0.722685397
+topicality: 0.722685397
+, mid: "/m/04t7l"
+description: "Metal"
+score: 0.702323854
+topicality: 0.702323854
+, mid: "/m/039jq"
+description: "Glass"
+score: 0.692873895
+topicality: 0.692873895
+], '1559429021256.jpg', [mid: "/m/05s2s"
+description: "Plant"
+score: 0.936357439
+topicality: 0.936357439
+, mid: "/m/0cgh4"
+description: "Building"
+score: 0.894358158
+topicality: 0.894358158
+, mid: "/m/0fm3zh"
+description: "Flowerpot"
+score: 0.882945836
+topicality: 0.882945836
+, mid: "/m/03fp41"
+description: "Houseplant"
+score: 0.84155488
+topicality: 0.84155488
+, mid: "/m/0191_7"
+description: "Retail"
+score: 0.820763707
+topicality: 0.820763707
+, mid: "/m/05_5t0l"
+description: "Landmark"
+score: 0.784149647
+topicality: 0.784149647
+, mid: "/m/0j_s4"
+description: "Metropolitan area"
+score: 0.779829443
+topicality: 0.779829443
+, mid: "/m/01n32"
+description: "City"
+score: 0.775006354
+topicality: 0.775006354
+, mid: "/m/03gfsp"
+description: "Ceiling"
+score: 0.758839369
+topicality: 0.758839369
+, mid: "/m/0f28m"
+description: "Symmetry"
+score: 0.757206321
+topicality: 0.757206321
+], '1559429033171.jpg', [mid: "/m/01bqvp"
+description: "Sky"
+score: 0.970956683
+topicality: 0.970956683
+, mid: "/m/0cgh4"
+description: "Building"
+score: 0.962908685
+topicality: 0.962908685
+, mid: "/m/02q7ylj"
+description: "Daytime"
+score: 0.944344103
+topicality: 0.944344103
+, mid: "/m/0csby"
+description: "Cloud"
+score: 0.918886662
+topicality: 0.918886662
+, mid: "/m/079cl"
+description: "Skyscraper"
+score: 0.897827804
+topicality: 0.897827804
+, mid: "/m/0838f"
+description: "Water"
+score: 0.894909382
+topicality: 0.894909382
+, mid: "/m/09nm_"
+description: "World"
+score: 0.890051484
+topicality: 0.890051484
+, mid: "/m/03nfmq"
+description: "Architecture"
+score: 0.85157603
+topicality: 0.85157603
+, mid: "/m/0vlys"
+description: "Tower block"
+score: 0.842940688
+topicality: 0.842940688
+, mid: "/m/0d9wj"
+description: "Urban design"
+score: 0.841616631
+topicality: 0.841616631
+], '1564879599922.jpg', [mid: "/m/01bqvp"
+description: "Sky"
+score: 0.953547776
+topicality: 0.953547776
+, mid: "/m/0cgh4"
+description: "Building"
+score: 0.902127087
+topicality: 0.902127087
+, mid: "/m/08g_yr"
+description: "Temple"
+score: 0.886195719
+topicality: 0.886195719
+, mid: "/m/07j7r"
+description: "Tree"
+score: 0.851073861
+topicality: 0.851073861
+, mid: "/m/01k0mv"
+description: "Road surface"
+score: 0.850917101
+topicality: 0.850917101
+, mid: "/m/014dsx"
+description: "Travel"
+score: 0.844418406
+topicality: 0.844418406
+, mid: "/m/04g3r"
+description: "Leisure"
+score: 0.829807639
+topicality: 0.829807639
+, mid: "/m/05_5t0l"
+description: "Landmark"
+score: 0.777622044
+topicality: 0.777622044
+, mid: "/m/0d9wj"
+description: "Urban design"
+score: 0.770975828
+topicality: 0.770975828
+, mid: "/m/01n32"
+description: "City"
+score: 0.757387161
+topicality: 0.757387161
+], '1564881590043.jpg', [mid: "/m/05s2s"
+description: "Plant"
+score: 0.969494224
+topicality: 0.969494224
+, mid: "/m/0cgh4"
+description: "Building"
+score: 0.920606554
+topicality: 0.920606554
+, mid: "/m/01bqvp"
+description: "Sky"
+score: 0.91729486
+topicality: 0.91729486
+, mid: "/m/03jm5"
+description: "House"
+score: 0.866343915
+topicality: 0.866343915
+, mid: "/m/03ty65"
+description: "Chinese architecture"
+score: 0.863076627
+topicality: 0.863076627
+, mid: "/m/07j7r"
+description: "Tree"
+score: 0.857371
+topicality: 0.857371
+, mid: "/m/0d4v4"
+description: "Window"
+score: 0.852836311
+topicality: 0.852836311
+, mid: "/m/02dgv"
+description: "Door"
+score: 0.810578287
+topicality: 0.810578287
+, mid: "/m/04g3r"
+description: "Leisure"
+score: 0.791976869
+topicality: 0.791976869
+, mid: "/m/0cx45"
+description: "Temple"
+score: 0.789393842
+topicality: 0.789393842
+], '1570341304664.jpg', [mid: "/m/0jyfg"
+description: "Glasses"
+score: 0.979671061
+topicality: 0.979671061
+, mid: "/m/0ds4x"
+description: "Hairstyle"
+score: 0.950900912
+topicality: 0.950900912
+, mid: "/m/01k74n"
+description: "Facial expression"
+score: 0.932320654
+topicality: 0.932320654
+, mid: "/m/0h8jxfl"
+description: "Vision care"
+score: 0.913660169
+topicality: 0.913660169
+, mid: "/m/0j272k5"
+description: "Eyewear"
+score: 0.854693651
+topicality: 0.854693651
+, mid: "/m/0244x1"
+description: "Gesture"
+score: 0.852604866
+topicality: 0.852604866
+, mid: "/m/0fy6nv"
+description: "Head restraint"
+score: 0.832675397
+topicality: 0.832675397
+, mid: "/m/016pp7"
+description: "Happy"
+score: 0.822976351
+topicality: 0.822976351
+, mid: "/m/071j9r"
+description: "Cool"
+score: 0.822369218
+topicality: 0.822369218
+, mid: "/m/0fc1fy"
+description: "Black hair"
+score: 0.814328909
+topicality: 0.814328909
+], '1579839746863.jpg', [mid: "/m/01bqvp"
+description: "Sky"
+score: 0.967153251
+topicality: 0.967153251
+, mid: "/m/05s2s"
+description: "Plant"
+score: 0.947471619
+topicality: 0.947471619
+, mid: "/m/0hndl"
+description: "Shade"
+score: 0.89466548
+topicality: 0.89466548
+, mid: "/m/0h8nqmc"
+description: "Outdoor bench"
+score: 0.883325815
+topicality: 0.883325815
+, mid: "/m/0cp2d4k"
+description: "Outdoor furniture"
+score: 0.827192605
+topicality: 0.827192605
+, mid: "/m/07j7r"
+description: "Tree"
+score: 0.812705219
+topicality: 0.812705219
+, mid: "/m/04g3r"
+description: "Leisure"
+score: 0.797419488
+topicality: 0.797419488
+, mid: "/m/025s3q0"
+description: "Landscape"
+score: 0.785671055
+topicality: 0.785671055
+, mid: "/m/023907r"
+description: "Real estate"
+score: 0.782723963
+topicality: 0.782723963
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.777885199
+topicality: 0.777885199
+], '20190206_195655.jpg', [mid: "/m/01n32"
+description: "City"
+score: 0.773313642
+topicality: 0.773313642
+, mid: "/m/05_5t0l"
+description: "Landmark"
+score: 0.7687608
+topicality: 0.7687608
+, mid: "/m/0f28m"
+description: "Symmetry"
+score: 0.761741102
+topicality: 0.761741102
+, mid: "/m/02q_bfg"
+description: "Tints and shades"
+score: 0.750323355
+topicality: 0.750323355
+, mid: "/m/01_m7"
+description: "Column"
+score: 0.740112662
+topicality: 0.740112662
+, mid: "/m/01jf71"
+description: "Arcade"
+score: 0.714970589
+topicality: 0.714970589
+, mid: "/m/0dpvm"
+description: "Arch"
+score: 0.689993739
+topicality: 0.689993739
+, mid: "/m/0cgh4"
+description: "Building"
+score: 0.680617332
+topicality: 0.680617332
+, mid: "/m/02bqth"
+description: "Vault"
+score: 0.67751354
+topicality: 0.67751354
+, mid: "/m/01sqnx"
+description: "Byzantine architecture"
+score: 0.675597429
+topicality: 0.675597429
+], '20190210_150151.jpg', [mid: "/m/0csby"
+description: "Cloud"
+score: 0.975472391
+topicality: 0.975472391
+, mid: "/m/01bqvp"
+description: "Sky"
+score: 0.974433
+topicality: 0.974433
+, mid: "/m/03d28y3"
+description: "Natural landscape"
+score: 0.87811631
+topicality: 0.87811631
+, mid: "/m/0308t8"
+description: "Bedrock"
+score: 0.813753843
+topicality: 0.813753843
+, mid: "/m/03k5cs"
+description: "Formation"
+score: 0.768656731
+topicality: 0.768656731
+, mid: "/m/025s3q0"
+description: "Landscape"
+score: 0.768051565
+topicality: 0.768051565
+, mid: "/m/09d_r"
+description: "Mountain"
+score: 0.755129337
+topicality: 0.755129337
+, mid: "/m/01cbzq"
+description: "Rock"
+score: 0.665476263
+topicality: 0.665476263
+, mid: "/m/02mwzg"
+description: "Plateau"
+score: 0.659634829
+topicality: 0.659634829
+, mid: "/m/0dpvm"
+description: "Arch"
+score: 0.639052153
+topicality: 0.639052153
+], '20190210_150521.jpg', [mid: "/m/01fdzj"
+description: "Tower"
+score: 0.921447158
+topicality: 0.921447158
+, mid: "/m/0cgh4"
+description: "Building"
+score: 0.887735486
+topicality: 0.887735486
+, mid: "/m/01bqvp"
+description: "Sky"
+score: 0.859866738
+topicality: 0.859866738
+, mid: "/m/079cl"
+description: "Skyscraper"
+score: 0.792325675
+topicality: 0.792325675
+, mid: "/m/01n32"
+description: "City"
+score: 0.777497172
+topicality: 0.777497172
+, mid: "/m/056mk"
+description: "Metropolis"
+score: 0.760471
+topicality: 0.760471
+, mid: "/m/01kv7h"
+description: "Midnight"
+score: 0.749443591
+topicality: 0.749443591
+, mid: "/m/04t7l"
+description: "Metal"
+score: 0.720950663
+topicality: 0.720950663
+, mid: "/m/01c6yl"
+description: "Spire"
+score: 0.649583042
+topicality: 0.649583042
+, mid: "/m/0f28m"
+description: "Symmetry"
+score: 0.643926442
+topicality: 0.643926442
+], '20190420_233032.jpg', [mid: "/m/0jyfg"
+description: "Glasses"
+score: 0.973879218
+topicality: 0.973879218
+, mid: "/m/068jd"
+description: "Photograph"
+score: 0.941389918
+topicality: 0.941389918
+, mid: "/m/04k84"
+description: "Light"
+score: 0.911945105
+topicality: 0.911945105
+, mid: "/m/0jc_p"
+description: "Orange"
+score: 0.88038671
+topicality: 0.88038671
+, mid: "/m/0h8jxfl"
+description: "Vision care"
+score: 0.877366066
+topicality: 0.877366066
+, mid: "/m/08g_yr"
+description: "Temple"
+score: 0.870500088
+topicality: 0.870500088
+, mid: "/m/02wzbmj"
+description: "Standing"
+score: 0.864216566
+topicality: 0.864216566
+, mid: "/m/0ds99lh"
+description: "Fun"
+score: 0.824685216
+topicality: 0.824685216
+, mid: "/m/0j272k5"
+description: "Eyewear"
+score: 0.823949575
+topicality: 0.823949575
+, mid: "/m/01lqfm"
+description: "Public space"
+score: 0.806940913
+topicality: 0.806940913
+], 'IMG_0010.JPEG', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.948423147
+topicality: 0.948423147
+, mid: "/m/0h8nm96"
+description: "Dog supply"
+score: 0.915954351
+topicality: 0.915954351
+, mid: "/m/0h8nlvj"
+description: "Dog clothes"
+score: 0.856270909
+topicality: 0.856270909
+, mid: "/m/05ctyq"
+description: "Tennis ball"
+score: 0.841460824
+topicality: 0.841460824
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.822961092
+topicality: 0.822961092
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.796594083
+topicality: 0.796594083
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.79619807
+topicality: 0.79619807
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.792253256
+topicality: 0.792253256
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.785751522
+topicality: 0.785751522
+, mid: "/m/07_gml"
+description: "Working animal"
+score: 0.760098457
+topicality: 0.760098457
+], 'IMG_0016.JPEG', [mid: "/m/04rky"
+description: "Mammal"
+score: 0.855661452
+topicality: 0.855661452
+, mid: "/m/07_gml"
+description: "Working animal"
+score: 0.839381516
+topicality: 0.839381516
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.835600615
+topicality: 0.835600615
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.797999918
+topicality: 0.797999918
+, mid: "/m/0jjw"
+description: "Art"
+score: 0.761258483
+topicality: 0.761258483
+, mid: "/m/020g49"
+description: "Hardwood"
+score: 0.699411154
+topicality: 0.699411154
+, mid: "/m/06ht1"
+description: "Room"
+score: 0.657912195
+topicality: 0.657912195
+, mid: "/m/0h8m7cs"
+description: "Animal figure"
+score: 0.645692527
+topicality: 0.645692527
+, mid: "/m/06z_nw"
+description: "Tail"
+score: 0.643375754
+topicality: 0.643375754
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.63672775
+topicality: 0.63672775
+], 'IMG_0026.JPEG', [mid: "/m/0h8jxfl"
+description: "Vision care"
+score: 0.904616416
+topicality: 0.904616416
+, mid: "/m/062581"
+description: "Sleeve"
+score: 0.872450054
+topicality: 0.872450054
+, mid: "/m/0j272k5"
+description: "Eyewear"
+score: 0.85348177
+topicality: 0.85348177
+, mid: "/m/091410"
+description: "Collar"
+score: 0.838872671
+topicality: 0.838872671
+, mid: "/m/01j0mk"
+description: "Customer"
+score: 0.796389282
+topicality: 0.796389282
+, mid: "/m/0gjbg72"
+description: "Shelf"
+score: 0.784664035
+topicality: 0.784664035
+, mid: "/m/050k8"
+description: "Mobile phone"
+score: 0.776593328
+topicality: 0.776593328
+, mid: "/m/04brg2"
+description: "Tableware"
+score: 0.755034149
+topicality: 0.755034149
+, mid: "/m/02mf1n"
+description: "Gadget"
+score: 0.727954209
+topicality: 0.727954209
+, mid: "/m/0sgh53y"
+description: "Selfie"
+score: 0.709377527
+topicality: 0.709377527
+], 'IMG_0031.JPG', [mid: "/m/0h8jxfl"
+description: "Vision care"
+score: 0.917556882
+topicality: 0.917556882
+, mid: "/m/0j272k5"
+description: "Eyewear"
+score: 0.8649019
+topicality: 0.8649019
+, mid: "/m/03f52z"
+description: "Eyelash"
+score: 0.853885293
+topicality: 0.853885293
+, mid: "/m/0244x1"
+description: "Gesture"
+score: 0.852604866
+topicality: 0.852604866
+, mid: "/m/0hf58v5"
+description: "Luggage and bags"
+score: 0.804798722
+topicality: 0.804798722
+, mid: "/m/013s93"
+description: "T-shirt"
+score: 0.792487681
+topicality: 0.792487681
+, mid: "/m/02mf1n"
+description: "Gadget"
+score: 0.767679453
+topicality: 0.767679453
+, mid: "/m/018tkd"
+description: "Service"
+score: 0.739593327
+topicality: 0.739593327
+, mid: "/m/0n5v01m"
+description: "Bag"
+score: 0.73442471
+topicality: 0.73442471
+, mid: "/m/0bs7_0t"
+description: "Electronic device"
+score: 0.732780278
+topicality: 0.732780278
+], 'IMG_0034.JPG', [mid: "/m/05s2s"
+description: "Plant"
+score: 0.959221184
+topicality: 0.959221184
+, mid: "/m/0h8nqmc"
+description: "Outdoor bench"
+score: 0.945695519
+topicality: 0.945695519
+, mid: "/m/01bqvp"
+description: "Sky"
+score: 0.937922478
+topicality: 0.937922478
+, mid: "/m/020h4z"
+description: "Street furniture"
+score: 0.906611204
+topicality: 0.906611204
+, mid: "/m/0hndl"
+description: "Shade"
+score: 0.87980479
+topicality: 0.87980479
+, mid: "/m/01bwr"
+description: "Botany"
+score: 0.871533275
+topicality: 0.871533275
+, mid: "/m/0cp2d4k"
+description: "Outdoor furniture"
+score: 0.862311184
+topicality: 0.862311184
+, mid: "/m/07j7r"
+description: "Tree"
+score: 0.854092896
+topicality: 0.854092896
+, mid: "/m/08t9c_"
+description: "Grass"
+score: 0.829705298
+topicality: 0.829705298
+, mid: "/m/0cvnqh"
+description: "Bench"
+score: 0.82382977
+topicality: 0.82382977
+], 'IMG_0043.JPG', [mid: "/m/02wbm"
+description: "Food"
+score: 0.98111
+topicality: 0.98111
+, mid: "/m/04brg2"
+description: "Tableware"
+score: 0.952210724
+topicality: 0.952210724
+, mid: "/m/04bcr3"
+description: "Table"
+score: 0.947250426
+topicality: 0.947250426
+, mid: "/m/0h8nvk9"
+description: "Dishware"
+score: 0.930808246
+topicality: 0.930808246
+, mid: "/m/07xgrh"
+description: "Ingredient"
+score: 0.897789896
+topicality: 0.897789896
+, mid: "/m/04n1t0n"
+description: "Sorbetes"
+score: 0.894139051
+topicality: 0.894139051
+, mid: "/m/02crq1"
+description: "Couch"
+score: 0.888130665
+topicality: 0.888130665
+, mid: "/m/01ykh"
+description: "Cuisine"
+score: 0.863112569
+topicality: 0.863112569
+, mid: "/m/02q08p0"
+description: "Dish"
+score: 0.843104
+topicality: 0.843104
+, mid: "/m/050gv4"
+description: "Plate"
+score: 0.842297673
+topicality: 0.842297673
+], 'IMG_0048.JPG', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.953149199
+topicality: 0.953149199
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.912053943
+topicality: 0.912053943
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.897104
+topicality: 0.897104
+, mid: "/m/0h8nm96"
+description: "Dog supply"
+score: 0.867238045
+topicality: 0.867238045
+, mid: "/m/0h8nlvj"
+description: "Dog clothes"
+score: 0.838035166
+topicality: 0.838035166
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.821297467
+topicality: 0.821297467
+, mid: "/m/07_gml"
+description: "Working animal"
+score: 0.819362164
+topicality: 0.819362164
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.816034615
+topicality: 0.816034615
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.7729159
+topicality: 0.7729159
+, mid: "/m/05mqq3"
+description: "Snout"
+score: 0.754103661
+topicality: 0.754103661
+], 'IMG_0049.JPG', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.958641589
+topicality: 0.958641589
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.904414
+topicality: 0.904414
+, mid: "/m/0h8nm96"
+description: "Dog supply"
+score: 0.876567
+topicality: 0.876567
+, mid: "/m/0h8nlvj"
+description: "Dog clothes"
+score: 0.872924626
+topicality: 0.872924626
+, mid: "/m/08xgn7"
+description: "Comfort"
+score: 0.866124272
+topicality: 0.866124272
+, mid: "/m/07_gml"
+description: "Working animal"
+score: 0.865267813
+topicality: 0.865267813
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.861398578
+topicality: 0.861398578
+, mid: "/m/09141t"
+description: "Collar"
+score: 0.846307337
+topicality: 0.846307337
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.833622277
+topicality: 0.833622277
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.824322164
+topicality: 0.824322164
+], 'IMG_0056.JPG', [mid: "/m/068mqj"
+description: "Automotive design"
+score: 0.859144151
+topicality: 0.859144151
+, mid: "/m/03nfmq"
+description: "Architecture"
+score: 0.850950956
+topicality: 0.850950956
+, mid: "/m/036k5h"
+description: "Grey"
+score: 0.841115475
+topicality: 0.841115475
+, mid: "/m/0l7_8"
+description: "Floor"
+score: 0.834267
+topicality: 0.834267
+, mid: "/m/0cgh4"
+description: "Building"
+score: 0.827453315
+topicality: 0.827453315
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.823851228
+topicality: 0.823851228
+, mid: "/m/0jjw"
+description: "Art"
+score: 0.798234284
+topicality: 0.798234284
+, mid: "/m/08xgn7"
+description: "Comfort"
+score: 0.710317075
+topicality: 0.710317075
+, mid: "/m/01b638"
+description: "Boot"
+score: 0.704225242
+topicality: 0.704225242
+, mid: "/m/03gfsp"
+description: "Ceiling"
+score: 0.692825317
+topicality: 0.692825317
+], 'IMG_0057.JPG', [mid: "/m/05s2s"
+description: "Plant"
+score: 0.967101
+topicality: 0.967101
+, mid: "/m/0838f"
+description: "Water"
+score: 0.94213444
+topicality: 0.94213444
+, mid: "/m/01bwr"
+description: "Botany"
+score: 0.890951633
+topicality: 0.890951633
+, mid: "/m/07j7r"
+description: "Tree"
+score: 0.881103754
+topicality: 0.881103754
+, mid: "/m/0fm3zh"
+description: "Flowerpot"
+score: 0.880308151
+topicality: 0.880308151
+, mid: "/m/01bqvp"
+description: "Sky"
+score: 0.842915535
+topicality: 0.842915535
+, mid: "/m/0cgh4"
+description: "Building"
+score: 0.831243396
+topicality: 0.831243396
+, mid: "/m/01jb4"
+description: "Biome"
+score: 0.823522151
+topicality: 0.823522151
+, mid: "/m/01lqfm"
+description: "Public space"
+score: 0.816622
+topicality: 0.816622
+, mid: "/m/04g3r"
+description: "Leisure"
+score: 0.808325648
+topicality: 0.808325648
+], 'IMG_0058.JPG', [mid: "/m/05wrt"
+description: "Property"
+score: 0.942839384
+topicality: 0.942839384
+, mid: "/m/05s2s"
+description: "Plant"
+score: 0.941172659
+topicality: 0.941172659
+, mid: "/m/0c_jw"
+description: "Furniture"
+score: 0.935405254
+topicality: 0.935405254
+, mid: "/m/04bcr3"
+description: "Table"
+score: 0.913332522
+topicality: 0.913332522
+, mid: "/m/038hg"
+description: "Green"
+score: 0.8976354
+topicality: 0.8976354
+, mid: "/m/03fp41"
+description: "Houseplant"
+score: 0.882415414
+topicality: 0.882415414
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.875152349
+topicality: 0.875152349
+, mid: "/m/02rfdq"
+description: "Interior design"
+score: 0.873069584
+topicality: 0.873069584
+, mid: "/m/019sc6"
+description: "Lighting"
+score: 0.872597039
+topicality: 0.872597039
+, mid: "/m/0fm3zh"
+description: "Flowerpot"
+score: 0.86397326
+topicality: 0.86397326
+], 'IMG_0059.JPG', [mid: "/m/05s2s"
+description: "Plant"
+score: 0.969820499
+topicality: 0.969820499
+, mid: "/m/01bqvp"
+description: "Sky"
+score: 0.958913803
+topicality: 0.958913803
+, mid: "/m/05wrt"
+description: "Property"
+score: 0.942878127
+topicality: 0.942878127
+, mid: "/m/04wnmd"
+description: "Fixture"
+score: 0.889373302
+topicality: 0.889373302
+, mid: "/m/0hndl"
+description: "Shade"
+score: 0.872903764
+topicality: 0.872903764
+, mid: "/m/01bwr"
+description: "Botany"
+score: 0.870767891
+topicality: 0.870767891
+, mid: "/m/03nfmq"
+description: "Architecture"
+score: 0.864319861
+topicality: 0.864319861
+, mid: "/m/07j7r"
+description: "Tree"
+score: 0.82707268
+topicality: 0.82707268
+, mid: "/m/0fm3zh"
+description: "Flowerpot"
+score: 0.803471446
+topicality: 0.803471446
+, mid: "/m/0cgh4"
+description: "Building"
+score: 0.802717388
+topicality: 0.802717388
+], 'IMG_0060.JPG', [mid: "/m/01bqvp"
+description: "Sky"
+score: 0.948343873
+topicality: 0.948343873
+, mid: "/m/09d_r"
+description: "Mountain"
+score: 0.935882211
+topicality: 0.935882211
+, mid: "/m/0csby"
+description: "Cloud"
+score: 0.912415385
+topicality: 0.912415385
+, mid: "/m/09l63h"
+description: "Military camouflage"
+score: 0.898816526
+topicality: 0.898816526
+, mid: "/m/08k64l"
+description: "Cargo pants"
+score: 0.896223843
+topicality: 0.896223843
+, mid: "/m/0cgh4"
+description: "Building"
+score: 0.84126389
+topicality: 0.84126389
+, mid: "/m/02h66g5"
+description: "Military person"
+score: 0.826530099
+topicality: 0.826530099
+, mid: "/m/08dmm7"
+description: "Marines"
+score: 0.814597845
+topicality: 0.814597845
+, mid: "/m/03w1r4"
+description: "Military uniform"
+score: 0.811931968
+topicality: 0.811931968
+, mid: "/m/0k5j"
+description: "Aircraft"
+score: 0.79635
+topicality: 0.79635
+], 'IMG_0062.JPG', [mid: "/m/03gq5hm"
+description: "Font"
+score: 0.826773345
+topicality: 0.826773345
+, mid: "/m/0457gc6"
+description: "Material property"
+score: 0.800711513
+topicality: 0.800711513
+, mid: "/m/0641k"
+description: "Paper"
+score: 0.686604202
+topicality: 0.686604202
+, mid: "/m/025s3q0"
+description: "Landscape"
+score: 0.666720033
+topicality: 0.666720033
+, mid: "/m/0h8p59j"
+description: "Paper product"
+score: 0.663086712
+topicality: 0.663086712
+, mid: "/m/03g3w"
+description: "History"
+score: 0.614848793
+topicality: 0.614848793
+, mid: "/m/015bv3"
+description: "Document"
+score: 0.611706316
+topicality: 0.611706316
+, mid: "/m/07_gml"
+description: "Working animal"
+score: 0.564094067
+topicality: 0.564094067
+, mid: "/m/01xyhv"
+description: "Suit"
+score: 0.552494407
+topicality: 0.552494407
+], 'IMG_0063.JPG', [mid: "/m/0fly7"
+description: "Jeans"
+score: 0.959536135
+topicality: 0.959536135
+, mid: "/m/0cgh4"
+description: "Building"
+score: 0.874029756
+topicality: 0.874029756
+, mid: "/m/0d9wj"
+description: "Urban design"
+score: 0.813999534
+topicality: 0.813999534
+, mid: "/m/014dsx"
+description: "Travel"
+score: 0.794468522
+topicality: 0.794468522
+, mid: "/m/06gfj"
+description: "Road"
+score: 0.767862558
+topicality: 0.767862558
+, mid: "/m/01n32"
+description: "City"
+score: 0.761253536
+topicality: 0.761253536
+, mid: "/m/081pkj"
+description: "Event"
+score: 0.738965333
+topicality: 0.738965333
+, mid: "/m/0hf58v5"
+description: "Luggage and bags"
+score: 0.72021544
+topicality: 0.72021544
+, mid: "/m/0n5v01m"
+description: "Bag"
+score: 0.713670373
+topicality: 0.713670373
+, mid: "/m/017r8p"
+description: "Pedestrian"
+score: 0.700291336
+topicality: 0.700291336
+], 'IMG_0064.JPG', [mid: "/m/03gq5hm"
+description: "Font"
+score: 0.810795426
+topicality: 0.810795426
+, mid: "/m/01h1dd"
+description: "Publication"
+score: 0.760606349
+topicality: 0.760606349
+, mid: "/m/05jnl"
+description: "Newspaper"
+score: 0.671371937
+topicality: 0.671371937
+, mid: "/m/0641k"
+description: "Paper"
+score: 0.624459684
+topicality: 0.624459684
+, mid: "/m/015bv3"
+description: "Document"
+score: 0.617940485
+topicality: 0.617940485
+, mid: "/m/03g3w"
+description: "History"
+score: 0.608261526
+topicality: 0.608261526
+, mid: "/m/0h8p59j"
+description: "Paper product"
+score: 0.594884336
+topicality: 0.594884336
+, mid: "/m/0122b5"
+description: "Newsprint"
+score: 0.535255611
+topicality: 0.535255611
+, mid: "/m/05jhg"
+description: "News"
+score: 0.500677109
+topicality: 0.500677109
+], 'IMG_0065.JPG', [mid: "/m/0d4vn"
+description: "Hall"
+score: 0.862231672
+topicality: 0.862231672
+, mid: "/m/02rfdq"
+description: "Interior design"
+score: 0.858022451
+topicality: 0.858022451
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.856446803
+topicality: 0.856446803
+, mid: "/m/0cgh4"
+description: "Building"
+score: 0.85319227
+topicality: 0.85319227
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.845251858
+topicality: 0.845251858
+, mid: "/m/0l7_8"
+description: "Floor"
+score: 0.840713501
+topicality: 0.840713501
+, mid: "/m/0jjw"
+description: "Art"
+score: 0.825013041
+topicality: 0.825013041
+, mid: "/m/09qqq"
+description: "Wall"
+score: 0.814806044
+topicality: 0.814806044
+, mid: "/m/0h8lr6f"
+description: "Tile flooring"
+score: 0.792820632
+topicality: 0.792820632
+, mid: "/m/023907r"
+description: "Real estate"
+score: 0.788396955
+topicality: 0.788396955
+], 'IMG_0066.JPG', [mid: "/m/0768fx"
+description: "Automotive lighting"
+score: 0.8929407
+topicality: 0.8929407
+, mid: "/m/0d4v4"
+description: "Window"
+score: 0.787970126
+topicality: 0.787970126
+, mid: "/m/037xy"
+description: "Gas"
+score: 0.780623257
+topicality: 0.780623257
+, mid: "/m/02q_bfg"
+description: "Tints and shades"
+score: 0.771776438
+topicality: 0.771776438
+, mid: "/m/039jq"
+description: "Glass"
+score: 0.743464768
+topicality: 0.743464768
+, mid: "/m/0h8ls87"
+description: "Automotive exterior"
+score: 0.738145649
+topicality: 0.738145649
+, mid: "/m/0j62f"
+description: "Rectangle"
+score: 0.708220363
+topicality: 0.708220363
+, mid: "/m/03gfsp"
+description: "Ceiling"
+score: 0.692313135
+topicality: 0.692313135
+, mid: "/m/0cgh4"
+description: "Building"
+score: 0.691270769
+topicality: 0.691270769
+, mid: "/m/0f28m"
+description: "Symmetry"
+score: 0.676009893
+topicality: 0.676009893
+], 'IMG_0067.JPG', [mid: "/m/03gq5hm"
+description: "Font"
+score: 0.852644563
+topicality: 0.852644563
+, mid: "/m/0457gc6"
+description: "Material property"
+score: 0.800746918
+topicality: 0.800746918
+, mid: "/m/0h8p59j"
+description: "Paper product"
+score: 0.671264648
+topicality: 0.671264648
+, mid: "/m/0641k"
+description: "Paper"
+score: 0.671147585
+topicality: 0.671147585
+, mid: "/m/01xyhv"
+description: "Suit"
+score: 0.647733688
+topicality: 0.647733688
+, mid: "/m/015bv3"
+description: "Document"
+score: 0.60994643
+topicality: 0.60994643
+, mid: "/m/03c31"
+description: "Graphic design"
+score: 0.522913396
+topicality: 0.522913396
+], 'IMG_0070.JPG', [mid: "/m/06z37_"
+description: "Picture frame"
+score: 0.916423
+topicality: 0.916423
+, mid: "/m/062581"
+description: "Sleeve"
+score: 0.872450471
+topicality: 0.872450471
+, mid: "/m/0244x1"
+description: "Gesture"
+score: 0.852604866
+topicality: 0.852604866
+, mid: "/m/0j62f"
+description: "Rectangle"
+score: 0.844407201
+topicality: 0.844407201
+, mid: "/m/05y4t"
+description: "Paint"
+score: 0.824560046
+topicality: 0.824560046
+, mid: "/m/0jjw"
+description: "Art"
+score: 0.800967395
+topicality: 0.800967395
+, mid: "/m/04xz_5"
+description: "Blazer"
+score: 0.772738874
+topicality: 0.772738874
+, mid: "/m/02vwbzz"
+description: "Electric blue"
+score: 0.7142874
+topicality: 0.7142874
+, mid: "/m/0p9xx"
+description: "Visual arts"
+score: 0.671938539
+topicality: 0.671938539
+, mid: "/m/05qdh"
+description: "Painting"
+score: 0.666943073
+topicality: 0.666943073
+], 'IMG_0071.JPG', [mid: "/m/09ggk"
+description: "Purple"
+score: 0.889116526
+topicality: 0.889116526
+, mid: "/m/0j62f"
+description: "Rectangle"
+score: 0.886413693
+topicality: 0.886413693
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.877584
+topicality: 0.877584
+, mid: "/m/0h8n982"
+description: "Shelving"
+score: 0.853132188
+topicality: 0.853132188
+, mid: "/m/0gjbg72"
+description: "Shelf"
+score: 0.842334569
+topicality: 0.842334569
+, mid: "/m/09gg3"
+description: "Violet"
+score: 0.824710906
+topicality: 0.824710906
+, mid: "/m/05t06b"
+description: "Wood stain"
+score: 0.777478397
+topicality: 0.777478397
+, mid: "/m/020g49"
+description: "Hardwood"
+score: 0.774002433
+topicality: 0.774002433
+, mid: "/m/02q_bfg"
+description: "Tints and shades"
+score: 0.771511614
+topicality: 0.771511614
+, mid: "/m/030zfn"
+description: "Parallel"
+score: 0.765640676
+topicality: 0.765640676
+], 'IMG_0072.JPG', [mid: "/m/02q_bfg"
+description: "Tints and shades"
+score: 0.76570344
+topicality: 0.76570344
+, mid: "/m/01vkl"
+description: "Circle"
+score: 0.755794168
+topicality: 0.755794168
+, mid: "/m/0jjw"
+description: "Art"
+score: 0.741286874
+topicality: 0.741286874
+, mid: "/m/0hwky"
+description: "Pattern"
+score: 0.737872541
+topicality: 0.737872541
+, mid: "/m/0f28m"
+description: "Symmetry"
+score: 0.725079715
+topicality: 0.725079715
+, mid: "/m/02vwbzz"
+description: "Electric blue"
+score: 0.720914304
+topicality: 0.720914304
+, mid: "/m/03gfsp"
+description: "Ceiling"
+score: 0.656592369
+topicality: 0.656592369
+, mid: "/m/0ckc5"
+description: "Magenta"
+score: 0.654519796
+topicality: 0.654519796
+, mid: "/m/0j62f"
+description: "Rectangle"
+score: 0.651035905
+topicality: 0.651035905
+, mid: "/m/06mq7"
+description: "Science"
+score: 0.637087107
+topicality: 0.637087107
+], 'IMG_0074.JPG', [mid: "/m/0jjw"
+description: "Art"
+score: 0.863659322
+topicality: 0.863659322
+, mid: "/m/037xy"
+description: "Gas"
+score: 0.72490555
+topicality: 0.72490555
+, mid: "/m/0j62f"
+description: "Rectangle"
+score: 0.715911269
+topicality: 0.715911269
+, mid: "/m/02skpt"
+description: "Artifact"
+score: 0.711827517
+topicality: 0.711827517
+, mid: "/m/06msq"
+description: "Sculpture"
+score: 0.696067154
+topicality: 0.696067154
+, mid: "/m/03h_4m"
+description: "Cylinder"
+score: 0.666689813
+topicality: 0.666689813
+, mid: "/m/02s195"
+description: "Vase"
+score: 0.637503743
+topicality: 0.637503743
+, mid: "/m/081pkj"
+description: "Event"
+score: 0.63580066
+topicality: 0.63580066
+, mid: "/m/06ht1"
+description: "Room"
+score: 0.633186817
+topicality: 0.633186817
+, mid: "/m/08jpwt"
+description: "Light fixture"
+score: 0.601311564
+topicality: 0.601311564
+], 'IMG_0076.JPG', [mid: "/m/0j62f"
+description: "Rectangle"
+score: 0.885691941
+topicality: 0.885691941
+, mid: "/m/05y4t"
+description: "Paint"
+score: 0.865169227
+topicality: 0.865169227
+, mid: "/m/0jjw"
+description: "Art"
+score: 0.840171635
+topicality: 0.840171635
+, mid: "/m/09qqq"
+description: "Wall"
+score: 0.816227198
+topicality: 0.816227198
+, mid: "/m/05qdh"
+description: "Painting"
+score: 0.801113367
+topicality: 0.801113367
+, mid: "/m/0h90w5d"
+description: "Art paint"
+score: 0.744836688
+topicality: 0.744836688
+, mid: "/m/0dw9f6"
+description: "Creative arts"
+score: 0.734287262
+topicality: 0.734287262
+, mid: "/m/081pkj"
+description: "Event"
+score: 0.727452159
+topicality: 0.727452159
+, mid: "/m/0p9xx"
+description: "Visual arts"
+score: 0.696852803
+topicality: 0.696852803
+, mid: "/m/01kr8f"
+description: "Illustration"
+score: 0.662829936
+topicality: 0.662829936
+], 'IMG_0083.JPG', [mid: "/m/02rfdq"
+description: "Interior design"
+score: 0.86231339
+topicality: 0.86231339
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.754881263
+topicality: 0.754881263
+, mid: "/m/039jq"
+description: "Glass"
+score: 0.751429498
+topicality: 0.751429498
+, mid: "/m/06mq7"
+description: "Science"
+score: 0.739547729
+topicality: 0.739547729
+, mid: "/m/06wqb"
+description: "Space"
+score: 0.724334776
+topicality: 0.724334776
+, mid: "/m/081pkj"
+description: "Event"
+score: 0.722299874
+topicality: 0.722299874
+, mid: "/m/01vkl"
+description: "Circle"
+score: 0.701549053
+topicality: 0.701549053
+, mid: "/m/0p9xx"
+description: "Visual arts"
+score: 0.681602538
+topicality: 0.681602538
+, mid: "/m/06bm2"
+description: "Recreation"
+score: 0.677507818
+topicality: 0.677507818
+, mid: "/m/05z87"
+description: "Plastic"
+score: 0.673555
+topicality: 0.673555
+], 'IMG_0084.JPG', [mid: "/m/068mqj"
+description: "Automotive design"
+score: 0.837376356
+topicality: 0.837376356
+, mid: "/m/0jjw"
+description: "Art"
+score: 0.833542407
+topicality: 0.833542407
+, mid: "/m/0cgh4"
+description: "Building"
+score: 0.786428094
+topicality: 0.786428094
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.755389273
+topicality: 0.755389273
+, mid: "/m/081pkj"
+description: "Event"
+score: 0.742833495
+topicality: 0.742833495
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.736497
+topicality: 0.736497
+, mid: "/m/04g3r"
+description: "Leisure"
+score: 0.714431584
+topicality: 0.714431584
+, mid: "/m/0fq22vb"
+description: "Exhibition"
+score: 0.691519082
+topicality: 0.691519082
+, mid: "/m/0p9xx"
+description: "Visual arts"
+score: 0.682507694
+topicality: 0.682507694
+, mid: "/m/03gfsp"
+description: "Ceiling"
+score: 0.671459734
+topicality: 0.671459734
+], 'IMG_0085.JPG', [mid: "/m/02df64"
+description: "Hood"
+score: 0.909752846
+topicality: 0.909752846
+, mid: "/m/01g5v"
+description: "Blue"
+score: 0.900173306
+topicality: 0.900173306
+, mid: "/m/03jn2m"
+description: "Azure"
+score: 0.895388722
+topicality: 0.895388722
+, mid: "/m/02vwbzz"
+description: "Electric blue"
+score: 0.72632
+topicality: 0.72632
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.716734946
+topicality: 0.716734946
+, mid: "/m/0768fx"
+description: "Automotive lighting"
+score: 0.709875107
+topicality: 0.709875107
+, mid: "/m/03gq5hm"
+description: "Font"
+score: 0.643693388
+topicality: 0.643693388
+, mid: "/m/012f08"
+description: "Motor vehicle"
+score: 0.625256062
+topicality: 0.625256062
+, mid: "/m/05z87"
+description: "Plastic"
+score: 0.565605342
+topicality: 0.565605342
+, mid: "/m/011s0"
+description: "Advertising"
+score: 0.557312191
+topicality: 0.557312191
+], 'IMG_0086.JPG', [mid: "/m/062581"
+description: "Sleeve"
+score: 0.872413874
+topicality: 0.872413874
+, mid: "/m/0j272k5"
+description: "Eyewear"
+score: 0.84629786
+topicality: 0.84629786
+, mid: "/m/091410"
+description: "Collar"
+score: 0.819111645
+topicality: 0.819111645
+, mid: "/m/071j9r"
+description: "Cool"
+score: 0.814894676
+topicality: 0.814894676
+, mid: "/m/02qqd4n"
+description: "Fashion design"
+score: 0.792434752
+topicality: 0.792434752
+, mid: "/m/04xz_5"
+description: "Blazer"
+score: 0.777039409
+topicality: 0.777039409
+, mid: "/m/0ds5b"
+description: "Facial hair"
+score: 0.747672737
+topicality: 0.747672737
+, mid: "/m/015h_t"
+description: "Beard"
+score: 0.734559059
+topicality: 0.734559059
+, mid: "/m/02vwbzz"
+description: "Electric blue"
+score: 0.696684718
+topicality: 0.696684718
+, mid: "/m/0jjw"
+description: "Art"
+score: 0.690012693
+topicality: 0.690012693
+], 'IMG_0093.JPG', [mid: "/m/0cgh4"
+description: "Building"
+score: 0.927218616
+topicality: 0.927218616
+, mid: "/m/04szw"
+description: "Musical instrument"
+score: 0.855180323
+topicality: 0.855180323
+, mid: "/m/02rfdq"
+description: "Interior design"
+score: 0.846103311
+topicality: 0.846103311
+, mid: "/m/0jjw"
+description: "Art"
+score: 0.822947562
+topicality: 0.822947562
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.790713251
+topicality: 0.790713251
+, mid: "/m/0cvnqh"
+description: "Bench"
+score: 0.754047275
+topicality: 0.754047275
+, mid: "/m/0h8nqmc"
+description: "Outdoor bench"
+score: 0.74006933
+topicality: 0.74006933
+, mid: "/m/081pkj"
+description: "Event"
+score: 0.737733603
+topicality: 0.737733603
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.69439286
+topicality: 0.69439286
+, mid: "/m/02jjt"
+description: "Entertainment"
+score: 0.686197579
+topicality: 0.686197579
+], 'IMG_0096.JPG', [mid: "/m/01x2j"
+description: "Camouflage"
+score: 0.968372166
+topicality: 0.968372166
+, mid: "/m/09l63h"
+description: "Military camouflage"
+score: 0.958050728
+topicality: 0.958050728
+, mid: "/m/047vlmn"
+description: "Outerwear"
+score: 0.952805519
+topicality: 0.952805519
+, mid: "/m/08k64l"
+description: "Cargo pants"
+score: 0.933059692
+topicality: 0.933059692
+, mid: "/m/03w1r4"
+description: "Military uniform"
+score: 0.916932
+topicality: 0.916932
+, mid: "/m/0167m6"
+description: "Squad"
+score: 0.909242928
+topicality: 0.909242928
+, mid: "/m/02h66g5"
+description: "Military person"
+score: 0.89782542
+topicality: 0.89782542
+, mid: "/m/08dmm7"
+description: "Marines"
+score: 0.875818491
+topicality: 0.875818491
+, mid: "/m/02wzbmj"
+description: "Standing"
+score: 0.864216566
+topicality: 0.864216566
+, mid: "/m/099md"
+description: "Soldier"
+score: 0.854390383
+topicality: 0.854390383
+], 'IMG_0098.JPG', [mid: "/m/0ds4x"
+description: "Hairstyle"
+score: 0.950900912
+topicality: 0.950900912
+, mid: "/m/05nnm"
+description: "Organism"
+score: 0.865363419
+topicality: 0.865363419
+, mid: "/m/03r_vp"
+description: "Adaptation"
+score: 0.792097569
+topicality: 0.792097569
+, mid: "/m/0jjw"
+description: "Art"
+score: 0.777092397
+topicality: 0.777092397
+, mid: "/m/016pp7"
+description: "Happy"
+score: 0.735570908
+topicality: 0.735570908
+, mid: "/m/081pkj"
+description: "Event"
+score: 0.726117432
+topicality: 0.726117432
+, mid: "/m/015c4z"
+description: "Sitting"
+score: 0.707802
+topicality: 0.707802
+, mid: "/m/01h8n0"
+description: "Conversation"
+score: 0.702432632
+topicality: 0.702432632
+, mid: "/m/0p9xx"
+description: "Visual arts"
+score: 0.679375112
+topicality: 0.679375112
+, mid: "/m/06ht1"
+description: "Room"
+score: 0.665861368
+topicality: 0.665861368
+], 'IMG_0099.JPG', [mid: "/m/01g5v"
+description: "Blue"
+score: 0.908324599
+topicality: 0.908324599
+, mid: "/m/0dnr7"
+description: "Textile"
+score: 0.872149289
+topicality: 0.872149289
+, mid: "/m/088fh"
+description: "Yellow"
+score: 0.85363543
+topicality: 0.85363543
+, mid: "/m/0j62f"
+description: "Rectangle"
+score: 0.836754501
+topicality: 0.836754501
+, mid: "/m/0jjw"
+description: "Art"
+score: 0.830742419
+topicality: 0.830742419
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.829471052
+topicality: 0.829471052
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.790204704
+topicality: 0.790204704
+, mid: "/m/02q_bfg"
+description: "Tints and shades"
+score: 0.77323842
+topicality: 0.77323842
+, mid: "/m/01x314"
+description: "Facade"
+score: 0.754793346
+topicality: 0.754793346
+, mid: "/m/0hwky"
+description: "Pattern"
+score: 0.720624685
+topicality: 0.720624685
+], 'IMG_0100.JPG', [mid: "/m/03__z0"
+description: "Bookcase"
+score: 0.953779638
+topicality: 0.953779638
+, mid: "/m/05wrt"
+description: "Property"
+score: 0.943436205
+topicality: 0.943436205
+, mid: "/m/0c_jw"
+description: "Furniture"
+score: 0.942765057
+topicality: 0.942765057
+, mid: "/m/0gjbg72"
+description: "Shelf"
+score: 0.941978633
+topicality: 0.941978633
+, mid: "/m/0cgh4"
+description: "Building"
+score: 0.894393861
+topicality: 0.894393861
+, mid: "/m/0bt_c3"
+description: "Book"
+score: 0.879756331
+topicality: 0.879756331
+, mid: "/m/01h1dd"
+description: "Publication"
+score: 0.877272964
+topicality: 0.877272964
+, mid: "/m/0h8n982"
+description: "Shelving"
+score: 0.875355065
+topicality: 0.875355065
+, mid: "/m/02rfdq"
+description: "Interior design"
+score: 0.874807119
+topicality: 0.874807119
+, mid: "/m/019sc6"
+description: "Lighting"
+score: 0.863904774
+topicality: 0.863904774
+], 'IMG_0102.JPG', [mid: "/m/03nfmq"
+description: "Architecture"
+score: 0.856859267
+topicality: 0.856859267
+, mid: "/m/02rfdq"
+description: "Interior design"
+score: 0.854578555
+topicality: 0.854578555
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.824367225
+topicality: 0.824367225
+, mid: "/m/0hndl"
+description: "Shade"
+score: 0.819119036
+topicality: 0.819119036
+, mid: "/m/0jjw"
+description: "Art"
+score: 0.752423048
+topicality: 0.752423048
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.74895066
+topicality: 0.74895066
+, mid: "/m/014qzr"
+description: "Composite material"
+score: 0.732884943
+topicality: 0.732884943
+, mid: "/m/03gfsp"
+description: "Ceiling"
+score: 0.717052698
+topicality: 0.717052698
+, mid: "/m/06ht1"
+description: "Room"
+score: 0.660956502
+topicality: 0.660956502
+, mid: "/m/06msq"
+description: "Sculpture"
+score: 0.65035826
+topicality: 0.65035826
+], 'IMG_0103.JPG', [mid: "/m/0j62f"
+description: "Rectangle"
+score: 0.880342901
+topicality: 0.880342901
+, mid: "/m/03gq5hm"
+description: "Font"
+score: 0.832255781
+topicality: 0.832255781
+, mid: "/m/016nqt"
+description: "Twig"
+score: 0.736836374
+topicality: 0.736836374
+, mid: "/m/0jjw"
+description: "Art"
+score: 0.708172
+topicality: 0.708172
+, mid: "/m/0ksls"
+description: "Clothes hanger"
+score: 0.668959141
+topicality: 0.668959141
+, mid: "/m/081pkj"
+description: "Event"
+score: 0.666939497
+topicality: 0.666939497
+, mid: "/m/0dw9f6"
+description: "Creative arts"
+score: 0.661475182
+topicality: 0.661475182
+, mid: "/m/0hwky"
+description: "Pattern"
+score: 0.656527519
+topicality: 0.656527519
+, mid: "/m/0gkxy13"
+description: "Handwriting"
+score: 0.621542096
+topicality: 0.621542096
+, mid: "/m/06h5_j"
+description: "Child art"
+score: 0.620935798
+topicality: 0.620935798
+], 'IMG_0104.JPG', [mid: "/m/09j2d"
+description: "Clothing"
+score: 0.98643744
+topicality: 0.98643744
+, mid: "/m/062581"
+description: "Sleeve"
+score: 0.872448564
+topicality: 0.872448564
+, mid: "/m/0j62f"
+description: "Rectangle"
+score: 0.859882712
+topicality: 0.859882712
+, mid: "/m/01443y"
+description: "Headgear"
+score: 0.820747256
+topicality: 0.820747256
+, mid: "/m/031974"
+description: "Waist"
+score: 0.783156097
+topicality: 0.783156097
+, mid: "/m/0ckc5"
+description: "Magenta"
+score: 0.751091063
+topicality: 0.751091063
+, mid: "/m/0ffjr"
+description: "Personal protective equipment"
+score: 0.731697798
+topicality: 0.731697798
+, mid: "/m/02w3_2"
+description: "Formal wear"
+score: 0.727431536
+topicality: 0.727431536
+, mid: "/m/0hwky"
+description: "Pattern"
+score: 0.691294432
+topicality: 0.691294432
+, mid: "/m/04vtz0"
+description: "Polka dot"
+score: 0.683591723
+topicality: 0.683591723
+], 'IMG_0105.JPG', [mid: "/m/0h9mv"
+description: "Tire"
+score: 0.898919582
+topicality: 0.898919582
+, mid: "/m/0h8pb3l"
+description: "Automotive tire"
+score: 0.87246877
+topicality: 0.87246877
+, mid: "/m/083wq"
+description: "Wheel"
+score: 0.861996531
+topicality: 0.861996531
+, mid: "/m/0jjw"
+description: "Art"
+score: 0.82416296
+topicality: 0.82416296
+, mid: "/m/0768fx"
+description: "Automotive lighting"
+score: 0.823473215
+topicality: 0.823473215
+, mid: "/m/0d74dx"
+description: "Fender"
+score: 0.809087873
+topicality: 0.809087873
+, mid: "/m/05y4t"
+description: "Paint"
+score: 0.802713573
+topicality: 0.802713573
+, mid: "/m/0h8ls87"
+description: "Automotive exterior"
+score: 0.775343478
+topicality: 0.775343478
+, mid: "/m/02q_bfg"
+description: "Tints and shades"
+score: 0.771412909
+topicality: 0.771412909
+, mid: "/m/012f08"
+description: "Motor vehicle"
+score: 0.76234591
+topicality: 0.76234591
+], 'IMG_0107.JPG', [mid: "/m/0h9mv"
+description: "Tire"
+score: 0.964054048
+topicality: 0.964054048
+, mid: "/m/083wq"
+description: "Wheel"
+score: 0.953676522
+topicality: 0.953676522
+, mid: "/m/012f08"
+description: "Motor vehicle"
+score: 0.9255988
+topicality: 0.9255988
+, mid: "/m/0h8pb3l"
+description: "Automotive tire"
+score: 0.922864
+topicality: 0.922864
+, mid: "/m/0768fx"
+description: "Automotive lighting"
+score: 0.895800471
+topicality: 0.895800471
+, mid: "/m/047vmg8"
+description: "Rim"
+score: 0.845822394
+topicality: 0.845822394
+, mid: "/m/068mqj"
+description: "Automotive design"
+score: 0.844847
+topicality: 0.844847
+, mid: "/m/03gq5hm"
+description: "Font"
+score: 0.837779284
+topicality: 0.837779284
+, mid: "/m/02q8tbd"
+description: "Alloy wheel"
+score: 0.83581084
+topicality: 0.83581084
+, mid: "/m/0jjw"
+description: "Art"
+score: 0.797251701
+topicality: 0.797251701
+], 'IMG_0108.JPG', [mid: "/m/06z37_"
+description: "Picture frame"
+score: 0.955309689
+topicality: 0.955309689
+, mid: "/m/0jjw"
+description: "Art"
+score: 0.846410871
+topicality: 0.846410871
+, mid: "/m/0j62f"
+description: "Rectangle"
+score: 0.844310403
+topicality: 0.844310403
+, mid: "/m/036k5h"
+description: "Grey"
+score: 0.840378
+topicality: 0.840378
+, mid: "/m/02fq_6"
+description: "Fedora"
+score: 0.837020636
+topicality: 0.837020636
+, mid: "/m/03gq5hm"
+description: "Font"
+score: 0.786704719
+topicality: 0.786704719
+, mid: "/m/01xyhv"
+description: "Suit"
+score: 0.757569253
+topicality: 0.757569253
+, mid: "/m/02dl1y"
+description: "Hat"
+score: 0.734803
+topicality: 0.734803
+, mid: "/m/081pkj"
+description: "Event"
+score: 0.72425878
+topicality: 0.72425878
+, mid: "/m/0p9xx"
+description: "Visual arts"
+score: 0.698551953
+topicality: 0.698551953
+], 'IMG_0110.JPG', [mid: "/m/0j62f"
+description: "Rectangle"
+score: 0.876409948
+topicality: 0.876409948
+, mid: "/m/07jx7"
+description: "Triangle"
+score: 0.834265411
+topicality: 0.834265411
+, mid: "/m/09qqq"
+description: "Wall"
+score: 0.808106542
+topicality: 0.808106542
+, mid: "/m/03gq5hm"
+description: "Font"
+score: 0.766495466
+topicality: 0.766495466
+, mid: "/m/02rdsp"
+description: "Office supplies"
+score: 0.742983699
+topicality: 0.742983699
+, mid: "/m/06wqb"
+description: "Space"
+score: 0.728057742
+topicality: 0.728057742
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.705860376
+topicality: 0.705860376
+, mid: "/m/0jjw"
+description: "Art"
+score: 0.655190885
+topicality: 0.655190885
+, mid: "/m/0h8p59j"
+description: "Paper product"
+score: 0.639304042
+topicality: 0.639304042
+, mid: "/m/0641k"
+description: "Paper"
+score: 0.637359
+topicality: 0.637359
+], 'IMG_0112.JPG', [mid: "/m/0138tl"
+description: "Toy"
+score: 0.878403962
+topicality: 0.878403962
+, mid: "/m/06msq"
+description: "Sculpture"
+score: 0.809055746
+topicality: 0.809055746
+, mid: "/m/0jjw"
+description: "Art"
+score: 0.79301393
+topicality: 0.79301393
+, mid: "/m/06w6h"
+description: "Skeleton"
+score: 0.702483058
+topicality: 0.702483058
+, mid: "/m/0dkw5"
+description: "Machine"
+score: 0.67804563
+topicality: 0.67804563
+, mid: "/m/0p9xx"
+description: "Visual arts"
+score: 0.656177044
+topicality: 0.656177044
+, mid: "/m/02qqd4n"
+description: "Fashion design"
+score: 0.634647
+topicality: 0.634647
+, mid: "/m/01w_gm"
+description: "Plaster"
+score: 0.634234905
+topicality: 0.634234905
+, mid: "/m/01xmqj"
+description: "Figurine"
+score: 0.614540517
+topicality: 0.614540517
+, mid: "/m/0167gd"
+description: "Doll"
+score: 0.557176113
+topicality: 0.557176113
+], 'IMG_0113.JPG', [mid: "/m/03gq5hm"
+description: "Font"
+score: 0.822907209
+topicality: 0.822907209
+, mid: "/m/0h8p59j"
+description: "Paper product"
+score: 0.656060934
+topicality: 0.656060934
+, mid: "/m/0641k"
+description: "Paper"
+score: 0.636823595
+topicality: 0.636823595
+, mid: "/m/03g3w"
+description: "History"
+score: 0.597347617
+topicality: 0.597347617
+, mid: "/m/01xyhv"
+description: "Suit"
+score: 0.597165465
+topicality: 0.597165465
+, mid: "/m/0122b5"
+description: "Newsprint"
+score: 0.594278872
+topicality: 0.594278872
+, mid: "/m/015bv3"
+description: "Document"
+score: 0.5829041
+topicality: 0.5829041
+, mid: "/m/01h1dd"
+description: "Publication"
+score: 0.580624104
+topicality: 0.580624104
+, mid: "/m/04jjh"
+description: "Letter"
+score: 0.541998625
+topicality: 0.541998625
+, mid: "/m/0j62f"
+description: "Rectangle"
+score: 0.514215767
+topicality: 0.514215767
+], 'IMG_0114.JPG', [mid: "/m/04hgtk"
+description: "Head"
+score: 0.9735412
+topicality: 0.9735412
+, mid: "/m/08xgn7"
+description: "Comfort"
+score: 0.910039783
+topicality: 0.910039783
+, mid: "/m/02crq1"
+description: "Couch"
+score: 0.875882208
+topicality: 0.875882208
+, mid: "/m/0j62f"
+description: "Rectangle"
+score: 0.839554846
+topicality: 0.839554846
+, mid: "/m/03gq5hm"
+description: "Font"
+score: 0.82596916
+topicality: 0.82596916
+, mid: "/m/03hzcs"
+description: "Beige"
+score: 0.78643322
+topicality: 0.78643322
+, mid: "/m/03m3pdh"
+description: "Sofa bed"
+score: 0.753106952
+topicality: 0.753106952
+, mid: "/m/026qbn5"
+description: "studio couch"
+score: 0.74573946
+topicality: 0.74573946
+, mid: "/m/06httj"
+description: "Linens"
+score: 0.679024577
+topicality: 0.679024577
+, mid: "/m/01mwkf"
+description: "Monochrome"
+score: 0.671642601
+topicality: 0.671642601
+], 'IMG_0117.JPG', [mid: "/m/0jjw"
+description: "Art"
+score: 0.855362415
+topicality: 0.855362415
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.847875
+topicality: 0.847875
+, mid: "/m/06msq"
+description: "Sculpture"
+score: 0.832041144
+topicality: 0.832041144
+, mid: "/m/0p9xx"
+description: "Visual arts"
+score: 0.675369918
+topicality: 0.675369918
+, mid: "/m/02dl1y"
+description: "Hat"
+score: 0.660986543
+topicality: 0.660986543
+, mid: "/m/081pkj"
+description: "Event"
+score: 0.657755792
+topicality: 0.657755792
+, mid: "/m/03gs8b2"
+description: "Balance"
+score: 0.635303855
+topicality: 0.635303855
+, mid: "/m/04t7l"
+description: "Metal"
+score: 0.627295673
+topicality: 0.627295673
+, mid: "/m/013_1c"
+description: "Statue"
+score: 0.549901664
+topicality: 0.549901664
+, mid: "/m/0ds99lh"
+description: "Fun"
+score: 0.532316387
+topicality: 0.532316387
+], 'IMG_0124.JPG', [mid: "/m/02skpt"
+description: "Artifact"
+score: 0.781164348
+topicality: 0.781164348
+, mid: "/m/0jjw"
+description: "Art"
+score: 0.77906096
+topicality: 0.77906096
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.749699354
+topicality: 0.749699354
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.681450307
+topicality: 0.681450307
+, mid: "/m/0dpvm"
+description: "Arch"
+score: 0.659301937
+topicality: 0.659301937
+, mid: "/m/01_m7"
+description: "Column"
+score: 0.656942189
+topicality: 0.656942189
+, mid: "/m/0p9xx"
+description: "Visual arts"
+score: 0.633227468
+topicality: 0.633227468
+, mid: "/m/0jwzhtg"
+description: "Carving"
+score: 0.601327121
+topicality: 0.601327121
+, mid: "/m/0djmp"
+description: "Ancient history"
+score: 0.600813746
+topicality: 0.600813746
+, mid: "/m/01w_gm"
+description: "Plaster"
+score: 0.580621302
+topicality: 0.580621302
+], 'IMG_0125.JPG', [mid: "/m/02rfdq"
+description: "Interior design"
+score: 0.849552691
+topicality: 0.849552691
+, mid: "/m/036k5h"
+description: "Grey"
+score: 0.841243804
+topicality: 0.841243804
+, mid: "/m/0l7_8"
+description: "Floor"
+score: 0.818701386
+topicality: 0.818701386
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.794154167
+topicality: 0.794154167
+, mid: "/m/0hgs9bq"
+description: "Walking shoe"
+score: 0.784481645
+topicality: 0.784481645
+, mid: "/m/0hgrj75"
+description: "Outdoor shoe"
+score: 0.772385776
+topicality: 0.772385776
+, mid: "/m/0jjw"
+description: "Art"
+score: 0.729068398
+topicality: 0.729068398
+, mid: "/m/03gfsp"
+description: "Ceiling"
+score: 0.721473455
+topicality: 0.721473455
+, mid: "/m/0dpvm"
+description: "Arch"
+score: 0.710976422
+topicality: 0.710976422
+, mid: "/m/06ht1"
+description: "Room"
+score: 0.664396763
+topicality: 0.664396763
+], 'IMG_0127.JPG', [mid: "/m/0cgh4"
+description: "Building"
+score: 0.910717189
+topicality: 0.910717189
+, mid: "/m/062581"
+description: "Sleeve"
+score: 0.872336626
+topicality: 0.872336626
+, mid: "/m/06msq"
+description: "Sculpture"
+score: 0.853260636
+topicality: 0.853260636
+, mid: "/m/09qqq"
+description: "Wall"
+score: 0.807850957
+topicality: 0.807850957
+, mid: "/m/0jjw"
+description: "Art"
+score: 0.806237
+topicality: 0.806237
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.733013034
+topicality: 0.733013034
+, mid: "/m/014dsx"
+description: "Travel"
+score: 0.696265578
+topicality: 0.696265578
+, mid: "/m/0p9xx"
+description: "Visual arts"
+score: 0.684567869
+topicality: 0.684567869
+, mid: "/m/01w_gm"
+description: "Plaster"
+score: 0.663697124
+topicality: 0.663697124
+, mid: "/m/0dpvm"
+description: "Arch"
+score: 0.659366071
+topicality: 0.659366071
+], 'IMG_0132.JPG', [mid: "/m/06rrc"
+description: "Shoe"
+score: 0.958256602
+topicality: 0.958256602
+, mid: "/m/08k64l"
+description: "Cargo pants"
+score: 0.941642106
+topicality: 0.941642106
+, mid: "/m/09l63h"
+description: "Military camouflage"
+score: 0.898710549
+topicality: 0.898710549
+, mid: "/m/01x2j"
+description: "Camouflage"
+score: 0.886873066
+topicality: 0.886873066
+, mid: "/m/0hf58v5"
+description: "Luggage and bags"
+score: 0.815227747
+topicality: 0.815227747
+, mid: "/m/0l7_8"
+description: "Floor"
+score: 0.811019421
+topicality: 0.811019421
+, mid: "/m/09kjlm"
+description: "Sneakers"
+score: 0.806293845
+topicality: 0.806293845
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.773661
+topicality: 0.773661
+, mid: "/m/01940j"
+description: "Backpack"
+score: 0.769700646
+topicality: 0.769700646
+, mid: "/m/02h66g5"
+description: "Military person"
+score: 0.769339
+topicality: 0.769339
+], 'IMG_0135.JPG', [mid: "/m/09j5n"
+description: "Footwear"
+score: 0.982465565
+topicality: 0.982465565
+, mid: "/m/036k5h"
+description: "Grey"
+score: 0.840476453
+topicality: 0.840476453
+, mid: "/m/0hgs9bq"
+description: "Walking shoe"
+score: 0.822696626
+topicality: 0.822696626
+, mid: "/m/025xryy"
+description: "Sportswear"
+score: 0.80881846
+topicality: 0.80881846
+, mid: "/m/03gq5hm"
+description: "Font"
+score: 0.733622611
+topicality: 0.733622611
+, mid: "/m/027k4k"
+description: "Athletic shoe"
+score: 0.729311526
+topicality: 0.729311526
+, mid: "/m/014qzr"
+description: "Composite material"
+score: 0.704302371
+topicality: 0.704302371
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.695293069
+topicality: 0.695293069
+, mid: "/m/0hgrj75"
+description: "Outdoor shoe"
+score: 0.685729325
+topicality: 0.685729325
+, mid: "/m/0463sg"
+description: "Fashion accessory"
+score: 0.67110157
+topicality: 0.67110157
+], 'IMG_0136.JPG', [mid: "/m/0j62f"
+description: "Rectangle"
+score: 0.883224607
+topicality: 0.883224607
+, mid: "/m/0jjw"
+description: "Art"
+score: 0.830846071
+topicality: 0.830846071
+, mid: "/m/05qdh"
+description: "Painting"
+score: 0.789572835
+topicality: 0.789572835
+, mid: "/m/03gq5hm"
+description: "Font"
+score: 0.781318426
+topicality: 0.781318426
+, mid: "/m/0hwky"
+description: "Pattern"
+score: 0.689153969
+topicality: 0.689153969
+, mid: "/m/02csf"
+description: "Drawing"
+score: 0.67242676
+topicality: 0.67242676
+, mid: "/m/01n5jq"
+description: "Poster"
+score: 0.662308276
+topicality: 0.662308276
+, mid: "/m/0p9xx"
+description: "Visual arts"
+score: 0.662279
+topicality: 0.662279
+, mid: "/m/0838f"
+description: "Water"
+score: 0.643899
+topicality: 0.643899
+, mid: "/m/05y4t"
+description: "Paint"
+score: 0.643574595
+topicality: 0.643574595
+], 'IMG_0138.JPG', [mid: "/m/01x2j"
+description: "Camouflage"
+score: 0.938030601
+topicality: 0.938030601
+, mid: "/m/09l63h"
+description: "Military camouflage"
+score: 0.91420722
+topicality: 0.91420722
+, mid: "/m/03w1r4"
+description: "Military uniform"
+score: 0.854863644
+topicality: 0.854863644
+, mid: "/m/02h66g5"
+description: "Military person"
+score: 0.838708282
+topicality: 0.838708282
+, mid: "/m/0j272k5"
+description: "Eyewear"
+score: 0.799937427
+topicality: 0.799937427
+, mid: "/m/03gq5hm"
+description: "Font"
+score: 0.765068948
+topicality: 0.765068948
+, mid: "/m/0167s5"
+description: "Non-commissioned officer"
+score: 0.75388962
+topicality: 0.75388962
+, mid: "/m/02qqd4n"
+description: "Fashion design"
+score: 0.74208504
+topicality: 0.74208504
+, mid: "/m/099md"
+description: "Soldier"
+score: 0.741261899
+topicality: 0.741261899
+, mid: "/m/0jjw"
+description: "Art"
+score: 0.741109908
+topicality: 0.741109908
+], 'IMG_0141.JPEG', [mid: "/m/01x2j"
+description: "Camouflage"
+score: 0.960631669
+topicality: 0.960631669
+, mid: "/m/09l63h"
+description: "Military camouflage"
+score: 0.95246166
+topicality: 0.95246166
+, mid: "/m/03w1r4"
+description: "Military uniform"
+score: 0.922622561
+topicality: 0.922622561
+, mid: "/m/02d46y"
+description: "Cap"
+score: 0.90097
+topicality: 0.90097
+, mid: "/m/02h66g5"
+description: "Military person"
+score: 0.897029698
+topicality: 0.897029698
+, mid: "/m/08dmm7"
+description: "Marines"
+score: 0.882998288
+topicality: 0.882998288
+, mid: "/m/099md"
+description: "Soldier"
+score: 0.853595853
+topicality: 0.853595853
+, mid: "/m/0244x1"
+description: "Gesture"
+score: 0.852604866
+topicality: 0.852604866
+, mid: "/m/0pd7"
+description: "Army"
+score: 0.835980713
+topicality: 0.835980713
+, mid: "/m/0167m6"
+description: "Squad"
+score: 0.805918574
+topicality: 0.805918574
+], 'IMG_0142.JPG', [mid: "/m/0jyfg"
+description: "Glasses"
+score: 0.973449111
+topicality: 0.973449111
+, mid: "/m/05s2s"
+description: "Plant"
+score: 0.916575491
+topicality: 0.916575491
+, mid: "/m/02d46y"
+description: "Cap"
+score: 0.890672147
+topicality: 0.890672147
+, mid: "/m/0h8jxfl"
+description: "Vision care"
+score: 0.866488934
+topicality: 0.866488934
+, mid: "/m/0j272k5"
+description: "Eyewear"
+score: 0.857792795
+topicality: 0.857792795
+, mid: "/m/0244x1"
+description: "Gesture"
+score: 0.852604866
+topicality: 0.852604866
+, mid: "/m/09l63h"
+description: "Military camouflage"
+score: 0.814542651
+topicality: 0.814542651
+, mid: "/m/013s93"
+description: "T-shirt"
+score: 0.746608794
+topicality: 0.746608794
+, mid: "/m/027xyl"
+description: "Baseball cap"
+score: 0.736590385
+topicality: 0.736590385
+, mid: "/m/0ffjr"
+description: "Personal protective equipment"
+score: 0.730712235
+topicality: 0.730712235
+], 'IMG_0143.JPG', [mid: "/m/0cgh4"
+description: "Building"
+score: 0.918150723
+topicality: 0.918150723
+, mid: "/m/0hndl"
+description: "Shade"
+score: 0.842111409
+topicality: 0.842111409
+, mid: "/m/0d9wj"
+description: "Urban design"
+score: 0.809117138
+topicality: 0.809117138
+, mid: "/m/03jm5"
+description: "House"
+score: 0.773398817
+topicality: 0.773398817
+, mid: "/m/01x314"
+description: "Facade"
+score: 0.759153545
+topicality: 0.759153545
+, mid: "/m/0hr8"
+description: "Asphalt"
+score: 0.744290113
+topicality: 0.744290113
+, mid: "/m/01k0mv"
+description: "Road surface"
+score: 0.743095875
+topicality: 0.743095875
+, mid: "/m/09l63h"
+description: "Military camouflage"
+score: 0.72238642
+topicality: 0.72238642
+, mid: "/m/06hyd"
+description: "Roof"
+score: 0.711734354
+topicality: 0.711734354
+, mid: "/m/01mxf"
+description: "Concrete"
+score: 0.686831474
+topicality: 0.686831474
+], 'IMG_0146.JPG', [mid: "/m/02wbm"
+description: "Food"
+score: 0.97696048
+topicality: 0.97696048
+, mid: "/m/02r_57s"
+description: "Cake decorating"
+score: 0.911954
+topicality: 0.911954
+, mid: "/m/0fszt"
+description: "Cake"
+score: 0.908144176
+topicality: 0.908144176
+, mid: "/m/07xgrh"
+description: "Ingredient"
+score: 0.88255
+topicality: 0.88255
+, mid: "/m/052lwg6"
+description: "Baked goods"
+score: 0.842140675
+topicality: 0.842140675
+, mid: "/m/03hlqvr"
+description: "Sugar cake"
+score: 0.812431395
+topicality: 0.812431395
+, mid: "/m/01tv9"
+description: "Cream"
+score: 0.795712173
+topicality: 0.795712173
+, mid: "/m/04yfd1"
+description: "Kuchen"
+score: 0.793402731
+topicality: 0.793402731
+, mid: "/m/022tld"
+description: "Staple food"
+score: 0.785977125
+topicality: 0.785977125
+, mid: "/m/0h8n9w9"
+description: "Cake decorating supply"
+score: 0.784672081
+topicality: 0.784672081
+], 'IMG_0158.JPG', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.96188271
+topicality: 0.96188271
+, mid: "/m/014sv8"
+description: "Eye"
+score: 0.940019846
+topicality: 0.940019846
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.892812
+topicality: 0.892812
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.87884438
+topicality: 0.87884438
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.848789334
+topicality: 0.848789334
+, mid: "/m/039xj_"
+description: "Ear"
+score: 0.831580758
+topicality: 0.831580758
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.818879783
+topicality: 0.818879783
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.815203369
+topicality: 0.815203369
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.805891633
+topicality: 0.805891633
+, mid: "/m/07_gml"
+description: "Working animal"
+score: 0.769927204
+topicality: 0.769927204
+], 'IMG_0159.JPG', [mid: "/m/09686"
+description: "Vertebrate"
+score: 0.919065237
+topicality: 0.919065237
+, mid: "/m/0blz9"
+description: "Fence"
+score: 0.881991148
+topicality: 0.881991148
+, mid: "/m/0h8ks17"
+description: "Pet supply"
+score: 0.856833518
+topicality: 0.856833518
+, mid: "/m/0413y3"
+description: "Mesh"
+score: 0.843326032
+topicality: 0.843326032
+, mid: "/m/0307l"
+description: "Felidae"
+score: 0.838130236
+topicality: 0.838130236
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.815516531
+topicality: 0.815516531
+, mid: "/m/06mf6"
+description: "Rabbit"
+score: 0.813693881
+topicality: 0.813693881
+, mid: "/m/06hps"
+description: "Rodent"
+score: 0.810920119
+topicality: 0.810920119
+, mid: "/m/05s2s"
+description: "Plant"
+score: 0.801830053
+topicality: 0.801830053
+, mid: "/m/08t9c_"
+description: "Grass"
+score: 0.795522153
+topicality: 0.795522153
+], 'IMG_0162.JPG', [mid: "/m/05s2s"
+description: "Plant"
+score: 0.972029924
+topicality: 0.972029924
+, mid: "/m/07j7r"
+description: "Tree"
+score: 0.89809829
+topicality: 0.89809829
+, mid: "/m/03d28y3"
+description: "Natural landscape"
+score: 0.879645526
+topicality: 0.879645526
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.845448792
+topicality: 0.845448792
+, mid: "/m/0blz9"
+description: "Fence"
+score: 0.843169332
+topicality: 0.843169332
+, mid: "/m/08t9c_"
+description: "Grass"
+score: 0.823889
+topicality: 0.823889
+, mid: "/m/04g3r"
+description: "Leisure"
+score: 0.796512
+topicality: 0.796512
+, mid: "/m/018ssc"
+description: "Groundcover"
+score: 0.789546072
+topicality: 0.789546072
+, mid: "/m/025s3q0"
+description: "Landscape"
+score: 0.781613052
+topicality: 0.781613052
+, mid: "/m/0fpjpt"
+description: "Lacustrine plain"
+score: 0.769665
+topicality: 0.769665
+], 'IMG_0172.JPG', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.95213455
+topicality: 0.95213455
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.899550855
+topicality: 0.899550855
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.892206
+topicality: 0.892206
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.822330594
+topicality: 0.822330594
+, mid: "/m/07_gml"
+description: "Working animal"
+score: 0.802559435
+topicality: 0.802559435
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.788559198
+topicality: 0.788559198
+, mid: "/m/05mqq3"
+description: "Snout"
+score: 0.766376257
+topicality: 0.766376257
+, mid: "/g/11jy976z6"
+description: "Small terrier"
+score: 0.700261354
+topicality: 0.700261354
+, mid: "/m/0265rtm"
+description: "Sporting Group"
+score: 0.697983205
+topicality: 0.697983205
+, mid: "/m/01z5f"
+description: "Canidae"
+score: 0.693098724
+topicality: 0.693098724
+], 'IMG_0176.jpg', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.941415846
+topicality: 0.941415846
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.896021485
+topicality: 0.896021485
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.864406884
+topicality: 0.864406884
+, mid: "/m/0h8nm96"
+description: "Dog supply"
+score: 0.858988464
+topicality: 0.858988464
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.823428452
+topicality: 0.823428452
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.815476239
+topicality: 0.815476239
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.756384492
+topicality: 0.756384492
+, mid: "/m/0h8nlvj"
+description: "Dog clothes"
+score: 0.752494454
+topicality: 0.752494454
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.69174248
+topicality: 0.69174248
+, mid: "/m/0138tl"
+description: "Toy"
+score: 0.687536716
+topicality: 0.687536716
+], 'IMG_0182.JPG', [mid: "/m/02wbm"
+description: "Food"
+score: 0.984871745
+topicality: 0.984871745
+, mid: "/m/0663v"
+description: "Pizza"
+score: 0.931718946
+topicality: 0.931718946
+, mid: "/m/04brg2"
+description: "Tableware"
+score: 0.909414887
+topicality: 0.909414887
+, mid: "/m/07xgrh"
+description: "Ingredient"
+score: 0.905969858
+topicality: 0.905969858
+, mid: "/m/0p57p"
+description: "Recipe"
+score: 0.879288733
+topicality: 0.879288733
+, mid: "/m/06wypr"
+description: "California-style pizza"
+score: 0.836719155
+topicality: 0.836719155
+, mid: "/m/01ykh"
+description: "Cuisine"
+score: 0.829226
+topicality: 0.829226
+, mid: "/m/068_x"
+description: "Pizza cheese"
+score: 0.809262097
+topicality: 0.809262097
+, mid: "/m/01_bhs"
+description: "Fast food"
+score: 0.805515707
+topicality: 0.805515707
+, mid: "/m/02q08p0"
+description: "Dish"
+score: 0.805016398
+topicality: 0.805016398
+], 'IMG_0183.JPG', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.956150711
+topicality: 0.956150711
+, mid: "/m/04brg2"
+description: "Tableware"
+score: 0.874402
+topicality: 0.874402
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.836171448
+topicality: 0.836171448
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.833960295
+topicality: 0.833960295
+, mid: "/m/017ftj"
+description: "Sunglasses"
+score: 0.817324817
+topicality: 0.817324817
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.815294921
+topicality: 0.815294921
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.793625891
+topicality: 0.793625891
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.780011594
+topicality: 0.780011594
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.760892928
+topicality: 0.760892928
+, mid: "/m/07xgrh"
+description: "Ingredient"
+score: 0.7400406
+topicality: 0.7400406
+], 'IMG_0214.JPG', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.960084617
+topicality: 0.960084617
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.916334212
+topicality: 0.916334212
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.903638
+topicality: 0.903638
+, mid: "/m/07_gml"
+description: "Working animal"
+score: 0.856332481
+topicality: 0.856332481
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.826733828
+topicality: 0.826733828
+, mid: "/m/09141t"
+description: "Collar"
+score: 0.820753276
+topicality: 0.820753276
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.792591274
+topicality: 0.792591274
+, mid: "/m/0h8nm96"
+description: "Dog supply"
+score: 0.765210569
+topicality: 0.765210569
+, mid: "/m/05mqq3"
+description: "Snout"
+score: 0.764440179
+topicality: 0.764440179
+, mid: "/m/05q778"
+description: "Dog collar"
+score: 0.743528962
+topicality: 0.743528962
+], 'IMG_0217.JPG', [mid: "/m/02rfdq"
+description: "Interior design"
+score: 0.864694595
+topicality: 0.864694595
+, mid: "/m/0cgh4"
+description: "Building"
+score: 0.849852622
+topicality: 0.849852622
+, mid: "/m/06fvc"
+description: "Red"
+score: 0.810429156
+topicality: 0.810429156
+, mid: "/m/0191_7"
+description: "Retail"
+score: 0.803943694
+topicality: 0.803943694
+, mid: "/m/0hhdb"
+description: "Shopping"
+score: 0.767438412
+topicality: 0.767438412
+, mid: "/m/04g3r"
+description: "Leisure"
+score: 0.754326105
+topicality: 0.754326105
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.72892338
+topicality: 0.72892338
+, mid: "/m/081pkj"
+description: "Event"
+score: 0.71797055
+topicality: 0.71797055
+, mid: "/m/0ds99lh"
+description: "Fun"
+score: 0.708153069
+topicality: 0.708153069
+, mid: "/m/0hwky"
+description: "Pattern"
+score: 0.673943758
+topicality: 0.673943758
+], 'IMG_0222.JPG', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.959843516
+topicality: 0.959843516
+, mid: "/m/083jv"
+description: "White"
+score: 0.921860695
+topicality: 0.921860695
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.92065078
+topicality: 0.92065078
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.90383774
+topicality: 0.90383774
+, mid: "/m/07_gml"
+description: "Working animal"
+score: 0.833310604
+topicality: 0.833310604
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.828404367
+topicality: 0.828404367
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.790547848
+topicality: 0.790547848
+, mid: "/m/05mqq3"
+description: "Snout"
+score: 0.772336483
+topicality: 0.772336483
+, mid: "/m/0265rtm"
+description: "Sporting Group"
+score: 0.731901586
+topicality: 0.731901586
+, mid: "/g/11jy976z6"
+description: "Small terrier"
+score: 0.715334713
+topicality: 0.715334713
+], 'IMG_0228.JPG', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.944187045
+topicality: 0.944187045
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.879508138
+topicality: 0.879508138
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.822833598
+topicality: 0.822833598
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.800767958
+topicality: 0.800767958
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.778734624
+topicality: 0.778734624
+, mid: "/g/11jy976z6"
+description: "Small terrier"
+score: 0.694814801
+topicality: 0.694814801
+, mid: "/m/0fcp14"
+description: "Shih-poo"
+score: 0.69219023
+topicality: 0.69219023
+, mid: "/m/06z_nw"
+description: "Tail"
+score: 0.682498157
+topicality: 0.682498157
+, mid: "/m/0cnmr"
+description: "Fur"
+score: 0.68236351
+topicality: 0.68236351
+, mid: "/m/07_gml"
+description: "Working animal"
+score: 0.677111685
+topicality: 0.677111685
+], 'IMG_0233.JPG', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.952691793
+topicality: 0.952691793
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.860006452
+topicality: 0.860006452
+, mid: "/m/07_gml"
+description: "Working animal"
+score: 0.831835
+topicality: 0.831835
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.815269113
+topicality: 0.815269113
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.792033076
+topicality: 0.792033076
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.776716
+topicality: 0.776716
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.744525433
+topicality: 0.744525433
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.7353971
+topicality: 0.7353971
+, mid: "/g/11jy976z6"
+description: "Small terrier"
+score: 0.670251489
+topicality: 0.670251489
+, mid: "/m/017y8_"
+description: "Terrier"
+score: 0.662055731
+topicality: 0.662055731
+], 'IMG_0239.JPEG', [mid: "/m/01bqvp"
+description: "Sky"
+score: 0.968587935
+topicality: 0.968587935
+, mid: "/m/05s2s"
+description: "Plant"
+score: 0.957171202
+topicality: 0.957171202
+, mid: "/m/07j7r"
+description: "Tree"
+score: 0.855166674
+topicality: 0.855166674
+, mid: "/m/01k0mv"
+description: "Road surface"
+score: 0.804950774
+topicality: 0.804950774
+, mid: "/m/08t9c_"
+description: "Grass"
+score: 0.803893
+topicality: 0.803893
+, mid: "/m/0jjw"
+description: "Art"
+score: 0.754486263
+topicality: 0.754486263
+, mid: "/m/025s3q0"
+description: "Landscape"
+score: 0.737967372
+topicality: 0.737967372
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.71941036
+topicality: 0.71941036
+, mid: "/m/04g3r"
+description: "Leisure"
+score: 0.717346907
+topicality: 0.717346907
+, mid: "/m/014dsx"
+description: "Travel"
+score: 0.69715488
+topicality: 0.69715488
+], 'IMG_0240.JPEG', [mid: "/m/01bqvp"
+description: "Sky"
+score: 0.974633396
+topicality: 0.974633396
+, mid: "/m/05s2s"
+description: "Plant"
+score: 0.925430357
+topicality: 0.925430357
+, mid: "/m/01fdzj"
+description: "Tower"
+score: 0.916689
+topicality: 0.916689
+, mid: "/m/0cgh4"
+description: "Building"
+score: 0.874700367
+topicality: 0.874700367
+, mid: "/m/07j7r"
+description: "Tree"
+score: 0.831294179
+topicality: 0.831294179
+, mid: "/m/08t9c_"
+description: "Grass"
+score: 0.801134706
+topicality: 0.801134706
+, mid: "/m/02ljgl"
+description: "Monument"
+score: 0.775904894
+topicality: 0.775904894
+, mid: "/m/0csby"
+description: "Cloud"
+score: 0.690585911
+topicality: 0.690585911
+, mid: "/m/0f28m"
+description: "Symmetry"
+score: 0.68175143
+topicality: 0.68175143
+, mid: "/m/01c6yl"
+description: "Spire"
+score: 0.676252484
+topicality: 0.676252484
+], 'IMG_0244.JPEG', [mid: "/m/01bqvp"
+description: "Sky"
+score: 0.947924912
+topicality: 0.947924912
+, mid: "/m/05s2s"
+description: "Plant"
+score: 0.930924833
+topicality: 0.930924833
+, mid: "/m/0cgh4"
+description: "Building"
+score: 0.859045267
+topicality: 0.859045267
+, mid: "/m/07j7r"
+description: "Tree"
+score: 0.772006333
+topicality: 0.772006333
+, mid: "/m/03ty65"
+description: "Chinese architecture"
+score: 0.771724045
+topicality: 0.771724045
+, mid: "/m/0cx45"
+description: "Temple"
+score: 0.748878956
+topicality: 0.748878956
+, mid: "/m/03jm5"
+description: "House"
+score: 0.748256385
+topicality: 0.748256385
+, mid: "/m/01x314"
+description: "Facade"
+score: 0.746854305
+topicality: 0.746854305
+, mid: "/m/06hyd"
+description: "Roof"
+score: 0.685539
+topicality: 0.685539
+, mid: "/m/01yjfd"
+description: "Japanese architecture"
+score: 0.675947785
+topicality: 0.675947785
+], 'IMG_0247.JPG', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.958937705
+topicality: 0.958937705
+, mid: "/m/0h8nm96"
+description: "Dog supply"
+score: 0.923982382
+topicality: 0.923982382
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.90521723
+topicality: 0.90521723
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.897167
+topicality: 0.897167
+, mid: "/m/0h8nlvj"
+description: "Dog clothes"
+score: 0.880891621
+topicality: 0.880891621
+, mid: "/m/07_gml"
+description: "Working animal"
+score: 0.861178756
+topicality: 0.861178756
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.82698375
+topicality: 0.82698375
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.815819
+topicality: 0.815819
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.782770455
+topicality: 0.782770455
+, mid: "/m/0h8ks17"
+description: "Pet supply"
+score: 0.76691258
+topicality: 0.76691258
+], 'IMG_0255.JPEG', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.961307406
+topicality: 0.961307406
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.917808294
+topicality: 0.917808294
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.904630661
+topicality: 0.904630661
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.828390241
+topicality: 0.828390241
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.794465423
+topicality: 0.794465423
+, mid: "/m/05mqq3"
+description: "Snout"
+score: 0.764579952
+topicality: 0.764579952
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.750559211
+topicality: 0.750559211
+, mid: "/m/017y8_"
+description: "Terrier"
+score: 0.728975296
+topicality: 0.728975296
+, mid: "/g/11jy976z6"
+description: "Small terrier"
+score: 0.726678967
+topicality: 0.726678967
+, mid: "/m/0265rtm"
+description: "Sporting Group"
+score: 0.719526827
+topicality: 0.719526827
+], 'IMG_0260.JPEG', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.952364147
+topicality: 0.952364147
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.904021502
+topicality: 0.904021502
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.898866177
+topicality: 0.898866177
+, mid: "/m/09141t"
+description: "Collar"
+score: 0.866725326
+topicality: 0.866725326
+, mid: "/m/039xj_"
+description: "Ear"
+score: 0.856329381
+topicality: 0.856329381
+, mid: "/m/07_gml"
+description: "Working animal"
+score: 0.823735058
+topicality: 0.823735058
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.822527468
+topicality: 0.822527468
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.818779111
+topicality: 0.818779111
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.815398097
+topicality: 0.815398097
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.794055581
+topicality: 0.794055581
+], 'IMG_0262.JPEG', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.949481428
+topicality: 0.949481428
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.842871
+topicality: 0.842871
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.840496838
+topicality: 0.840496838
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.815203488
+topicality: 0.815203488
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.812032759
+topicality: 0.812032759
+, mid: "/m/039xj_"
+description: "Ear"
+score: 0.783949196
+topicality: 0.783949196
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.749128699
+topicality: 0.749128699
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.74700135
+topicality: 0.74700135
+, mid: "/m/07_gml"
+description: "Working animal"
+score: 0.706370413
+topicality: 0.706370413
+, mid: "/m/0cnmr"
+description: "Fur"
+score: 0.662744284
+topicality: 0.662744284
+], 'IMG_0276.JPEG', [mid: "/m/04hgtk"
+description: "Head"
+score: 0.972539067
+topicality: 0.972539067
+, mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.952572763
+topicality: 0.952572763
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.875062644
+topicality: 0.875062644
+, mid: "/m/039xj_"
+description: "Ear"
+score: 0.871080041
+topicality: 0.871080041
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.864463747
+topicality: 0.864463747
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.813166618
+topicality: 0.813166618
+, mid: "/m/0h8nm96"
+description: "Dog supply"
+score: 0.795429528
+topicality: 0.795429528
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.711045384
+topicality: 0.711045384
+, mid: "/m/0cnmr"
+description: "Fur"
+score: 0.657695532
+topicality: 0.657695532
+, mid: "/m/01rkbr"
+description: "Tie"
+score: 0.623215
+topicality: 0.623215
+], 'IMG_0282.JPG', [mid: "/m/09j2d"
+description: "Clothing"
+score: 0.986538947
+topicality: 0.986538947
+, mid: "/m/0cgh4"
+description: "Building"
+score: 0.968963265
+topicality: 0.968963265
+, mid: "/m/079cl"
+description: "Skyscraper"
+score: 0.962735295
+topicality: 0.962735295
+, mid: "/m/07mhn"
+description: "Trousers"
+score: 0.962096393
+topicality: 0.962096393
+, mid: "/m/01bqvp"
+description: "Sky"
+score: 0.900485635
+topicality: 0.900485635
+, mid: "/m/0hnnb"
+description: "Umbrella"
+score: 0.892762542
+topicality: 0.892762542
+, mid: "/m/017kvv"
+description: "Infrastructure"
+score: 0.887111545
+topicality: 0.887111545
+, mid: "/m/02wzbmj"
+description: "Standing"
+score: 0.864216566
+topicality: 0.864216566
+, mid: "/m/014dsx"
+description: "Travel"
+score: 0.851363242
+topicality: 0.851363242
+, mid: "/m/0vlys"
+description: "Tower block"
+score: 0.850420117
+topicality: 0.850420117
+], 'IMG_0283.JPG', [mid: "/m/02rfdq"
+description: "Interior design"
+score: 0.866586328
+topicality: 0.866586328
+, mid: "/m/06fvc"
+description: "Red"
+score: 0.811026037
+topicality: 0.811026037
+, mid: "/m/0cgh4"
+description: "Building"
+score: 0.806559324
+topicality: 0.806559324
+, mid: "/m/0191_7"
+description: "Retail"
+score: 0.795611858
+topicality: 0.795611858
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.761765301
+topicality: 0.761765301
+, mid: "/m/0hhdb"
+description: "Shopping"
+score: 0.757831216
+topicality: 0.757831216
+, mid: "/m/04g3r"
+description: "Leisure"
+score: 0.751626909
+topicality: 0.751626909
+, mid: "/m/0gjbg72"
+description: "Shelf"
+score: 0.723126888
+topicality: 0.723126888
+, mid: "/m/081pkj"
+description: "Event"
+score: 0.71434617
+topicality: 0.71434617
+, mid: "/m/09y4pm"
+description: "Market"
+score: 0.692782223
+topicality: 0.692782223
+], 'IMG_0301.JPG', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.960800886
+topicality: 0.960800886
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.907234788
+topicality: 0.907234788
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.89822185
+topicality: 0.89822185
+, mid: "/m/036k5h"
+description: "Grey"
+score: 0.841528118
+topicality: 0.841528118
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.815144
+topicality: 0.815144
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.797061682
+topicality: 0.797061682
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.76558727
+topicality: 0.76558727
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.760879815
+topicality: 0.760879815
+, mid: "/m/05mqq3"
+description: "Snout"
+score: 0.735340118
+topicality: 0.735340118
+, mid: "/m/0khhs"
+description: "Chihuahua"
+score: 0.731955707
+topicality: 0.731955707
+], 'IMG_0328.JPEG', [mid: "/m/01bqvp"
+description: "Sky"
+score: 0.960956097
+topicality: 0.960956097
+, mid: "/m/05s2s"
+description: "Plant"
+score: 0.943738103
+topicality: 0.943738103
+, mid: "/m/07j7r"
+description: "Tree"
+score: 0.89871788
+topicality: 0.89871788
+, mid: "/m/01bfm9"
+description: "Shorts"
+score: 0.886072397
+topicality: 0.886072397
+, mid: "/m/08t9c_"
+description: "Grass"
+score: 0.820067108
+topicality: 0.820067108
+, mid: "/m/04g3r"
+description: "Leisure"
+score: 0.816273689
+topicality: 0.816273689
+, mid: "/m/03jm5"
+description: "House"
+score: 0.744987369
+topicality: 0.744987369
+, mid: "/m/07pltdk"
+description: "Pole"
+score: 0.743373752
+topicality: 0.743373752
+, mid: "/m/025s3q0"
+description: "Landscape"
+score: 0.742225289
+topicality: 0.742225289
+, mid: "/m/081pkj"
+description: "Event"
+score: 0.736468434
+topicality: 0.736468434
+], 'IMG_0331.JPEG', [mid: "/m/025kyy"
+description: "Forehead"
+score: 0.984656394
+topicality: 0.984656394
+, mid: "/m/0jyfg"
+description: "Glasses"
+score: 0.984219074
+topicality: 0.984219074
+, mid: "/m/0k0pj"
+description: "Nose"
+score: 0.983583033
+topicality: 0.983583033
+, mid: "/m/06z04"
+description: "Skin"
+score: 0.975148916
+topicality: 0.975148916
+, mid: "/m/04hgtk"
+description: "Head"
+score: 0.972335041
+topicality: 0.972335041
+, mid: "/m/0f9swq"
+description: "Chin"
+score: 0.966046
+topicality: 0.966046
+, mid: "/m/0h8jxfl"
+description: "Vision care"
+score: 0.953033686
+topicality: 0.953033686
+, mid: "/m/0ds4x"
+description: "Hairstyle"
+score: 0.950900912
+topicality: 0.950900912
+, mid: "/m/027n3_"
+description: "Eyebrow"
+score: 0.947484255
+topicality: 0.947484255
+, mid: "/m/014sv8"
+description: "Eye"
+score: 0.937271655
+topicality: 0.937271655
+], 'IMG_0332.JPEG', [mid: "/m/0jyfg"
+description: "Glasses"
+score: 0.982539058
+topicality: 0.982539058
+, mid: "/m/019nj4"
+description: "Smile"
+score: 0.975827157
+topicality: 0.975827157
+, mid: "/m/0h8jxfl"
+description: "Vision care"
+score: 0.943766117
+topicality: 0.943766117
+, mid: "/m/0j272k5"
+description: "Eyewear"
+score: 0.892342627
+topicality: 0.892342627
+, mid: "/m/016pp7"
+description: "Happy"
+score: 0.85990268
+topicality: 0.85990268
+, mid: "/m/0244x1"
+description: "Gesture"
+score: 0.852604866
+topicality: 0.852604866
+, mid: "/m/014dsx"
+description: "Travel"
+score: 0.822912693
+topicality: 0.822912693
+, mid: "/m/04g3r"
+description: "Leisure"
+score: 0.812073052
+topicality: 0.812073052
+, mid: "/m/0ds99lh"
+description: "Fun"
+score: 0.793190837
+topicality: 0.793190837
+, mid: "/m/01rkbr"
+description: "Tie"
+score: 0.782203913
+topicality: 0.782203913
+], 'IMG_0333.JPEG', [mid: "/m/01bqvp"
+description: "Sky"
+score: 0.942893863
+topicality: 0.942893863
+, mid: "/m/05s2s"
+description: "Plant"
+score: 0.928861797
+topicality: 0.928861797
+, mid: "/m/0d4v4"
+description: "Window"
+score: 0.875483692
+topicality: 0.875483692
+, mid: "/m/07j7r"
+description: "Tree"
+score: 0.859972894
+topicality: 0.859972894
+, mid: "/m/012f08"
+description: "Motor vehicle"
+score: 0.85781312
+topicality: 0.85781312
+, mid: "/m/0hr8"
+description: "Asphalt"
+score: 0.817506194
+topicality: 0.817506194
+, mid: "/m/0cgh4"
+description: "Building"
+score: 0.816095
+topicality: 0.816095
+, mid: "/m/0hf58v5"
+description: "Luggage and bags"
+score: 0.769508719
+topicality: 0.769508719
+, mid: "/m/08t9c_"
+description: "Grass"
+score: 0.762737334
+topicality: 0.762737334
+, mid: "/m/04g3r"
+description: "Leisure"
+score: 0.755762
+topicality: 0.755762
+], 'IMG_0337.JPEG', [mid: "/m/01bqvp"
+description: "Sky"
+score: 0.958640397
+topicality: 0.958640397
+, mid: "/m/05s2s"
+description: "Plant"
+score: 0.950903773
+topicality: 0.950903773
+, mid: "/m/07j7r"
+description: "Tree"
+score: 0.876521468
+topicality: 0.876521468
+, mid: "/m/0cgh4"
+description: "Building"
+score: 0.858581424
+topicality: 0.858581424
+, mid: "/m/03w1r4"
+description: "Military uniform"
+score: 0.825493276
+topicality: 0.825493276
+, mid: "/m/08t9c_"
+description: "Grass"
+score: 0.809313834
+topicality: 0.809313834
+, mid: "/m/04g3r"
+description: "Leisure"
+score: 0.776688
+topicality: 0.776688
+, mid: "/m/03jm5"
+description: "House"
+score: 0.772297502
+topicality: 0.772297502
+, mid: "/m/02h66g5"
+description: "Military person"
+score: 0.740228891
+topicality: 0.740228891
+, mid: "/m/0hr8"
+description: "Asphalt"
+score: 0.72900486
+topicality: 0.72900486
+], 'IMG_0341.JPEG', [mid: "/m/09j2d"
+description: "Clothing"
+score: 0.986850619
+topicality: 0.986850619
+, mid: "/m/0jyfg"
+description: "Glasses"
+score: 0.984895408
+topicality: 0.984895408
+, mid: "/m/019nj4"
+description: "Smile"
+score: 0.981276274
+topicality: 0.981276274
+, mid: "/m/068jd"
+description: "Photograph"
+score: 0.941908479
+topicality: 0.941908479
+, mid: "/m/0h8jxfl"
+description: "Vision care"
+score: 0.93979919
+topicality: 0.93979919
+, mid: "/m/0d4v4"
+description: "Window"
+score: 0.933506191
+topicality: 0.933506191
+, mid: "/m/05s2s"
+description: "Plant"
+score: 0.908545196
+topicality: 0.908545196
+, mid: "/m/0j272k5"
+description: "Eyewear"
+score: 0.894334912
+topicality: 0.894334912
+, mid: "/m/0cgh4"
+description: "Building"
+score: 0.887370884
+topicality: 0.887370884
+, mid: "/m/0244x1"
+description: "Gesture"
+score: 0.852604866
+topicality: 0.852604866
+], 'IMG_0343.JPEG', [mid: "/m/09j5n"
+description: "Footwear"
+score: 0.982576
+topicality: 0.982576
+, mid: "/m/01bqvp"
+description: "Sky"
+score: 0.974971354
+topicality: 0.974971354
+, mid: "/m/06rrc"
+description: "Shoe"
+score: 0.959001541
+topicality: 0.959001541
+, mid: "/m/05s2s"
+description: "Plant"
+score: 0.92871356
+topicality: 0.92871356
+, mid: "/m/0csby"
+description: "Cloud"
+score: 0.927672207
+topicality: 0.927672207
+, mid: "/m/08k64l"
+description: "Cargo pants"
+score: 0.914487302
+topicality: 0.914487302
+, mid: "/m/01bfm9"
+description: "Shorts"
+score: 0.912248373
+topicality: 0.912248373
+, mid: "/m/019nj4"
+description: "Smile"
+score: 0.896090209
+topicality: 0.896090209
+, mid: "/m/07j7r"
+description: "Tree"
+score: 0.854485869
+topicality: 0.854485869
+, mid: "/m/0244x1"
+description: "Gesture"
+score: 0.852604866
+topicality: 0.852604866
+], 'IMG_0346.JPEG', [mid: "/m/027n3_"
+description: "Eyebrow"
+score: 0.941122115
+topicality: 0.941122115
+, mid: "/m/0csby"
+description: "Cloud"
+score: 0.932674289
+topicality: 0.932674289
+, mid: "/m/01bqvp"
+description: "Sky"
+score: 0.913969696
+topicality: 0.913969696
+, mid: "/m/01443y"
+description: "Headgear"
+score: 0.822210193
+topicality: 0.822210193
+, mid: "/m/013s93"
+description: "T-shirt"
+score: 0.788126767
+topicality: 0.788126767
+, mid: "/m/0j272k5"
+description: "Eyewear"
+score: 0.77136451
+topicality: 0.77136451
+, mid: "/m/0ffjr"
+description: "Personal protective equipment"
+score: 0.748778582
+topicality: 0.748778582
+, mid: "/m/05s2s"
+description: "Plant"
+score: 0.684575319
+topicality: 0.684575319
+, mid: "/m/02vwbzz"
+description: "Electric blue"
+score: 0.67887485
+topicality: 0.67887485
+, mid: "/m/02dl1y"
+description: "Hat"
+score: 0.665307164
+topicality: 0.665307164
+], 'IMG_0384.JPEG', [mid: "/m/0838f"
+description: "Water"
+score: 0.971697
+topicality: 0.971697
+, mid: "/m/01bqvp"
+description: "Sky"
+score: 0.970331669
+topicality: 0.970331669
+, mid: "/m/0csby"
+description: "Cloud"
+score: 0.924136817
+topicality: 0.924136817
+, mid: "/m/03jn2m"
+description: "Azure"
+score: 0.893044949
+topicality: 0.893044949
+, mid: "/j/3gbwgn"
+description: "People in nature"
+score: 0.885753
+topicality: 0.885753
+, mid: "/m/062581"
+description: "Sleeve"
+score: 0.871722
+topicality: 0.871722
+, mid: "/g/1tr17zw8"
+description: "Flash photography"
+score: 0.867192268
+topicality: 0.867192268
+, mid: "/m/016pp7"
+description: "Happy"
+score: 0.845519841
+topicality: 0.845519841
+, mid: "/m/014dsx"
+description: "Travel"
+score: 0.818750679
+topicality: 0.818750679
+, mid: "/m/0d1n2"
+description: "Horizon"
+score: 0.785097122
+topicality: 0.785097122
+], 'IMG_0400.JPEG', [mid: "/m/01bqvp"
+description: "Sky"
+score: 0.976174831
+topicality: 0.976174831
+, mid: "/m/0838f"
+description: "Water"
+score: 0.975704253
+topicality: 0.975704253
+, mid: "/m/01g5v"
+description: "Blue"
+score: 0.901723266
+topicality: 0.901723266
+, mid: "/j/3gbwgn"
+description: "People in nature"
+score: 0.897137225
+topicality: 0.897137225
+, mid: "/g/1tr17zw8"
+description: "Flash photography"
+score: 0.87374
+topicality: 0.87374
+, mid: "/m/02c9_23"
+description: "Coastal and oceanic landforms"
+score: 0.845725834
+topicality: 0.845725834
+, mid: "/m/014dsx"
+description: "Travel"
+score: 0.834552228
+topicality: 0.834552228
+, mid: "/m/016pp7"
+description: "Happy"
+score: 0.830297589
+topicality: 0.830297589
+, mid: "/m/019jd"
+description: "Boat"
+score: 0.813155413
+topicality: 0.813155413
+, mid: "/m/04g3r"
+description: "Leisure"
+score: 0.807953835
+topicality: 0.807953835
+], 'IMG_0411.JPG', [mid: "/m/0838f"
+description: "Water"
+score: 0.980505228
+topicality: 0.980505228
+, mid: "/m/0jyfg"
+description: "Glasses"
+score: 0.978923917
+topicality: 0.978923917
+, mid: "/m/01bqvp"
+description: "Sky"
+score: 0.973511934
+topicality: 0.973511934
+, mid: "/m/0k65p"
+description: "Hand"
+score: 0.958163917
+topicality: 0.958163917
+, mid: "/m/0h8jxfl"
+description: "Vision care"
+score: 0.948051453
+topicality: 0.948051453
+, mid: "/m/0j272k5"
+description: "Eyewear"
+score: 0.898162425
+topicality: 0.898162425
+, mid: "/m/02_n6y"
+description: "Goggles"
+score: 0.892263949
+topicality: 0.892263949
+, mid: "/j/148skd"
+description: "People on beach"
+score: 0.866482437
+topicality: 0.866482437
+, mid: "/m/016pp7"
+description: "Happy"
+score: 0.858089089
+topicality: 0.858089089
+, mid: "/m/0244x1"
+description: "Gesture"
+score: 0.852604866
+topicality: 0.852604866
+], 'IMG_0414.JPEG', [mid: "/m/02wbm"
+description: "Food"
+score: 0.968967259
+topicality: 0.968967259
+, mid: "/m/04brg2"
+description: "Tableware"
+score: 0.957303822
+topicality: 0.957303822
+, mid: "/m/0h8nvk9"
+description: "Dishware"
+score: 0.919489145
+topicality: 0.919489145
+, mid: "/m/04bcr3"
+description: "Table"
+score: 0.914833367
+topicality: 0.914833367
+, mid: "/m/050gv4"
+description: "Plate"
+score: 0.886218429
+topicality: 0.886218429
+, mid: "/m/0b76y0"
+description: "Food craving"
+score: 0.834485471
+topicality: 0.834485471
+, mid: "/m/0p57p"
+description: "Recipe"
+score: 0.821761549
+topicality: 0.821761549
+, mid: "/m/01ykh"
+description: "Cuisine"
+score: 0.791516781
+topicality: 0.791516781
+, mid: "/m/02q08p0"
+description: "Dish"
+score: 0.788790882
+topicality: 0.788790882
+, mid: "/m/01mzpv"
+description: "Chair"
+score: 0.779723346
+topicality: 0.779723346
+], 'IMG_0474.JPEG', [mid: "/m/0dfgf"
+description: "Feather"
+score: 0.847267091
+topicality: 0.847267091
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.809922457
+topicality: 0.809922457
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.775834739
+topicality: 0.775834739
+, mid: "/m/05mqq3"
+description: "Snout"
+score: 0.747663438
+topicality: 0.747663438
+, mid: "/m/02cqfm"
+description: "Close-up"
+score: 0.700390875
+topicality: 0.700390875
+, mid: "/m/083s2"
+description: "Wing"
+score: 0.694553673
+topicality: 0.694553673
+, mid: "/m/0cnmr"
+description: "Fur"
+score: 0.682747066
+topicality: 0.682747066
+, mid: "/m/01z5f"
+description: "Canidae"
+score: 0.670757
+topicality: 0.670757
+, mid: "/m/0265rtm"
+description: "Sporting Group"
+score: 0.659108579
+topicality: 0.659108579
+, mid: "/m/06z_nw"
+description: "Tail"
+score: 0.644765675
+topicality: 0.644765675
+], 'IMG_0501.JPEG', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.952229202
+topicality: 0.952229202
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.904614925
+topicality: 0.904614925
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.896338701
+topicality: 0.896338701
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.81904465
+topicality: 0.81904465
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.777153969
+topicality: 0.777153969
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.76094991
+topicality: 0.76094991
+, mid: "/m/05mqq3"
+description: "Snout"
+score: 0.743179083
+topicality: 0.743179083
+, mid: "/m/0cnmr"
+description: "Fur"
+score: 0.678022683
+topicality: 0.678022683
+, mid: "/m/0265rtm"
+description: "Sporting Group"
+score: 0.659223616
+topicality: 0.659223616
+, mid: "/m/01z5f"
+description: "Canidae"
+score: 0.65422219
+topicality: 0.65422219
+], 'IMG_0510.JPEG', [mid: "/m/08xgn7"
+description: "Comfort"
+score: 0.71936965
+topicality: 0.71936965
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.713237643
+topicality: 0.713237643
+, mid: "/m/031n1"
+description: "Foot"
+score: 0.707735717
+topicality: 0.707735717
+, mid: "/m/06z_nw"
+description: "Tail"
+score: 0.697449803
+topicality: 0.697449803
+, mid: "/m/0cnmr"
+description: "Fur"
+score: 0.664807737
+topicality: 0.664807737
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.643863559
+topicality: 0.643863559
+, mid: "/m/07sx2n"
+description: "Natural material"
+score: 0.639201283
+topicality: 0.639201283
+, mid: "/m/09w5r"
+description: "Human leg"
+score: 0.628584504
+topicality: 0.628584504
+, mid: "/m/023j4r"
+description: "Nail"
+score: 0.596127629
+topicality: 0.596127629
+, mid: "/m/0j62f"
+description: "Rectangle"
+score: 0.574752152
+topicality: 0.574752152
+], 'IMG_0519.JPEG', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.957483351
+topicality: 0.957483351
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.876251459
+topicality: 0.876251459
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.871196747
+topicality: 0.871196747
+, mid: "/m/01m2v"
+description: "Computer keyboard"
+score: 0.856125593
+topicality: 0.856125593
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.850242794
+topicality: 0.850242794
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.847595751
+topicality: 0.847595751
+, mid: "/m/07_gml"
+description: "Working animal"
+score: 0.836248636
+topicality: 0.836248636
+, mid: "/m/0l7_8"
+description: "Floor"
+score: 0.835801721
+topicality: 0.835801721
+, mid: "/m/08xgn7"
+description: "Comfort"
+score: 0.832541943
+topicality: 0.832541943
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.815789461
+topicality: 0.815789461
+], 'IMG_0552.JPG', [mid: "/m/0k0pj"
+description: "Nose"
+score: 0.983583033
+topicality: 0.983583033
+, mid: "/m/0138tl"
+description: "Toy"
+score: 0.932863116
+topicality: 0.932863116
+, mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.925199568
+topicality: 0.925199568
+, mid: "/m/038hg"
+description: "Green"
+score: 0.916501701
+topicality: 0.916501701
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.884851
+topicality: 0.884851
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.878449321
+topicality: 0.878449321
+, mid: "/m/0dnr7"
+description: "Textile"
+score: 0.877043188
+topicality: 0.877043188
+, mid: "/m/07_gml"
+description: "Working animal"
+score: 0.831792831
+topicality: 0.831792831
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.815981805
+topicality: 0.815981805
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.805371344
+topicality: 0.805371344
+], 'IMG_0554.JPG', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.940126359
+topicality: 0.940126359
+, mid: "/m/0h8nm96"
+description: "Dog supply"
+score: 0.908655405
+topicality: 0.908655405
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.900975168
+topicality: 0.900975168
+, mid: "/m/0h8nlvj"
+description: "Dog clothes"
+score: 0.894432843
+topicality: 0.894432843
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.85726
+topicality: 0.85726
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.846921325
+topicality: 0.846921325
+, mid: "/m/0h8ks17"
+description: "Pet supply"
+score: 0.842891693
+topicality: 0.842891693
+, mid: "/m/0l7_8"
+description: "Floor"
+score: 0.839719236
+topicality: 0.839719236
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.816721857
+topicality: 0.816721857
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.815137804
+topicality: 0.815137804
+], 'IMG_0574.JPG', [mid: "/m/012ckm"
+description: "Bonfire"
+score: 0.903757751
+topicality: 0.903757751
+, mid: "/m/019sc6"
+description: "Lighting"
+score: 0.86344564
+topicality: 0.86344564
+, mid: "/m/02_41"
+description: "Fire"
+score: 0.831896067
+topicality: 0.831896067
+, mid: "/m/019mk7"
+description: "Campfire"
+score: 0.80885458
+topicality: 0.80885458
+, mid: "/m/03k2v"
+description: "Heat"
+score: 0.799469054
+topicality: 0.799469054
+, mid: "/m/037xy"
+description: "Gas"
+score: 0.780914247
+topicality: 0.780914247
+, mid: "/m/01f415"
+description: "Flame"
+score: 0.757044792
+topicality: 0.757044792
+, mid: "/m/081pkj"
+description: "Event"
+score: 0.737226307
+topicality: 0.737226307
+, mid: "/m/01kyr8"
+description: "Darkness"
+score: 0.695082545
+topicality: 0.695082545
+, mid: "/m/0ds99lh"
+description: "Fun"
+score: 0.668136597
+topicality: 0.668136597
+], 'IMG_0578.JPEG', [mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.834852219
+topicality: 0.834852219
+, mid: "/m/016q19"
+description: "Petal"
+score: 0.828538954
+topicality: 0.828538954
+, mid: "/m/0307l"
+description: "Felidae"
+score: 0.762236118
+topicality: 0.762236118
+, mid: "/m/06httj"
+description: "Linens"
+score: 0.712156057
+topicality: 0.712156057
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.706412613
+topicality: 0.706412613
+, mid: "/m/07k6w8"
+description: "Small to medium-sized cats"
+score: 0.676263392
+topicality: 0.676263392
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.656813145
+topicality: 0.656813145
+, mid: "/m/02r4lqp"
+description: "Pedicel"
+score: 0.651229382
+topicality: 0.651229382
+, mid: "/m/04sjm"
+description: "Flowering plant"
+score: 0.651210606
+topicality: 0.651210606
+, mid: "/m/0cnmr"
+description: "Fur"
+score: 0.646325707
+topicality: 0.646325707
+], 'IMG_0579.JPEG', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.95326674
+topicality: 0.95326674
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.921323419
+topicality: 0.921323419
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.901144862
+topicality: 0.901144862
+, mid: "/m/0h8nm96"
+description: "Dog supply"
+score: 0.887452602
+topicality: 0.887452602
+, mid: "/m/02crq1"
+description: "Couch"
+score: 0.837391198
+topicality: 0.837391198
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.829046607
+topicality: 0.829046607
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.816049397
+topicality: 0.816049397
+, mid: "/m/07_gml"
+description: "Working animal"
+score: 0.788576305
+topicality: 0.788576305
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.761779666
+topicality: 0.761779666
+, mid: "/m/05mqq3"
+description: "Snout"
+score: 0.750236809
+topicality: 0.750236809
+], 'IMG_0589.JPEG', [mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.903187573
+topicality: 0.903187573
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.873827934
+topicality: 0.873827934
+, mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.868087351
+topicality: 0.868087351
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.852927804
+topicality: 0.852927804
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.847607374
+topicality: 0.847607374
+, mid: "/m/0l7_8"
+description: "Floor"
+score: 0.842277825
+topicality: 0.842277825
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.823304772
+topicality: 0.823304772
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.815734565
+topicality: 0.815734565
+, mid: "/m/020g49"
+description: "Hardwood"
+score: 0.79323
+topicality: 0.79323
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.75072521
+topicality: 0.75072521
+], 'IMG_0590.JPEG', [mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.896836042
+topicality: 0.896836042
+, mid: "/m/0307l"
+description: "Felidae"
+score: 0.893175185
+topicality: 0.893175185
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.881987333
+topicality: 0.881987333
+, mid: "/m/07k6w8"
+description: "Small to medium-sized cats"
+score: 0.855225086
+topicality: 0.855225086
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.841433585
+topicality: 0.841433585
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.816946328
+topicality: 0.816946328
+, mid: "/m/08xgn7"
+description: "Comfort"
+score: 0.815788627
+topicality: 0.815788627
+, mid: "/m/0138tl"
+description: "Toy"
+score: 0.794463217
+topicality: 0.794463217
+, mid: "/m/05mqq3"
+description: "Snout"
+score: 0.750962377
+topicality: 0.750962377
+, mid: "/m/0265rtm"
+description: "Sporting Group"
+score: 0.69245559
+topicality: 0.69245559
+], 'IMG_0594.JPEG', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.944645047
+topicality: 0.944645047
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.884587646
+topicality: 0.884587646
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.874703884
+topicality: 0.874703884
+, mid: "/m/062581"
+description: "Sleeve"
+score: 0.853137672
+topicality: 0.853137672
+, mid: "/m/0h8nlvj"
+description: "Dog clothes"
+score: 0.836316645
+topicality: 0.836316645
+, mid: "/m/07_gml"
+description: "Working animal"
+score: 0.821798563
+topicality: 0.821798563
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.815369248
+topicality: 0.815369248
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.81484
+topicality: 0.81484
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.802926421
+topicality: 0.802926421
+, mid: "/m/0h8nm96"
+description: "Dog supply"
+score: 0.782911241
+topicality: 0.782911241
+], 'IMG_0598.JPG', [mid: "/m/01yrx"
+description: "Cat"
+score: 0.953908145
+topicality: 0.953908145
+, mid: "/m/0307l"
+description: "Felidae"
+score: 0.920888662
+topicality: 0.920888662
+, mid: "/m/0g_3r"
+description: "Siamese"
+score: 0.91181618
+topicality: 0.91181618
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.904741883
+topicality: 0.904741883
+, mid: "/m/07k6w8"
+description: "Small to medium-sized cats"
+score: 0.883783579
+topicality: 0.883783579
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.860334456
+topicality: 0.860334456
+, mid: "/m/036k5h"
+description: "Grey"
+score: 0.842146873
+topicality: 0.842146873
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.841278255
+topicality: 0.841278255
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.816235721
+topicality: 0.816235721
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.797747195
+topicality: 0.797747195
+], 'IMG_0606.JPEG', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.948692858
+topicality: 0.948692858
+, mid: "/m/014sv8"
+description: "Eye"
+score: 0.937378824
+topicality: 0.937378824
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.878563404
+topicality: 0.878563404
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.868833065
+topicality: 0.868833065
+, mid: "/m/07_gml"
+description: "Working animal"
+score: 0.843603075
+topicality: 0.843603075
+, mid: "/m/08xgn7"
+description: "Comfort"
+score: 0.842533886
+topicality: 0.842533886
+, mid: "/m/039xj_"
+description: "Ear"
+score: 0.836384
+topicality: 0.836384
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.81537044
+topicality: 0.81537044
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.804359913
+topicality: 0.804359913
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.80021143
+topicality: 0.80021143
+], 'IMG_0607.JPEG', [mid: "/m/04hgtk"
+description: "Head"
+score: 0.972665
+topicality: 0.972665
+, mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.950268626
+topicality: 0.950268626
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.911604762
+topicality: 0.911604762
+, mid: "/m/08xgn7"
+description: "Comfort"
+score: 0.895453751
+topicality: 0.895453751
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.882291436
+topicality: 0.882291436
+, mid: "/m/039xj_"
+description: "Ear"
+score: 0.83924073
+topicality: 0.83924073
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.822917938
+topicality: 0.822917938
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.815450788
+topicality: 0.815450788
+, mid: "/m/07_gml"
+description: "Working animal"
+score: 0.806824207
+topicality: 0.806824207
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.763271451
+topicality: 0.763271451
+], 'IMG_0609.JPEG', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.958973467
+topicality: 0.958973467
+, mid: "/m/0h8nm96"
+description: "Dog supply"
+score: 0.885367572
+topicality: 0.885367572
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.85944742
+topicality: 0.85944742
+, mid: "/m/04rky"
+description: "Mammal"
+score: 0.859360516
+topicality: 0.859360516
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.849987268
+topicality: 0.849987268
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.84926343
+topicality: 0.84926343
+, mid: "/m/0l7_8"
+description: "Floor"
+score: 0.837474465
+topicality: 0.837474465
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.832101405
+topicality: 0.832101405
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.815579116
+topicality: 0.815579116
+, mid: "/m/07_gml"
+description: "Working animal"
+score: 0.814459085
+topicality: 0.814459085
+], 'IMG_0610.JPEG', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.956154943
+topicality: 0.956154943
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.862034738
+topicality: 0.862034738
+, mid: "/m/0h8nm96"
+description: "Dog supply"
+score: 0.854039431
+topicality: 0.854039431
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.8508268
+topicality: 0.8508268
+, mid: "/m/0l7_8"
+description: "Floor"
+score: 0.838580251
+topicality: 0.838580251
+, mid: "/m/07_gml"
+description: "Working animal"
+score: 0.831577301
+topicality: 0.831577301
+, mid: "/m/05s2s"
+description: "Plant"
+score: 0.830720961
+topicality: 0.830720961
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.82840091
+topicality: 0.82840091
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.812724
+topicality: 0.812724
+, mid: "/m/0h8nlvj"
+description: "Dog clothes"
+score: 0.812009633
+topicality: 0.812009633
+], 'IMG_0615.JPEG', [mid: "/m/08xgn7"
+description: "Comfort"
+score: 0.874096274
+topicality: 0.874096274
+, mid: "/m/0d4v4"
+description: "Window"
+score: 0.85350287
+topicality: 0.85350287
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.825451612
+topicality: 0.825451612
+, mid: "/m/0138tl"
+description: "Toy"
+score: 0.816599548
+topicality: 0.816599548
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.815023303
+topicality: 0.815023303
+, mid: "/m/0l7_8"
+description: "Floor"
+score: 0.811299562
+topicality: 0.811299562
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.805838406
+topicality: 0.805838406
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.799078465
+topicality: 0.799078465
+, mid: "/m/02crq1"
+description: "Couch"
+score: 0.793065965
+topicality: 0.793065965
+, mid: "/m/06httj"
+description: "Linens"
+score: 0.712647
+topicality: 0.712647
+], 'IMG_0619.JPG', [mid: "/m/01yrx"
+description: "Cat"
+score: 0.954883
+topicality: 0.954883
+, mid: "/m/0307l"
+description: "Felidae"
+score: 0.875631452
+topicality: 0.875631452
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.871330678
+topicality: 0.871330678
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.868096352
+topicality: 0.868096352
+, mid: "/m/07k6w8"
+description: "Small to medium-sized cats"
+score: 0.854468107
+topicality: 0.854468107
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.849990547
+topicality: 0.849990547
+, mid: "/m/036k5h"
+description: "Grey"
+score: 0.840789318
+topicality: 0.840789318
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.839143932
+topicality: 0.839143932
+, mid: "/m/0l7_8"
+description: "Floor"
+score: 0.819158375
+topicality: 0.819158375
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.815910697
+topicality: 0.815910697
+], 'IMG_0621.JPG', [mid: "/m/083vt"
+description: "Wood"
+score: 0.856555521
+topicality: 0.856555521
+, mid: "/m/036k5h"
+description: "Grey"
+score: 0.840804935
+topicality: 0.840804935
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.820827305
+topicality: 0.820827305
+, mid: "/m/0l7_8"
+description: "Floor"
+score: 0.820054591
+topicality: 0.820054591
+, mid: "/m/0hndl"
+description: "Shade"
+score: 0.819304109
+topicality: 0.819304109
+, mid: "/m/0d4v4"
+description: "Window"
+score: 0.793275
+topicality: 0.793275
+, mid: "/m/02q_bfg"
+description: "Tints and shades"
+score: 0.774047375
+topicality: 0.774047375
+, mid: "/m/020g49"
+description: "Hardwood"
+score: 0.754934549
+topicality: 0.754934549
+, mid: "/m/0cgh4"
+description: "Building"
+score: 0.744733
+topicality: 0.744733
+, mid: "/m/03gfsp"
+description: "Ceiling"
+score: 0.713132918
+topicality: 0.713132918
+], 'IMG_0622.JPG', [mid: "/m/01yrx"
+description: "Cat"
+score: 0.953256667
+topicality: 0.953256667
+, mid: "/m/0g_3r"
+description: "Siamese"
+score: 0.921905398
+topicality: 0.921905398
+, mid: "/m/0307l"
+description: "Felidae"
+score: 0.902864218
+topicality: 0.902864218
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.901097119
+topicality: 0.901097119
+, mid: "/m/07k6w8"
+description: "Small to medium-sized cats"
+score: 0.853578746
+topicality: 0.853578746
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.840501904
+topicality: 0.840501904
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.832207143
+topicality: 0.832207143
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.816070557
+topicality: 0.816070557
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.762117922
+topicality: 0.762117922
+, mid: "/m/05mqq3"
+description: "Snout"
+score: 0.749782324
+topicality: 0.749782324
+], 'IMG_0623.JPG', [mid: "/m/01yrx"
+description: "Cat"
+score: 0.944162369
+topicality: 0.944162369
+, mid: "/m/0g_3r"
+description: "Siamese"
+score: 0.917582691
+topicality: 0.917582691
+, mid: "/m/0307l"
+description: "Felidae"
+score: 0.895148098
+topicality: 0.895148098
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.890665174
+topicality: 0.890665174
+, mid: "/m/07k6w8"
+description: "Small to medium-sized cats"
+score: 0.862149775
+topicality: 0.862149775
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.830346346
+topicality: 0.830346346
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.816191614
+topicality: 0.816191614
+, mid: "/m/012ltm"
+description: "Birman"
+score: 0.788367331
+topicality: 0.788367331
+, mid: "/m/05mqq3"
+description: "Snout"
+score: 0.762299657
+topicality: 0.762299657
+, mid: "/m/037xy"
+description: "Gas"
+score: 0.725701094
+topicality: 0.725701094
+], 'IMG_0624.JPG', [mid: "/m/01yrx"
+description: "Cat"
+score: 0.958633
+topicality: 0.958633
+, mid: "/m/0g_3r"
+description: "Siamese"
+score: 0.930040419
+topicality: 0.930040419
+, mid: "/m/0307l"
+description: "Felidae"
+score: 0.91582942
+topicality: 0.91582942
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.90293926
+topicality: 0.90293926
+, mid: "/m/07k6w8"
+description: "Small to medium-sized cats"
+score: 0.864492
+topicality: 0.864492
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.854875922
+topicality: 0.854875922
+, mid: "/m/0lxkm"
+description: "Iris"
+score: 0.847911835
+topicality: 0.847911835
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.816152155
+topicality: 0.816152155
+, mid: "/m/012ltm"
+description: "Birman"
+score: 0.793957353
+topicality: 0.793957353
+, mid: "/m/05mqq3"
+description: "Snout"
+score: 0.771572173
+topicality: 0.771572173
+], 'IMG_0625.JPG', [mid: "/m/01yrx"
+description: "Cat"
+score: 0.960288048
+topicality: 0.960288048
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.877599
+topicality: 0.877599
+, mid: "/m/0g_3r"
+description: "Siamese"
+score: 0.870087206
+topicality: 0.870087206
+, mid: "/m/0lxkm"
+description: "Iris"
+score: 0.857098877
+topicality: 0.857098877
+, mid: "/m/0307l"
+description: "Felidae"
+score: 0.8497352
+topicality: 0.8497352
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.815718
+topicality: 0.815718
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.813444793
+topicality: 0.813444793
+, mid: "/m/07k6w8"
+description: "Small to medium-sized cats"
+score: 0.812299609
+topicality: 0.812299609
+, mid: "/m/012ltm"
+description: "Birman"
+score: 0.797180176
+topicality: 0.797180176
+, mid: "/m/05mqq3"
+description: "Snout"
+score: 0.750953555
+topicality: 0.750953555
+], 'IMG_0626.JPG', [mid: "/m/01yrx"
+description: "Cat"
+score: 0.89283812
+topicality: 0.89283812
+, mid: "/m/0307l"
+description: "Felidae"
+score: 0.878307045
+topicality: 0.878307045
+, mid: "/m/08xgn7"
+description: "Comfort"
+score: 0.863550067
+topicality: 0.863550067
+, mid: "/m/036k5h"
+description: "Grey"
+score: 0.844591856
+topicality: 0.844591856
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.823256493
+topicality: 0.823256493
+, mid: "/m/07k6w8"
+description: "Small to medium-sized cats"
+score: 0.820511043
+topicality: 0.820511043
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.762270808
+topicality: 0.762270808
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.75414288
+topicality: 0.75414288
+, mid: "/m/06z_nw"
+description: "Tail"
+score: 0.741008639
+topicality: 0.741008639
+, mid: "/m/09w5r"
+description: "Human leg"
+score: 0.735458612
+topicality: 0.735458612
+], 'IMG_0627.JPG', [mid: "/m/09q2t"
+description: "Brown"
+score: 0.980467856
+topicality: 0.980467856
+, mid: "/m/01yrx"
+description: "Cat"
+score: 0.965630889
+topicality: 0.965630889
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.880812764
+topicality: 0.880812764
+, mid: "/m/0307l"
+description: "Felidae"
+score: 0.862551
+topicality: 0.862551
+, mid: "/m/0lxkm"
+description: "Iris"
+score: 0.857597172
+topicality: 0.857597172
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.816538692
+topicality: 0.816538692
+, mid: "/m/0g_3r"
+description: "Siamese"
+score: 0.812332392
+topicality: 0.812332392
+, mid: "/m/07k6w8"
+description: "Small to medium-sized cats"
+score: 0.811212
+topicality: 0.811212
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.807162941
+topicality: 0.807162941
+, mid: "/m/012ltm"
+description: "Birman"
+score: 0.776132643
+topicality: 0.776132643
+], 'IMG_0628.JPG', [mid: "/m/04szw"
+description: "Musical instrument"
+score: 0.949587941
+topicality: 0.949587941
+, mid: "/m/05148p4"
+description: "Keyboard"
+score: 0.911338508
+topicality: 0.911338508
+, mid: "/m/05r5c"
+description: "Piano"
+score: 0.898498
+topicality: 0.898498
+, mid: "/m/057cc"
+description: "Musical keyboard"
+score: 0.87261343
+topicality: 0.87261343
+, mid: "/m/02qjv"
+description: "Electronic musical instrument"
+score: 0.868789434
+topicality: 0.868789434
+, mid: "/m/0h8npf5"
+description: "Musical instrument accessory"
+score: 0.863448
+topicality: 0.863448
+, mid: "/m/01vdm0"
+description: "Electronic keyboard"
+score: 0.860695
+topicality: 0.860695
+, mid: "/m/01pmyz"
+description: "Digital piano"
+score: 0.843104422
+topicality: 0.843104422
+, mid: "/m/01s0ps"
+description: "Electric piano"
+score: 0.828449428
+topicality: 0.828449428
+, mid: "/m/04rlf"
+description: "Music"
+score: 0.822183251
+topicality: 0.822183251
+], 'IMG_0629.JPG', [mid: "/m/01yrx"
+description: "Cat"
+score: 0.958187878
+topicality: 0.958187878
+, mid: "/m/0307l"
+description: "Felidae"
+score: 0.861247301
+topicality: 0.861247301
+, mid: "/m/02w7c7"
+description: "Ragdoll"
+score: 0.841954827
+topicality: 0.841954827
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.833937109
+topicality: 0.833937109
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.815710425
+topicality: 0.815710425
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.775232732
+topicality: 0.775232732
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.758885324
+topicality: 0.758885324
+, mid: "/m/07k6w8"
+description: "Small to medium-sized cats"
+score: 0.756823301
+topicality: 0.756823301
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.7525267
+topicality: 0.7525267
+, mid: "/m/020g49"
+description: "Hardwood"
+score: 0.752152741
+topicality: 0.752152741
+], 'IMG_0630.JPEG', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.936259449
+topicality: 0.936259449
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.864582181
+topicality: 0.864582181
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.856192052
+topicality: 0.856192052
+, mid: "/m/04rky"
+description: "Mammal"
+score: 0.853531659
+topicality: 0.853531659
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.815346777
+topicality: 0.815346777
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.807954431
+topicality: 0.807954431
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.766420245
+topicality: 0.766420245
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.743929446
+topicality: 0.743929446
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.695527613
+topicality: 0.695527613
+, mid: "/m/01s7fj"
+description: "Shih tzu"
+score: 0.678672
+topicality: 0.678672
+], 'IMG_0631.JPEG', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.943784118
+topicality: 0.943784118
+, mid: "/m/0h8nlvj"
+description: "Dog clothes"
+score: 0.877194583
+topicality: 0.877194583
+, mid: "/m/0h8nm96"
+description: "Dog supply"
+score: 0.873020351
+topicality: 0.873020351
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.862969637
+topicality: 0.862969637
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.818525374
+topicality: 0.818525374
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.815454
+topicality: 0.815454
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.801704168
+topicality: 0.801704168
+, mid: "/m/02dgv"
+description: "Door"
+score: 0.78625387
+topicality: 0.78625387
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.773302913
+topicality: 0.773302913
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.771979451
+topicality: 0.771979451
+], 'IMG_0635.JPG', [mid: "/m/01yrx"
+description: "Cat"
+score: 0.927458644
+topicality: 0.927458644
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.872838736
+topicality: 0.872838736
+, mid: "/m/0307l"
+description: "Felidae"
+score: 0.870427072
+topicality: 0.870427072
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.85872066
+topicality: 0.85872066
+, mid: "/m/036k5h"
+description: "Grey"
+score: 0.841965199
+topicality: 0.841965199
+, mid: "/m/07k6w8"
+description: "Small to medium-sized cats"
+score: 0.836657584
+topicality: 0.836657584
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.83261615
+topicality: 0.83261615
+, mid: "/m/0l7_8"
+description: "Floor"
+score: 0.818287849
+topicality: 0.818287849
+, mid: "/m/020g49"
+description: "Hardwood"
+score: 0.781627655
+topicality: 0.781627655
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.767463923
+topicality: 0.767463923
+], 'IMG_0636.JPG', [mid: "/m/01yrx"
+description: "Cat"
+score: 0.961832583
+topicality: 0.961832583
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.866938949
+topicality: 0.866938949
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.865022
+topicality: 0.865022
+, mid: "/m/0307l"
+description: "Felidae"
+score: 0.848951757
+topicality: 0.848951757
+, mid: "/m/036k5h"
+description: "Grey"
+score: 0.841508448
+topicality: 0.841508448
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.829368651
+topicality: 0.829368651
+, mid: "/m/0l7_8"
+description: "Floor"
+score: 0.826169848
+topicality: 0.826169848
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.825282335
+topicality: 0.825282335
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.815402746
+topicality: 0.815402746
+, mid: "/m/07k6w8"
+description: "Small to medium-sized cats"
+score: 0.811217189
+topicality: 0.811217189
+], 'IMG_0640.JPG', [mid: "/m/01yrx"
+description: "Cat"
+score: 0.928018689
+topicality: 0.928018689
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.909510255
+topicality: 0.909510255
+, mid: "/m/0307l"
+description: "Felidae"
+score: 0.902929544
+topicality: 0.902929544
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.867474079
+topicality: 0.867474079
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.856076062
+topicality: 0.856076062
+, mid: "/m/07k6w8"
+description: "Small to medium-sized cats"
+score: 0.851744711
+topicality: 0.851744711
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.845015168
+topicality: 0.845015168
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.825322509
+topicality: 0.825322509
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.823495567
+topicality: 0.823495567
+, mid: "/m/0l7_8"
+description: "Floor"
+score: 0.823274314
+topicality: 0.823274314
+], 'IMG_0641.JPG', [mid: "/m/01yrx"
+description: "Cat"
+score: 0.948165
+topicality: 0.948165
+, mid: "/m/0307l"
+description: "Felidae"
+score: 0.893336594
+topicality: 0.893336594
+, mid: "/m/07k6w8"
+description: "Small to medium-sized cats"
+score: 0.855547071
+topicality: 0.855547071
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.851921201
+topicality: 0.851921201
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.831665397
+topicality: 0.831665397
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.815843582
+topicality: 0.815843582
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.765465796
+topicality: 0.765465796
+, mid: "/m/0g_3r"
+description: "Siamese"
+score: 0.743642449
+topicality: 0.743642449
+, mid: "/m/06z_nw"
+description: "Tail"
+score: 0.726747751
+topicality: 0.726747751
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.726497889
+topicality: 0.726497889
+], 'IMG_0643.JPG', [mid: "/m/01yrx"
+description: "Cat"
+score: 0.935303211
+topicality: 0.935303211
+, mid: "/m/0307l"
+description: "Felidae"
+score: 0.892088532
+topicality: 0.892088532
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.890536785
+topicality: 0.890536785
+, mid: "/m/0g_3r"
+description: "Siamese"
+score: 0.870461345
+topicality: 0.870461345
+, mid: "/m/03rszm"
+description: "Curtain"
+score: 0.858290136
+topicality: 0.858290136
+, mid: "/m/07k6w8"
+description: "Small to medium-sized cats"
+score: 0.850501776
+topicality: 0.850501776
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.844387352
+topicality: 0.844387352
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.81606257
+topicality: 0.81606257
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.798365
+topicality: 0.798365
+, mid: "/m/017fr0"
+description: "Balinese"
+score: 0.781856358
+topicality: 0.781856358
+], 'IMG_0644.JPG', [mid: "/m/01yrx"
+description: "Cat"
+score: 0.962669849
+topicality: 0.962669849
+, mid: "/m/05s2s"
+description: "Plant"
+score: 0.936338365
+topicality: 0.936338365
+, mid: "/m/0c_jw"
+description: "Furniture"
+score: 0.929465175
+topicality: 0.929465175
+, mid: "/m/083jv"
+description: "White"
+score: 0.921889722
+topicality: 0.921889722
+, mid: "/m/0307l"
+description: "Felidae"
+score: 0.895126522
+topicality: 0.895126522
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.878853202
+topicality: 0.878853202
+, mid: "/m/07k6w8"
+description: "Small to medium-sized cats"
+score: 0.856933892
+topicality: 0.856933892
+, mid: "/m/0fm3zh"
+description: "Flowerpot"
+score: 0.802746773
+topicality: 0.802746773
+, mid: "/m/08xgn7"
+description: "Comfort"
+score: 0.797668219
+topicality: 0.797668219
+, mid: "/m/03fp41"
+description: "Houseplant"
+score: 0.784493089
+topicality: 0.784493089
+], 'IMG_0646.JPG', [mid: "/m/01yrx"
+description: "Cat"
+score: 0.931962848
+topicality: 0.931962848
+, mid: "/m/083jv"
+description: "White"
+score: 0.92187649
+topicality: 0.92187649
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.856173515
+topicality: 0.856173515
+, mid: "/m/0307l"
+description: "Felidae"
+score: 0.849802673
+topicality: 0.849802673
+, mid: "/m/07k6w8"
+description: "Small to medium-sized cats"
+score: 0.823926687
+topicality: 0.823926687
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.815669179
+topicality: 0.815669179
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.815569103
+topicality: 0.815569103
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.774757385
+topicality: 0.774757385
+, mid: "/m/06z_nw"
+description: "Tail"
+score: 0.757238209
+topicality: 0.757238209
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.754587114
+topicality: 0.754587114
+], 'IMG_0649.JPG', [mid: "/m/01yrx"
+description: "Cat"
+score: 0.948905587
+topicality: 0.948905587
+, mid: "/m/0307l"
+description: "Felidae"
+score: 0.912402749
+topicality: 0.912402749
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.892310083
+topicality: 0.892310083
+, mid: "/m/07k6w8"
+description: "Small to medium-sized cats"
+score: 0.879944324
+topicality: 0.879944324
+, mid: "/m/0g_3r"
+description: "Siamese"
+score: 0.87730968
+topicality: 0.87730968
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.85342592
+topicality: 0.85342592
+, mid: "/m/017fr0"
+description: "Balinese"
+score: 0.823682904
+topicality: 0.823682904
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.816049159
+topicality: 0.816049159
+, mid: "/m/06z_nw"
+description: "Tail"
+score: 0.749665797
+topicality: 0.749665797
+, mid: "/m/05mqq3"
+description: "Snout"
+score: 0.74742341
+topicality: 0.74742341
+], 'IMG_0650.JPG', [mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.871039808
+topicality: 0.871039808
+, mid: "/m/0307l"
+description: "Felidae"
+score: 0.858793676
+topicality: 0.858793676
+, mid: "/m/01yrx"
+description: "Cat"
+score: 0.821688175
+topicality: 0.821688175
+, mid: "/m/07k6w8"
+description: "Small to medium-sized cats"
+score: 0.820369303
+topicality: 0.820369303
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.819756806
+topicality: 0.819756806
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.81560874
+topicality: 0.81560874
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.803597391
+topicality: 0.803597391
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.80233109
+topicality: 0.80233109
+, mid: "/m/037xy"
+description: "Gas"
+score: 0.775344789
+topicality: 0.775344789
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.76328373
+topicality: 0.76328373
+], 'IMG_0651.JPEG', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.961054325
+topicality: 0.961054325
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.892332733
+topicality: 0.892332733
+, mid: "/m/0h8nm96"
+description: "Dog supply"
+score: 0.889659524
+topicality: 0.889659524
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.878668129
+topicality: 0.878668129
+, mid: "/m/0h8jxfl"
+description: "Vision care"
+score: 0.854003251
+topicality: 0.854003251
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.820421457
+topicality: 0.820421457
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.815372944
+topicality: 0.815372944
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.802926421
+topicality: 0.802926421
+, mid: "/m/07_gml"
+description: "Working animal"
+score: 0.776633
+topicality: 0.776633
+, mid: "/m/0j272k5"
+description: "Eyewear"
+score: 0.76358968
+topicality: 0.76358968
+], 'IMG_0653.JPG', [mid: "/m/01yrx"
+description: "Cat"
+score: 0.919729054
+topicality: 0.919729054
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.894746304
+topicality: 0.894746304
+, mid: "/m/0307l"
+description: "Felidae"
+score: 0.885639
+topicality: 0.885639
+, mid: "/m/0g_3r"
+description: "Siamese"
+score: 0.872760594
+topicality: 0.872760594
+, mid: "/m/07k6w8"
+description: "Small to medium-sized cats"
+score: 0.865930736
+topicality: 0.865930736
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.824473679
+topicality: 0.824473679
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.815566957
+topicality: 0.815566957
+, mid: "/m/012ltm"
+description: "Birman"
+score: 0.757155716
+topicality: 0.757155716
+, mid: "/m/02w7c7"
+description: "Ragdoll"
+score: 0.749997616
+topicality: 0.749997616
+, mid: "/m/017fr0"
+description: "Balinese"
+score: 0.746758342
+topicality: 0.746758342
+], 'IMG_0654.JPG', [mid: "/m/01yrx"
+description: "Cat"
+score: 0.948206127
+topicality: 0.948206127
+, mid: "/m/0307l"
+description: "Felidae"
+score: 0.914501488
+topicality: 0.914501488
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.904787421
+topicality: 0.904787421
+, mid: "/m/07k6w8"
+description: "Small to medium-sized cats"
+score: 0.879382074
+topicality: 0.879382074
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.851436555
+topicality: 0.851436555
+, mid: "/m/036k5h"
+description: "Grey"
+score: 0.842227042
+topicality: 0.842227042
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.841578126
+topicality: 0.841578126
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.816118479
+topicality: 0.816118479
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.79737407
+topicality: 0.79737407
+, mid: "/m/06z_nw"
+description: "Tail"
+score: 0.769863367
+topicality: 0.769863367
+], 'IMG_0655.JPG', [mid: "/m/01yrx"
+description: "Cat"
+score: 0.966037869
+topicality: 0.966037869
+, mid: "/m/0307l"
+description: "Felidae"
+score: 0.907923341
+topicality: 0.907923341
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.905364335
+topicality: 0.905364335
+, mid: "/m/07k6w8"
+description: "Small to medium-sized cats"
+score: 0.868510723
+topicality: 0.868510723
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.862686574
+topicality: 0.862686574
+, mid: "/m/0lxkm"
+description: "Iris"
+score: 0.859536111
+topicality: 0.859536111
+, mid: "/m/017fr0"
+description: "Balinese"
+score: 0.829122782
+topicality: 0.829122782
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.815223217
+topicality: 0.815223217
+, mid: "/m/012ltm"
+description: "Birman"
+score: 0.777394354
+topicality: 0.777394354
+, mid: "/m/05mqq3"
+description: "Snout"
+score: 0.776099086
+topicality: 0.776099086
+], 'IMG_0679.jpg', [mid: "/m/03q69"
+description: "Hair"
+score: 0.982695222
+topicality: 0.982695222
+, mid: "/m/014sv8"
+description: "Eye"
+score: 0.939197
+topicality: 0.939197
+, mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.934516132
+topicality: 0.934516132
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.896021664
+topicality: 0.896021664
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.890768647
+topicality: 0.890768647
+, mid: "/m/039xj_"
+description: "Ear"
+score: 0.866787195
+topicality: 0.866787195
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.853583753
+topicality: 0.853583753
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.822102189
+topicality: 0.822102189
+, mid: "/m/0307l"
+description: "Felidae"
+score: 0.820693791
+topicality: 0.820693791
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.816133201
+topicality: 0.816133201
+], 'IMG_0726-1.jpg', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.948316157
+topicality: 0.948316157
+, mid: "/m/07yv9"
+description: "Vehicle"
+score: 0.903508186
+topicality: 0.903508186
+, mid: "/m/0k4j"
+description: "Car"
+score: 0.895494461
+topicality: 0.895494461
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.882044137
+topicality: 0.882044137
+, mid: "/m/0dkzw"
+description: "Seat belt"
+score: 0.877738535
+topicality: 0.877738535
+, mid: "/m/0307l"
+description: "Felidae"
+score: 0.860595465
+topicality: 0.860595465
+, mid: "/m/0h8kvwq"
+description: "Car seat cover"
+score: 0.846520305
+topicality: 0.846520305
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.846289754
+topicality: 0.846289754
+, mid: "/m/08xgn7"
+description: "Comfort"
+score: 0.826201558
+topicality: 0.826201558
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.814166725
+topicality: 0.814166725
+], 'IMG_0727-1.jpg', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.961336613
+topicality: 0.961336613
+, mid: "/m/01g5v"
+description: "Blue"
+score: 0.892130315
+topicality: 0.892130315
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.878123045
+topicality: 0.878123045
+, mid: "/m/0h8nm96"
+description: "Dog supply"
+score: 0.821684957
+topicality: 0.821684957
+, mid: "/m/05s2s"
+description: "Plant"
+score: 0.814785838
+topicality: 0.814785838
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.803437114
+topicality: 0.803437114
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.777805746
+topicality: 0.777805746
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.738704801
+topicality: 0.738704801
+, mid: "/m/02vwbzz"
+description: "Electric blue"
+score: 0.666713476
+topicality: 0.666713476
+, mid: "/m/0h8ks17"
+description: "Pet supply"
+score: 0.659067154
+topicality: 0.659067154
+], 'IMG_1693.jpg', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.948577523
+topicality: 0.948577523
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.875203967
+topicality: 0.875203967
+, mid: "/m/0h8nm96"
+description: "Dog supply"
+score: 0.853694201
+topicality: 0.853694201
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.818863392
+topicality: 0.818863392
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.799874842
+topicality: 0.799874842
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.745910287
+topicality: 0.745910287
+, mid: "/m/0h8ks17"
+description: "Pet supply"
+score: 0.730416656
+topicality: 0.730416656
+, mid: "/m/07_gml"
+description: "Working animal"
+score: 0.650497496
+topicality: 0.650497496
+, mid: "/m/05z87"
+description: "Plastic"
+score: 0.633552432
+topicality: 0.633552432
+, mid: "/m/0h8nt1x"
+description: "Household supply"
+score: 0.611350775
+topicality: 0.611350775
+], 'IMG_2862.jpg', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.949654
+topicality: 0.949654
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.872707
+topicality: 0.872707
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.853051603
+topicality: 0.853051603
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.849577844
+topicality: 0.849577844
+, mid: "/m/0l7_8"
+description: "Floor"
+score: 0.83178407
+topicality: 0.83178407
+, mid: "/m/0h8nlvj"
+description: "Dog clothes"
+score: 0.829790294
+topicality: 0.829790294
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.822645307
+topicality: 0.822645307
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.815265
+topicality: 0.815265
+, mid: "/m/08xgn7"
+description: "Comfort"
+score: 0.789314747
+topicality: 0.789314747
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.787578583
+topicality: 0.787578583
+], 'IMG_2890.jpg', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.957750857
+topicality: 0.957750857
+, mid: "/m/014sv8"
+description: "Eye"
+score: 0.935368121
+topicality: 0.935368121
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.885840654
+topicality: 0.885840654
+, mid: "/m/07j7r"
+description: "Tree"
+score: 0.878269732
+topicality: 0.878269732
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.866957903
+topicality: 0.866957903
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.815729618
+topicality: 0.815729618
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.807030141
+topicality: 0.807030141
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.803769529
+topicality: 0.803769529
+, mid: "/m/05s2s"
+description: "Plant"
+score: 0.800584078
+topicality: 0.800584078
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.770485163
+topicality: 0.770485163
+], 'IMG_2907.JPG', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.951157
+topicality: 0.951157
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.91057235
+topicality: 0.91057235
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.890266955
+topicality: 0.890266955
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.82482326
+topicality: 0.82482326
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.81511271
+topicality: 0.81511271
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.793015897
+topicality: 0.793015897
+, mid: "/m/05mqq3"
+description: "Snout"
+score: 0.760048568
+topicality: 0.760048568
+, mid: "/m/07_gml"
+description: "Working animal"
+score: 0.740508676
+topicality: 0.740508676
+, mid: "/m/083vt"
+description: "Wood"
+score: 0.695229
+topicality: 0.695229
+, mid: "/m/0265rtm"
+description: "Sporting Group"
+score: 0.69455266
+topicality: 0.69455266
+], 'IMG_2910.JPG', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.954993725
+topicality: 0.954993725
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.85792619
+topicality: 0.85792619
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.848888636
+topicality: 0.848888636
+, mid: "/m/0h8nlvj"
+description: "Dog clothes"
+score: 0.844150305
+topicality: 0.844150305
+, mid: "/m/0h8nm96"
+description: "Dog supply"
+score: 0.835441113
+topicality: 0.835441113
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.819647133
+topicality: 0.819647133
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.777549
+topicality: 0.777549
+, mid: "/m/03hlz0c"
+description: "Kitchen utensil"
+score: 0.75824064
+topicality: 0.75824064
+, mid: "/m/05mqq3"
+description: "Snout"
+score: 0.744279206
+topicality: 0.744279206
+, mid: "/m/07_gml"
+description: "Working animal"
+score: 0.732031703
+topicality: 0.732031703
+], 'IMG_3022.jpg', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.957322121
+topicality: 0.957322121
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.916843712
+topicality: 0.916843712
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.900799453
+topicality: 0.900799453
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.827012718
+topicality: 0.827012718
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.816115379
+topicality: 0.816115379
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.805890858
+topicality: 0.805890858
+, mid: "/m/07_gml"
+description: "Working animal"
+score: 0.78448
+topicality: 0.78448
+, mid: "/m/05mqq3"
+description: "Snout"
+score: 0.768135548
+topicality: 0.768135548
+, mid: "/m/0265rtm"
+description: "Sporting Group"
+score: 0.725637317
+topicality: 0.725637317
+, mid: "/m/017y8_"
+description: "Terrier"
+score: 0.724892557
+topicality: 0.724892557
+], 'IMG_3400.jpg', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.958525538
+topicality: 0.958525538
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.886633158
+topicality: 0.886633158
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.876145959
+topicality: 0.876145959
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.824829578
+topicality: 0.824829578
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.737074137
+topicality: 0.737074137
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.713278
+topicality: 0.713278
+, mid: "/m/0h8nm96"
+description: "Dog supply"
+score: 0.698526919
+topicality: 0.698526919
+, mid: "/g/11jy976z6"
+description: "Small terrier"
+score: 0.665586293
+topicality: 0.665586293
+, mid: "/m/017y8_"
+description: "Terrier"
+score: 0.619085193
+topicality: 0.619085193
+, mid: "/m/07_gml"
+description: "Working animal"
+score: 0.616978645
+topicality: 0.616978645
+], 'IMG_5185.jpg', [mid: "/m/04hgtk"
+description: "Head"
+score: 0.97350812
+topicality: 0.97350812
+, mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.960586548
+topicality: 0.960586548
+, mid: "/m/0kpmf"
+description: "Dog breed"
+score: 0.921089351
+topicality: 0.921089351
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.9053545
+topicality: 0.9053545
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.82860744
+topicality: 0.82860744
+, mid: "/m/05mqq3"
+description: "Snout"
+score: 0.772803485
+topicality: 0.772803485
+, mid: "/m/036hyn"
+description: "Toy dog"
+score: 0.746391356
+topicality: 0.746391356
+, mid: "/m/0265rtm"
+description: "Sporting Group"
+score: 0.714496
+topicality: 0.714496
+, mid: "/m/0cnmr"
+description: "Fur"
+score: 0.703858912
+topicality: 0.703858912
+, mid: "/m/01z5f"
+description: "Canidae"
+score: 0.701751
+topicality: 0.701751
+], 'IMG_5751.JPEG', [mid: "/m/0bt9lr"
+description: "Dog"
+score: 0.891534626
+topicality: 0.891534626
+, mid: "/m/01k0mv"
+description: "Road surface"
+score: 0.846493
+topicality: 0.846493
+, mid: "/m/01lqfm"
+description: "Public space"
+score: 0.810905278
+topicality: 0.810905278
+, mid: "/m/0180xr"
+description: "Neighbourhood"
+score: 0.81077081
+topicality: 0.81077081
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.808196545
+topicality: 0.808196545
+, mid: "/m/0dnhy"
+description: "Sidewalk"
+score: 0.79906559
+topicality: 0.79906559
+, mid: "/m/01c34b"
+description: "Flooring"
+score: 0.761663079
+topicality: 0.761663079
+, mid: "/m/01n5jq"
+description: "Poster"
+score: 0.748525321
+topicality: 0.748525321
+, mid: "/m/03yl64"
+description: "Companion dog"
+score: 0.746266186
+topicality: 0.746266186
+, mid: "/m/011s0"
+description: "Advertising"
+score: 0.714137614
+topicality: 0.714137614
+], 'wakeupcat.jpg', [mid: "/m/01yrx"
+description: "Cat"
+score: 0.956459463
+topicality: 0.956459463
+, mid: "/m/0d4v4"
+description: "Window"
+score: 0.938840091
+topicality: 0.938840091
+, mid: "/m/0307l"
+description: "Felidae"
+score: 0.89566052
+topicality: 0.89566052
+, mid: "/m/01lrl"
+description: "Carnivore"
+score: 0.885138333
+topicality: 0.885138333
+, mid: "/m/01k9lj"
+description: "Jaw"
+score: 0.880326807
+topicality: 0.880326807
+, mid: "/m/07k6w8"
+description: "Small to medium-sized cats"
+score: 0.863107383
+topicality: 0.863107383
+, mid: "/m/0244x1"
+description: "Gesture"
+score: 0.852604866
+topicality: 0.852604866
+, mid: "/m/01l7qd"
+description: "Whiskers"
+score: 0.84995687
+topicality: 0.84995687
+, mid: "/m/031b6r"
+description: "Window blind"
+score: 0.834581673
+topicality: 0.834581673
+, mid: "/m/0276krm"
+description: "Fawn"
+score: 0.816135049
+topicality: 0.816135049
+]]

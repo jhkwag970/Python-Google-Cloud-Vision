@@ -7,6 +7,7 @@ class ImageLabel:
     def open_client(self):
         print("Open up Google Cloud Client Connection...")
         self.__client = vision.ImageAnnotatorClient()
+        
 
     def detect_labels(self,path):
         path = os.path.abspath(path)
@@ -18,6 +19,7 @@ class ImageLabel:
 
         response = self.__client.label_detection(image=image)
         labels = response.label_annotations
+
 
         # for label in labels:
         #     print(label.description)
