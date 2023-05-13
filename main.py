@@ -1,9 +1,7 @@
 from OCR import ImageLabel
+from EntityAnnotation import Annotation
 import os
 import sys
-
-
-sys.stdout = open('output.txt', 'w')
 
 path="resources/"
 file_list = os.listdir(path)
@@ -11,15 +9,28 @@ file_list = os.listdir(path)
 ocr_inst = ImageLabel()
 #Open up Client 
 ocr_inst.open_client()
-#Label Processing
-img_list=[]
-for file in file_list:
-    label=[]
-    img_list.append(file)
-    label = ocr_inst.detect_labels(path+file)
-    img_list.append(label)
 
-print(img_list)
+sys.stdout = open('output.txt', 'w')
+
+#Label Processing
+annotation_list=[]
+for file in file_list:
+    labels = ocr_inst.detect_labels(path+file)
+    i=0
+    for label in labels:
+        annotation_info = Annotation(file, label.description,label.score)
+        annotation_list.append(annotation_info)
+        i+=1
+        if(i==3):
+            break
+
+print(len(annotation_list))
+for ann in annotation_list:
+    print("File: ",ann.getFile())
+    print("Desc: ", ann.getDesc())
+    print("Score", ann.getScore())
+    print("-------------------")
+
 
 # # #Examples
 # print(label)
@@ -32,7 +43,8 @@ print(img_list)
 # print(label[0].topicality)
 
 
-# my_list = [    
+# my_list = [   
+#     "aaaa",
 #     {'mid': '/m/01yrx', 'description': 'Cat', 'score': 0.956459463, 'topicality': 0.956459463},
 #     {'mid': '/m/0d4v4', 'description': 'Window', 'score': 0.938840091, 'topicality': 0.938840091},
 #     {'mid': '/m/0307l', 'description': 'Felidae', 'score': 0.89566052, 'topicality': 0.89566052},
@@ -41,8 +53,7 @@ print(img_list)
 #     {'mid': '/m/0276krm', 'description': 'Fawn', 'score': 0.816135049, 'topicality': 0.816135049}
 # ]
 
-# r = RandomWords()
-# print(r.get_random_word())
+# print(my_list[0])
 
 
 
