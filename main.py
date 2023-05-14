@@ -24,14 +24,6 @@ for file in file_list:
         if(i==3):
             break
 
-print(len(annotation_list))
-for ann in annotation_list:
-    print("File: ",ann.getFile())
-    print("Desc: ", ann.getDesc())
-    print("Score", ann.getScore())
-    print("-------------------")
-
-
 # # #Examples
 # print(label)
 # print("-----------------------------")
