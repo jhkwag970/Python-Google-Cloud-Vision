@@ -1,5 +1,5 @@
 from OCR import ImageLabel
-from EntityAnnotation import Annotation
+from EntityImg import Image
 import os
 import sys
 
@@ -10,19 +10,24 @@ ocr_inst = ImageLabel()
 #Open up Client 
 ocr_inst.open_client()
 
-sys.stdout = open('output.txt', 'w')
+labels = ocr_inst.detect_labels("resources/ddjam.jpg")
 
-#Label Processing
-annotation_list=[]
+# sys.stdout = open('output.txt', 'w')
+
+# #Label Processing
+imgList=[]
 for file in file_list:
     labels = ocr_inst.detect_labels(path+file)
-    i=0
+
+    annotationList=[]
+    topicalityList=[]
     for label in labels:
-        annotation_info = Annotation(file, label.description,label.score)
-        annotation_list.append(annotation_info)
-        i+=1
-        if(i==3):
-            break
+        annotationList.append(label.description)
+        topicalityList.append(label.topicality)
+    
+    ImgInfo = Image(file, annotationList, topicalityList)
+    imgList.append(ImgInfo)
+
 
 # # #Examples
 # print(label)
