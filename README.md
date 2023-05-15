@@ -33,5 +33,7 @@ Python for Google Cloud Vision OCR for Image Folder Organizer
   <li>OCR Detecting Labels in Img:https://cloud.google.com/vision/docs/labels</li>
   <li>AnnotateImageResponse (Entity Annotation): https://cloud.google.com/vision/docs/reference/rest/v1/AnnotateImageResponse#EntityAnnotation</li>
   <li>Nltk (stemming, Lemmatization): https://www.nltk.org/</li>
+  <li>word2vec: https://pypi.org/project/word2vec/ </li>
+  <li> sklearn: https://scikit-learn.org/stable/install.html</li>
   
   </ul>
