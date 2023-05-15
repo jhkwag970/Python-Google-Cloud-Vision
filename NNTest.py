@@ -65,21 +65,37 @@ import numpy as np
 from sklearn.cluster import KMeans
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-# Define the list of words
+# text_data = ['나는 배가 고프다', '내일 점심 뭐먹지', '내일 공부 해야겠다', '점심 먹고 공부 해야지']
+# tfidf_vectorizer = TfidfVectorizer()
+# tfidf_vectorizer.fit(text_data)
+
+# print(tfidf_vectorizer.vocabulary_)
+
+# sentence = [text_data[3]] # ['점심 먹고 공부 해야지']
+# print(tfidf_vectorizer.transform(sentence))
+
+# # Define the list of words
 words = ['Carnivore', 'cat', 'dog', 'dog breed', 'dog clothes', 'dog supply', 'felidae', 'plant', 'siamese', 'sky', 'temple', 'tower', 'vertebrate', 'world']
 
-# Create a TfidfVectorizer object to convert words to vectors
-vectorizer = TfidfVectorizer()
-X = vectorizer.fit_transform(words)
+tfidf_vectorizer = TfidfVectorizer()
+tfidf_vectorizer.fit(words)
 
-# Cluster the vectors using k-means
-kmeans = KMeans(n_clusters=3)
-kmeans.fit(X)
+print(tfidf_vectorizer.vocabulary_)
+
+# # Create a TfidfVectorizer object to convert words to vectors
+# vectorizer = TfidfVectorizer()
+# X = vectorizer.fit_transform(words)
+
+# print(X)
+
+# # Cluster the vectors using k-means
+# kmeans = KMeans(n_clusters=3)
+# kmeans.fit(X)
 
 # Print the cluster labels and the words in each cluster
-for i in range(kmeans.n_clusters):
-    cluster_words = [words[j] for j in range(len(words)) if kmeans.labels_[j] == i]
-    print(f"Cluster {i}: {cluster_words}")
+# for i in range(kmeans.n_clusters):
+#     cluster_words = [words[j] for j in range(len(words)) if kmeans.labels_[j] == i]
+#     print(f"Cluster {i}: {cluster_words}")
 
 
 
