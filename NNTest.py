@@ -41,3 +41,45 @@ def stemmingCluster():
     
     for w in words:
         print(w, " : ", ps.stem(w))
+
+
+#PyDictionary
+#https://pypi.org/project/PyDictionary/
+#pip install -e git+https://github.com/yeahwhat-mc/goslate#egg=goslate
+#pip install PyDictionary
+
+# from PyDictionary import PyDictionary
+# dictionary=PyDictionary()
+
+# print (dictionary.meaning("church"))
+
+
+# import spacy
+
+# nlp = spacy.load('en') 
+
+# apples, and_, oranges = nlp(u'apples and oranges')
+# apples.similarity(oranges)
+
+import numpy as np
+from sklearn.cluster import KMeans
+from sklearn.feature_extraction.text import TfidfVectorizer
+
+# Define the list of words
+words = ['Carnivore', 'cat', 'dog', 'dog breed', 'dog clothes', 'dog supply', 'felidae', 'plant', 'siamese', 'sky', 'temple', 'tower', 'vertebrate', 'world']
+
+# Create a TfidfVectorizer object to convert words to vectors
+vectorizer = TfidfVectorizer()
+X = vectorizer.fit_transform(words)
+
+# Cluster the vectors using k-means
+kmeans = KMeans(n_clusters=3)
+kmeans.fit(X)
+
+# Print the cluster labels and the words in each cluster
+for i in range(kmeans.n_clusters):
+    cluster_words = [words[j] for j in range(len(words)) if kmeans.labels_[j] == i]
+    print(f"Cluster {i}: {cluster_words}")
+
+
+
