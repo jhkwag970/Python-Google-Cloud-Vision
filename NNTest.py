@@ -1,7 +1,15 @@
-from PyDictionary import PyDictionary
-dictionary=PyDictionary()
+# from PyDictionary import PyDictionary
+# dictionary=PyDictionary()
 
-print (dictionary.meaning("cat").get("adj"))
+# print (dictionary.meaning("cat").get("Noun")[0])
 
-if(dictionary.meaning("cat").get("adj") == None):
-    print("this")
+# tmp = dictionary.meaning("cat").get("adj")
+
+# if(tmp==None):
+#     print("this")
+
+tmp = {}
+
+tmp ["asd"] = [1,2,3]
+
+print(tmp)

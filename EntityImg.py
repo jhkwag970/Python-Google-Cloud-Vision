@@ -1,8 +1,7 @@
 class Image:
-    def __init__(self, file, annotationList, topicalityList):
+    def __init__(self, file, annotationList):
         self.__file = file
         self.__annotationList = annotationList
-        self.__topicalityList = topicalityList
     
     def getFile(self):
         return self.__file
@@ -10,13 +9,10 @@ class Image:
     def getAnnotationList(self):
         return self.__annotationList
     
-    def getTopicalityList(self):
-        return self.__topicalityList
-    
-    
     def toString(self):
         print(self.getFile())
-        for annotation, topicality in zip(self.__annotationList, self.__topicalityList):
-            print(annotation, ": ", topicality)
-        print("---------------------------------")
+        for k, v in self.__annotationList.items():
+            print(k)
+            print(v)
+        print("-----------------------------------")
 

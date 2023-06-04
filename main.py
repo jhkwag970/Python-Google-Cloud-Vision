@@ -22,22 +22,29 @@ for file in file_list:
 
     #list of descriptions and topicalities of one image
     imgDescriptionList={}
-    imgTopicalityList=[]
+
     
     i=0
     for label in labels:
         imgMeaningList=[]
+        labelDefinition = dictionary.meaning(label.description).get('Noun')
 
-        imgDescriptionList[label]= dictionary.meaning(label)['Noun']
-        imgTopicalityList.append(label.topicality)
+        if(labelDefinition == None):
+            labelDefinition.append(label.description)
+
+        imgDescriptionList[label.description]= labelDefinition
+    
         #getting only top three (topicalities) labels of image
         i+=1
         if(i==3):
             break
     
-    ImgInfo = Image(file, imgDescriptionList, imgTopicalityList)
-    imgList.append(ImgInfo)
+    imgInfo = Image(file, imgDescriptionList)
+    imgList.append(imgInfo)
 
+
+for img in imgList:
+    img.toString()
 
 
 
