@@ -35,5 +35,6 @@ Python for Google Cloud Vision OCR for Image Folder Organizer
   <li>Nltk (stemming, Lemmatization): https://www.nltk.org/</li>
   <li>word2vec: https://pypi.org/project/word2vec/ </li>
   <li> sklearn: https://scikit-learn.org/stable/install.html</li>
+  <li>PyDictionary: https://pypi.org/project/PyDictionary/</li>
   
   </ul>
