@@ -13,6 +13,7 @@ class Image:
     def getTopicalityList(self):
         return self.__topicalityList
     
+    
     def toString(self):
         print(self.getFile())
         for annotation, topicality in zip(self.__annotationList, self.__topicalityList):
