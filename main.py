@@ -13,6 +13,8 @@ import seaborn as sns
 import warnings
 
 csv_path = 'resources/csv/'
+path="resources/pictures/"
+
 def csv_save(df, name):
     os.chdir(csv_path)
     df.to_csv(name, index=False)
@@ -20,7 +22,7 @@ def csv_save(df, name):
 def csv_load(name):
     return pd.read_csv(csv_path+name)
 
-# path="resources/pictures/"
+
 # fileList = os.listdir(path)
 
 # ocr_inst = ImageLabel()
@@ -30,6 +32,7 @@ def csv_load(name):
 
 # #List of all images with own labels and topicalities
 # descriptionList=[]
+# topicalityList=[]
 # dictionary=PyDictionary()
 # for file in fileList:
 #     labels = ocr_inst.detect_labels(path+file)
@@ -40,6 +43,9 @@ def csv_load(name):
 
 #         if ' ' in label.description:
 #             continue
+
+#         if i == 0:
+#             topicalityList.append(label.description)
         
 #         labelDefinitions = dictionary.meaning(label.description).get('Noun')
 
@@ -47,6 +53,8 @@ def csv_load(name):
 #             labelDefinitions.append(label.description)
 
 #         labelList.append('.'.join(labelDefinitions))
+
+        
 #         i+=1
 #         if(i==3):
 #             break
@@ -54,15 +62,17 @@ def csv_load(name):
 #     descriptionList.append('. '.join(labelList))
 
 
-# document_df = pd.DataFrame({'imagename':fileList, 'description':descriptionList})
+# document_df = pd.DataFrame({'imagename':fileList, 'description':descriptionList, 'topicality':topicalityList})
 # csv_save(document_df, 'img_df.csv')
 
+####-------------------------------------
+
 img_df = csv_load('img_df.csv')
-print(img_df)
 
 from nltk.stem import WordNetLemmatizer
 import nltk
 import string
+import shutil
 
 # 단어 원형 추출 함수
 lemmar = WordNetLemmatizer()
@@ -105,6 +115,28 @@ cluster_centers = km_cluster.cluster_centers_
 # cluster 라벨 추가
 img_df['cluster_label'] = cluster_label
 
-csv_save(img_df, 'img_cluster_df.csv')
-print(img_df)
+#csv_save(img_df, 'img_cluster_df.csv')
+
+#-------------------------------------
+
+# if not os.path.isdir(path+"example"):
+#     print("creating folder")
+#     os.makedirs(path+"example")
+# else:
+#     print("folder exist")
+
+# shutil.move(path+"tmp.jpg", path+"example/tmp.jpg")
+
+#-------------------------------------
+
+imgNameList = img_df["imagename"]
+clusterLabelList = img_df["cluster_label"]
+
+for img, cluster in zip(imgNameList, clusterLabelList):
+    cluster_str = str(cluster)
+    import shutil
+    if not os.path.isdir(path+cluster_str):
+        os.makedirs(path+cluster_str)
+
+    shutil.move(path+img, path+cluster_str+"/"+img)
 
