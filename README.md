@@ -114,7 +114,8 @@ You can find the csv file under resources/csv
 ![Result_6](https://github.com/jhkwag970/Python-OCR-Picture-Organizer/assets/54969114/e30f5cc1-7805-4d05-856d-0515c9e3a460)
 
 <h4>Code Proecssing Time:</h4>
-![Time](https://github.com/jhkwag970/Python-OCR-Picture-Organizer/assets/54969114/c62a3e20-b6bf-4825-986d-4afa89a9234b)
+
+![Time](https://github.com/jhkwag970/Python-OCR-Picture-Organizer/assets/54969114/b3a5f0b5-0aef-4fbe-bd3f-a590b3cf43c2)
 
 <h3>Issues & Future Development Plan</h3>
 
