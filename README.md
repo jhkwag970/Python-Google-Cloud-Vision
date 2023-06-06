@@ -96,7 +96,8 @@ You can find the csv file under resources/csv
 <h3>Result</h3>
 
 <h4>Before Clustering:</h4>
-![Before_Sort](https://github.com/jhkwag970/Python-OCR-Picture-Organizer/assets/54969114/31448198-5816-4c3e-a569-fb1713cb739d)
+
+![Before_Sort](https://github.com/jhkwag970/Python-OCR-Picture-Organizer/assets/54969114/5cd6602f-320a-454f-827b-878e2363ba92)
 
 <h4>After Clustering:</h4>
 
