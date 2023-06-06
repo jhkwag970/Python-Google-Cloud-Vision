@@ -1,8 +1,2 @@
-IMG_0624.JPG
-Cat
-['feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats', 'an informal term for a youth or man', 'a spiteful woman gossip', 'the leaves of the shrub Catha edulis which are chewed like tobacco or used to make tea; has the effect of a euphoric stimulant', 'a whip with nine knotted cords', 'a large tracked vehicle that is propelled by two endless metal belts; frequently used for moving earth in construction and farm work', 'any of several large cats typically able to roar and living in the wild', 'a method of examining body organs by scanning them with X rays and using a computer to construct a series of cross-sectional scans along a single axis']
-Siamese
-['a branch of the Tai languages', 'a native or inhabitant of Thailand', 'an inlet with two or more couplings to which a hose can be attached so that fire engines can pump water into the sprinkler system of a building', 'a slender short-haired blue-eyed breed of cat having a pale coat with dark ears paws face and tail tip']
-Felidae
-['cats; wildcats; lions; leopards; cheetahs; saber-toothed tigers']
------------------------------------
+      imagename                                        description
+0  IMG_0624.JPG  feline mammal usually having thick soft fur an...

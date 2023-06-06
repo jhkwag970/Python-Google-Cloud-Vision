@@ -1,53 +1,63 @@
 from OCR import ImageLabel
-from EntityImg import Image
 from PyDictionary import PyDictionary
-import os
+import glob, os
 import sys
 
-path="resources/"
-file_list = os.listdir(path)
+import numpy as np
+import pandas as pd
 
-ocr_inst = ImageLabel()
-#Open up Client 
-ocr_inst.open_client()
-sys.stdout = open('output.txt', 'w')
+import matplotlib as mpl
+import matplotlib.pyplot as plt
+import seaborn as sns
 
-# #Label Processing
+import warnings
 
-#List of all images with own labels and topicalities
-imgList=[]
-dictionary=PyDictionary()
-for file in file_list:
-    labels = ocr_inst.detect_labels(path+file)
 
-    #list of descriptions and topicalities of one image
-    imgDescriptionList={}
+def csv_save(df):
+    os.chdir('resources/csv/')
+    df.to_csv('img_df.csv')
 
+def csv_load():
+    return pd.read_csv('resources/csv/img_df.csv')
+
+# path="resources/pictures/"
+# fileList = os.listdir(path)
+
+# ocr_inst = ImageLabel()
+# #Open up Client 
+# ocr_inst.open_client()
+# #sys.stdout = open('output.txt', 'w')
+
+# #List of all images with own labels and topicalities
+# descriptionList=[]
+# dictionary=PyDictionary()
+# for file in fileList:
+#     labels = ocr_inst.detect_labels(path+file)
+
+#     i=0
+#     labelList=[]
+#     for label in labels:
+
+#         if ' ' in label.description:
+#             continue
+        
+#         labelDefinitions = dictionary.meaning(label.description).get('Noun')
+
+#         if(labelDefinitions == None):
+#             labelDefinitions.append(label.description)
+
+#         labelList.append('.'.join(labelDefinitions))
+#         i+=1
+#         if(i==3):
+#             break
     
-    i=0
-    for label in labels:
-        imgMeaningList=[]
-        labelDefinition = dictionary.meaning(label.description).get('Noun')
-
-        if(labelDefinition == None):
-            labelDefinition.append(label.description)
-
-        imgDescriptionList[label.description]= labelDefinition
-    
-        #getting only top three (topicalities) labels of image
-        i+=1
-        if(i==3):
-            break
-    
-    imgInfo = Image(file, imgDescriptionList)
-    imgList.append(imgInfo)
+#     descriptionList.append('. '.join(labelList))
 
 
-for img in imgList:
-    img.toString()
+# document_df = pd.DataFrame({'imagename':fileList, 'description':descriptionList})
+# csv_save(document_df)
 
-
-
-
+img_df = csv_load()
+print(img_df)
 
 
