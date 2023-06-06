@@ -1,16 +1,10 @@
 from OCR import ImageLabel
 from PyDictionary import PyDictionary
-import glob, os
-import sys
-
-import numpy as np
+import os, time
 import pandas as pd
 
-import matplotlib as mpl
-import matplotlib.pyplot as plt
-import seaborn as sns
-
 import warnings
+warnings.filterwarnings("ignore")
 
 csv_path = 'resources/csv/'
 path="resources/pictures/"
@@ -22,121 +16,64 @@ def csv_save(df, name):
 def csv_load(name):
     return pd.read_csv(csv_path+name)
 
+def creatingDf(ocr_inst, fileList):
+    start=time.process_time()
+    #List of all images with own labels and topicalities
+    descriptionList=[]
+    topicalityList=[]
+    dictionary=PyDictionary()
+    for file in fileList:
+        labels = ocr_inst.detect_labels(path+file)
 
-# fileList = os.listdir(path)
+        i=0
+        labelList=[]
+        for label in labels:
 
-# ocr_inst = ImageLabel()
-# #Open up Client 
-# ocr_inst.open_client()
-# #sys.stdout = open('output.txt', 'w')
+            if ' ' in label.description:
+                continue
 
-# #List of all images with own labels and topicalities
-# descriptionList=[]
-# topicalityList=[]
-# dictionary=PyDictionary()
-# for file in fileList:
-#     labels = ocr_inst.detect_labels(path+file)
+            if i == 0:
+                topicalityList.append(label.description)
+            
+            labelDefinitions = dictionary.meaning(label.description).get('Noun')
 
-#     i=0
-#     labelList=[]
-#     for label in labels:
+            if(labelDefinitions == None):
+                labelDefinitions.append(label.description)
 
-#         if ' ' in label.description:
-#             continue
+            labelList.append('.'.join(labelDefinitions))
 
-#         if i == 0:
-#             topicalityList.append(label.description)
+            i+=1
+            if(i==3):
+                break
         
-#         labelDefinitions = dictionary.meaning(label.description).get('Noun')
+        descriptionList.append('. '.join(labelList))
 
-#         if(labelDefinitions == None):
-#             labelDefinitions.append(label.description)
-
-#         labelList.append('.'.join(labelDefinitions))
-
-        
-#         i+=1
-#         if(i==3):
-#             break
-    
-#     descriptionList.append('. '.join(labelList))
+    end=time.process_time()
+    print("Total Process_time: ", end-start, "seconds")
+    return pd.DataFrame({'imagename':fileList, 'description':descriptionList, 'topicality':topicalityList})
 
 
-# document_df = pd.DataFrame({'imagename':fileList, 'description':descriptionList, 'topicality':topicalityList})
-# csv_save(document_df, 'img_df.csv')
+totalStart=time.process_time()
+fileList = os.listdir(path)
 
-####-------------------------------------
+ocr_inst = ImageLabel()
+#Open up Client 
+ocr_inst.open_client()
 
-img_df = csv_load('img_df.csv')
+img_df = creatingDf(ocr_inst, fileList)
 
-from nltk.stem import WordNetLemmatizer
-import nltk
-import string
-import shutil
+import TfidfVectorizer
 
-# 단어 원형 추출 함수
-lemmar = WordNetLemmatizer()
-def LemTokens(tokens):
-    return [lemmar.lemmatize(token) for token in tokens]
+feature_vect = TfidfVectorizer.Tfidf(img_df)
 
-# 특수 문자 사전 생성: {33: None ...}
-# ord(): 아스키 코드 생성
-remove_punct_dict = dict((ord(punct), None) for punct in string.punctuation)
+import KMeanClustering
 
-# 특수 문자 제거 및 단어 원형 추출
-def LemNormalize(text):
-    # 텍스트 소문자 변경 후 특수 문자 제거
-    text_new = text.lower().translate(remove_punct_dict)
-    
-    # 단어 토큰화
-    word_tokens = nltk.word_tokenize(text_new)
-    
-    # 단어 원형 추출
-    return LemTokens(word_tokens)
+KMeanClustering.clustering(feature_vect, img_df)
 
-from sklearn.feature_extraction.text import TfidfVectorizer
+import FolderCreater
 
-tfidf_vect = TfidfVectorizer(stop_words='english' , ngram_range=(1,2), 
-                             tokenizer = LemNormalize, min_df=0.05, max_df=0.85)
+FolderCreater.folderCreate(img_df, path)
 
-# 피처 벡터화: TF-IDF
-feature_vect = tfidf_vect.fit_transform(img_df['description'])
+totalEnd=time.process_time()
 
-from sklearn.cluster import KMeans
-
-# KMeans: 5
-km_cluster = KMeans(n_clusters=5, max_iter=10000, random_state=0)
-km_cluster.fit(feature_vect)
-
-# cluster 및 중심 좌표 정보
-cluster_label = km_cluster.labels_
-cluster_centers = km_cluster.cluster_centers_
-
-# cluster 라벨 추가
-img_df['cluster_label'] = cluster_label
-
-#csv_save(img_df, 'img_cluster_df.csv')
-
-#-------------------------------------
-
-# if not os.path.isdir(path+"example"):
-#     print("creating folder")
-#     os.makedirs(path+"example")
-# else:
-#     print("folder exist")
-
-# shutil.move(path+"tmp.jpg", path+"example/tmp.jpg")
-
-#-------------------------------------
-
-imgNameList = img_df["imagename"]
-clusterLabelList = img_df["cluster_label"]
-
-for img, cluster in zip(imgNameList, clusterLabelList):
-    cluster_str = str(cluster)
-    import shutil
-    if not os.path.isdir(path+cluster_str):
-        os.makedirs(path+cluster_str)
-
-    shutil.move(path+img, path+cluster_str+"/"+img)
-
+print("Total Process_time: ", totalEnd-totalStart, "seconds")
