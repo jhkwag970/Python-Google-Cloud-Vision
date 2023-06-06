@@ -125,6 +125,8 @@ Issue that the project currently has is the timing issue. Eventhough the code pr
 
 Another issue is Google Clound Vision API that I am using is free trial version. It mean, I cannot use the project after August. Moroever, since it is free trial version, there is limited number of picture that we can process to get labeling. Pricing can be found in (https://cloud.google.com/vision/pricing).
 
+In the later version, I will delete the PyDictionary and will only use the labels and topicality to create clustering. (maybe useing cosine similairty rules) https://en.wikipedia.org/wiki/Cosine_similarity
+
 <h4>Credential</h4>
 
 <ul>
